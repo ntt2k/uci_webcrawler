@@ -27,23 +27,23 @@ public class Crawler {
 		return null;
 	}
 
-    public static void main(String[] args) {
-        CrawlConfig crawlConfig = new CrawlConfig();
-        crawlConfig.setCrawlStorageFolder("./crawler4jStorage");
-        System.out.println(crawlConfig.toString());
-
-
-        // Start Controller
-        PageFetcher pageFetcher = new PageFetcher(crawlConfig);
-        RobotstxtConfig robotstxtConfig = new RobotstxtConfig();
-        RobotstxtServer robotstxtServer = new RobotstxtServer(robotstxtConfig, pageFetcher);
-        try {
-            CrawlController crawlController = new CrawlController(crawlConfig,
-                    pageFetcher, robotstxtServer);
-        }
-        catch (Exception exception) {
-            System.out.println("Exception: " + exception.getMessage());
-        }
-    }
+//    public static void main(String[] args) {
+//        CrawlConfig crawlConfig = new CrawlConfig();
+//        crawlConfig.setCrawlStorageFolder("./crawler4jStorage");
+//        System.out.println(crawlConfig.toString());
+//
+//
+//        // Start Controller
+//        PageFetcher pageFetcher = new PageFetcher(crawlConfig);
+//        RobotstxtConfig robotstxtConfig = new RobotstxtConfig();
+//        RobotstxtServer robotstxtServer = new RobotstxtServer(robotstxtConfig, pageFetcher);
+//        try {
+//            CrawlController crawlController = new CrawlController(crawlConfig,
+//                    pageFetcher, robotstxtServer);
+//        }
+//        catch (Exception exception) {
+//            System.out.println("Exception: " + exception.getMessage());
+//        }
+//    }
 }
 

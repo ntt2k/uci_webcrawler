@@ -44,11 +44,12 @@ public class BasicCrawler extends WebCrawler {
      * You should implement this function to specify whether the given url
      * should be crawled or not (based on your crawling logic).
      */
-//    @Override
-    public boolean shouldVisit(Page page, WebURL url) {
+    @Override
+    public boolean shouldVisit(WebURL url) {
         String href = url.getURL().toLowerCase();
 
         return !BINARY_FILES_EXTENSIONS.matcher(href).matches() && href.startsWith("http://www.ics.uci.edu/");
+//        return !BINARY_FILES_EXTENSIONS.matcher(href).matches() && href.startsWith("http://ntt2k.technology/");
     }
 
     /**
@@ -65,13 +66,13 @@ public class BasicCrawler extends WebCrawler {
         String parentUrl = page.getWebURL().getParentUrl();
         String anchor = page.getWebURL().getAnchor();
 
-        logger.debug("Docid: {}" + docid);
+        logger.info("Docid: {}" + docid);
         logger.info("URL: " + url);
-        logger.debug("Domain: '{}'" + domain);
-        logger.debug("Sub-domain: '{}'" + subDomain);
-        logger.debug("Path: '{}'" + path);
-        logger.debug("Parent page: {}" + parentUrl);
-        logger.debug("Anchor text: {}" + anchor);
+        logger.info("Domain: '{}'" + domain);
+        logger.info("Sub-domain: '{}'" + subDomain);
+        logger.info("Path: '{}'" + path);
+        logger.info("Parent page: {}" + parentUrl);
+        logger.info("Anchor text: {}" + anchor);
 
         // Print out
         System.out.println("Docid: " + docid);
@@ -88,9 +89,9 @@ public class BasicCrawler extends WebCrawler {
             String html = htmlParseData.getHtml();
             List<WebURL> links = htmlParseData.getOutgoingUrls();
 
-            logger.debug("Text length: " + text.length());
-            logger.debug("Html length: " + html.length());
-            logger.debug("Number of outgoing links: {}" + links.size());
+            logger.info("Text length: " + text.length());
+            logger.info("Html length: " + html.length());
+            logger.info("Number of outgoing links: {}" + links.size());
 
             // Print out
             System.out.println("Text length: " + text.length());
@@ -101,10 +102,10 @@ public class BasicCrawler extends WebCrawler {
         Header[] responseHeaders = page.getFetchResponseHeaders();
         if (responseHeaders != null) {
 
-            logger.debug("Response headers:");
+            logger.info("Response headers:");
             System.out.println("Response headers:");
             for (Header header : responseHeaders) {
-                logger.debug("\t{}: {}" + header.getName() + " " + header.getValue());
+                logger.info("\t{}: {}" + header.getName() + " " + header.getValue());
 
                 System.out.println("\t" + header.getName() + ": " + header.getValue());
             }

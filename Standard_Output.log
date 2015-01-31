@@ -1,0 +1,29 @@
+ INFO [main] Crawler 1 started.
+ INFO [main] Crawler 2 started.
+ INFO [main] Crawler 3 started.
+ INFO [main] Crawler 4 started.
+ INFO [Crawler 1] Docid: {}1
+ INFO [Crawler 1] URL: http://ntt2k.technology/
+ INFO [Crawler 1] Domain: '{}'ntt2k.technology
+ INFO [Crawler 1] Sub-domain: '{}'
+ INFO [Crawler 1] Path: '{}'/
+ INFO [Crawler 1] Parent page: {}null
+ INFO [Crawler 1] Anchor text: {}null
+ INFO [Crawler 1] Text length: 6287
+ INFO [Crawler 1] Html length: 53736
+ INFO [Crawler 1] Number of outgoing links: {}175
+ INFO [Crawler 1] Response headers:
+ INFO [Crawler 1] 	{}: {}Vary Cookie
+ INFO [Crawler 1] 	{}: {}X-Pingback http://ntt2k.technology/xmlrpc.php
+ INFO [Crawler 1] 	{}: {}Content-Type text/html; charset=UTF-8
+ INFO [Crawler 1] 	{}: {}Vary Accept-Encoding
+ INFO [Crawler 1] 	{}: {}Date Sat, 31 Jan 2015 18:10:55 GMT
+ INFO [Crawler 1] 	{}: {}Server Google Frontend
+ INFO [Crawler 1] 	{}: {}Cache-Control private
+ INFO [Crawler 1] 	{}: {}Alternate-Protocol 80:quic,p=0.02,80:quic,p=0.02
+ INFO [Crawler 1] 	{}: {}Accept-Ranges none
+ INFO [Crawler 1] 	{}: {}Transfer-Encoding chunked
+ INFO [Thread-1] It looks like no thread is working, waiting for 10 seconds to make sure...
+ INFO [Thread-1] No thread is working and no more URLs are in queue waiting for another 10 seconds to make sure...
+ INFO [Thread-1] All of the crawlers are stopped. Finishing the process...
+ INFO [Thread-1] Waiting for 10 seconds before final clean up...
