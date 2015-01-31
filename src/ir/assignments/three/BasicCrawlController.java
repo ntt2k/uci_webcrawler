@@ -123,7 +123,9 @@ public class BasicCrawlController {
      */
         controller.start(BasicCrawler.class, numberOfCrawlers);
 
-        System.out.println("TaDa!!! Crawling completed!");
+        System.out.println("\n------------------------------");
+        System.out.println("\n| TaDa!!! Crawling completed! |");
+        System.out.println("\n------------------------------");
     }
 }
 

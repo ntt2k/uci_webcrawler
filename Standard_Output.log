@@ -2,27 +2,1790 @@
  INFO [main] Crawler 2 started.
  INFO [main] Crawler 3 started.
  INFO [main] Crawler 4 started.
- INFO [Crawler 1] Docid: {}1
+ INFO [Crawler 1] Docid: 1
  INFO [Crawler 1] URL: http://ntt2k.technology/
- INFO [Crawler 1] Domain: '{}'ntt2k.technology
- INFO [Crawler 1] Sub-domain: '{}'
- INFO [Crawler 1] Path: '{}'/
- INFO [Crawler 1] Parent page: {}null
- INFO [Crawler 1] Anchor text: {}null
+ INFO [Crawler 1] Domain: ntt2k.technology
+ INFO [Crawler 1] Sub-domain: 
+ INFO [Crawler 1] Path: /
+ INFO [Crawler 1] Parent page: null
+ INFO [Crawler 1] Anchor text: null
  INFO [Crawler 1] Text length: 6287
- INFO [Crawler 1] Html length: 53736
- INFO [Crawler 1] Number of outgoing links: {}175
+ INFO [Crawler 1] Html length: 53737
+ INFO [Crawler 1] Number of outgoing links: 175
  INFO [Crawler 1] Response headers:
- INFO [Crawler 1] 	{}: {}Vary Cookie
- INFO [Crawler 1] 	{}: {}X-Pingback http://ntt2k.technology/xmlrpc.php
- INFO [Crawler 1] 	{}: {}Content-Type text/html; charset=UTF-8
- INFO [Crawler 1] 	{}: {}Vary Accept-Encoding
- INFO [Crawler 1] 	{}: {}Date Sat, 31 Jan 2015 18:10:55 GMT
- INFO [Crawler 1] 	{}: {}Server Google Frontend
- INFO [Crawler 1] 	{}: {}Cache-Control private
- INFO [Crawler 1] 	{}: {}Alternate-Protocol 80:quic,p=0.02,80:quic,p=0.02
- INFO [Crawler 1] 	{}: {}Accept-Ranges none
- INFO [Crawler 1] 	{}: {}Transfer-Encoding chunked
+ INFO [Crawler 1] 		Vary: Cookie
+ INFO [Crawler 1] 		X-Pingback: http://ntt2k.technology/xmlrpc.php
+ INFO [Crawler 1] 		Content-Type: text/html; charset=UTF-8
+ INFO [Crawler 1] 		Vary: Accept-Encoding
+ INFO [Crawler 1] 		Date: Sat, 31 Jan 2015 18:16:30 GMT
+ INFO [Crawler 1] 		Server: Google Frontend
+ INFO [Crawler 1] 		Cache-Control: private
+ INFO [Crawler 1] 		Alternate-Protocol: 80:quic,p=0.02,80:quic,p=0.02
+ INFO [Crawler 1] 		Accept-Ranges: none
+ INFO [Crawler 1] 		Transfer-Encoding: chunked
+ INFO [Crawler 2] Docid: 2
+ INFO [Crawler 2] URL: http://ntt2k.technology/feed/
+ INFO [Crawler 2] Domain: ntt2k.technology
+ INFO [Crawler 2] Sub-domain: 
+ INFO [Crawler 2] Path: /feed/
+ INFO [Crawler 2] Parent page: http://ntt2k.technology/
+ INFO [Crawler 2] Anchor text: null
+ INFO [Crawler 2] Text length: 45618
+ INFO [Crawler 2] Html length: 51474
+ INFO [Crawler 2] Number of outgoing links: 0
+ INFO [Crawler 2] Response headers:
+ INFO [Crawler 2] 		Vary: Cookie
+ INFO [Crawler 2] 		X-Pingback: http://ntt2k.technology/xmlrpc.php
+ INFO [Crawler 2] 		Last-Modified: Sat, 17 Jan 2015 22:12:50 GMT
+ INFO [Crawler 2] 		Content-Type: text/xml; charset=UTF-8
+ INFO [Crawler 2] 		Vary: Accept-Encoding
+ INFO [Crawler 2] 		Date: Sat, 31 Jan 2015 18:16:33 GMT
+ INFO [Crawler 2] 		Server: Google Frontend
+ INFO [Crawler 2] 		Cache-Control: private
+ INFO [Crawler 2] 		Alternate-Protocol: 80:quic,p=0.02,80:quic,p=0.02
+ INFO [Crawler 2] 		Accept-Ranges: none
+ INFO [Crawler 2] 		Transfer-Encoding: chunked
+ INFO [Crawler 2] Docid: 3
+ INFO [Crawler 2] URL: http://ntt2k.technology/comments/feed/
+ INFO [Crawler 2] Domain: ntt2k.technology
+ INFO [Crawler 2] Sub-domain: 
+ INFO [Crawler 2] Path: /comments/feed/
+ INFO [Crawler 2] Parent page: http://ntt2k.technology/
+ INFO [Crawler 2] Anchor text: null
+ INFO [Crawler 2] Text length: 1183
+ INFO [Crawler 2] Html length: 2694
+ INFO [Crawler 2] Number of outgoing links: 0
+ INFO [Crawler 2] Response headers:
+ INFO [Crawler 2] 		Vary: Cookie
+ INFO [Crawler 2] 		X-Pingback: http://ntt2k.technology/xmlrpc.php
+ INFO [Crawler 2] 		Last-Modified: Wed, 24 Dec 2014 08:35:00 GMT
+ INFO [Crawler 2] 		Content-Type: text/xml; charset=UTF-8
+ INFO [Crawler 2] 		Vary: Accept-Encoding
+ INFO [Crawler 2] 		Date: Sat, 31 Jan 2015 18:16:35 GMT
+ INFO [Crawler 2] 		Server: Google Frontend
+ INFO [Crawler 2] 		Cache-Control: private
+ INFO [Crawler 2] 		Alternate-Protocol: 80:quic,p=0.02,80:quic,p=0.02
+ INFO [Crawler 2] 		Accept-Ranges: none
+ INFO [Crawler 2] 		Transfer-Encoding: chunked
+ INFO [Crawler 2] Docid: 4
+ INFO [Crawler 2] URL: http://ntt2k.technology/wp-content/plugins/crayon-syntax-highlighter/css/min/crayon.min.css?ver=2.6.8
+ INFO [Crawler 2] Domain: ntt2k.technology
+ INFO [Crawler 2] Sub-domain: 
+ INFO [Crawler 2] Path: /wp-content/plugins/crayon-syntax-highlighter/css/min/crayon.min.css
+ INFO [Crawler 2] Parent page: http://ntt2k.technology/
+ INFO [Crawler 2] Anchor text: null
+ INFO [Crawler 2] Text length: 20028
+ INFO [Crawler 2] Html length: 20028
+ INFO [Crawler 2] Number of outgoing links: 0
+ INFO [Crawler 2] Response headers:
+ INFO [Crawler 2] 		ETag: "5Hli9Q"
+ INFO [Crawler 2] 		Date: Sat, 31 Jan 2015 18:16:35 GMT
+ INFO [Crawler 2] 		Expires: Sat, 31 Jan 2015 18:26:35 GMT
+ INFO [Crawler 2] 		Cache-Control: public, max-age=600
+ INFO [Crawler 2] 		Content-Type: text/css
+ INFO [Crawler 2] 		Server: Google Frontend
+ INFO [Crawler 2] 		Transfer-Encoding: chunked
+ INFO [Crawler 2] 		Alternate-Protocol: 80:quic,p=0.02,80:quic,p=0.02
+ INFO [Crawler 2] Docid: 5
+ INFO [Crawler 2] URL: http://ntt2k.technology/wp-content/plugins/crayon-syntax-highlighter/themes/ado/ado.css?ver=2.6.8
+ INFO [Crawler 2] Domain: ntt2k.technology
+ INFO [Crawler 2] Sub-domain: 
+ INFO [Crawler 2] Path: /wp-content/plugins/crayon-syntax-highlighter/themes/ado/ado.css
+ INFO [Crawler 2] Parent page: http://ntt2k.technology/
+ INFO [Crawler 2] Anchor text: null
+ INFO [Crawler 2] Text length: 4938
+ INFO [Crawler 2] Html length: 4939
+ INFO [Crawler 2] Number of outgoing links: 0
+ INFO [Crawler 2] Response headers:
+ INFO [Crawler 2] 		ETag: "5Hli9Q"
+ INFO [Crawler 2] 		Date: Sat, 31 Jan 2015 18:16:35 GMT
+ INFO [Crawler 2] 		Expires: Sat, 31 Jan 2015 18:26:35 GMT
+ INFO [Crawler 2] 		Cache-Control: public, max-age=600
+ INFO [Crawler 2] 		Content-Type: text/css
+ INFO [Crawler 2] 		Server: Google Frontend
+ INFO [Crawler 2] 		Transfer-Encoding: chunked
+ INFO [Crawler 2] 		Alternate-Protocol: 80:quic,p=0.02,80:quic,p=0.02
+ INFO [Crawler 2] Docid: 6
+ INFO [Crawler 2] URL: http://ntt2k.technology/wp-content/plugins/crayon-syntax-highlighter/fonts/monaco.css?ver=2.6.8
+ INFO [Crawler 2] Domain: ntt2k.technology
+ INFO [Crawler 2] Sub-domain: 
+ INFO [Crawler 2] Path: /wp-content/plugins/crayon-syntax-highlighter/fonts/monaco.css
+ INFO [Crawler 2] Parent page: http://ntt2k.technology/
+ INFO [Crawler 2] Anchor text: null
+ INFO [Crawler 2] Text length: 516
+ INFO [Crawler 2] Html length: 529
+ INFO [Crawler 2] Number of outgoing links: 0
+ INFO [Crawler 2] Response headers:
+ INFO [Crawler 2] 		ETag: "5Hli9Q"
+ INFO [Crawler 2] 		Date: Sat, 31 Jan 2015 18:16:36 GMT
+ INFO [Crawler 2] 		Expires: Sat, 31 Jan 2015 18:26:36 GMT
+ INFO [Crawler 2] 		Cache-Control: public, max-age=600
+ INFO [Crawler 2] 		Content-Type: text/css
+ INFO [Crawler 2] 		Server: Google Frontend
+ INFO [Crawler 2] 		Transfer-Encoding: chunked
+ INFO [Crawler 2] 		Alternate-Protocol: 80:quic,p=0.02,80:quic,p=0.02
+ INFO [Crawler 2] Docid: 7
+ INFO [Crawler 2] URL: http://ntt2k.technology/wp-content/plugins/disqus-recent-comments-widget/disqus_rcw.css?ver=4.1
+ INFO [Crawler 2] Domain: ntt2k.technology
+ INFO [Crawler 2] Sub-domain: 
+ INFO [Crawler 2] Path: /wp-content/plugins/disqus-recent-comments-widget/disqus_rcw.css
+ INFO [Crawler 2] Parent page: http://ntt2k.technology/
+ INFO [Crawler 2] Anchor text: null
+ INFO [Crawler 2] Text length: 860
+ INFO [Crawler 2] Html length: 860
+ INFO [Crawler 2] Number of outgoing links: 0
+ INFO [Crawler 2] Response headers:
+ INFO [Crawler 2] 		ETag: "5Hli9Q"
+ INFO [Crawler 2] 		Date: Sat, 31 Jan 2015 18:16:36 GMT
+ INFO [Crawler 2] 		Expires: Sat, 31 Jan 2015 18:26:36 GMT
+ INFO [Crawler 2] 		Cache-Control: public, max-age=600
+ INFO [Crawler 2] 		Content-Type: text/css
+ INFO [Crawler 2] 		Server: Google Frontend
+ INFO [Crawler 2] 		Transfer-Encoding: chunked
+ INFO [Crawler 2] 		Alternate-Protocol: 80:quic,p=0.02,80:quic,p=0.02
+ INFO [Crawler 2] Docid: 8
+ INFO [Crawler 2] URL: http://ntt2k.technology/wp-content/themes/hemingway/style.css?ver=4.1
+ INFO [Crawler 2] Domain: ntt2k.technology
+ INFO [Crawler 2] Sub-domain: 
+ INFO [Crawler 2] Path: /wp-content/themes/hemingway/style.css
+ INFO [Crawler 2] Parent page: http://ntt2k.technology/
+ INFO [Crawler 2] Anchor text: null
+ INFO [Crawler 2] Text length: 47122
+ INFO [Crawler 2] Html length: 49423
+ INFO [Crawler 2] Number of outgoing links: 0
+ INFO [Crawler 2] Response headers:
+ INFO [Crawler 2] 		ETag: "5Hli9Q"
+ INFO [Crawler 2] 		Date: Sat, 31 Jan 2015 18:16:36 GMT
+ INFO [Crawler 2] 		Expires: Sat, 31 Jan 2015 18:26:36 GMT
+ INFO [Crawler 2] 		Cache-Control: public, max-age=600
+ INFO [Crawler 2] 		Content-Type: text/css
+ INFO [Crawler 2] 		Server: Google Frontend
+ INFO [Crawler 2] 		Transfer-Encoding: chunked
+ INFO [Crawler 2] 		Alternate-Protocol: 80:quic,p=0.02,80:quic,p=0.02
+ INFO [Crawler 2] Docid: 9
+ INFO [Crawler 2] URL: http://ntt2k.technology/xmlrpc.php?rsd
+ INFO [Crawler 2] Domain: ntt2k.technology
+ INFO [Crawler 2] Sub-domain: 
+ INFO [Crawler 2] Path: /xmlrpc.php
+ INFO [Crawler 2] Parent page: http://ntt2k.technology/
+ INFO [Crawler 2] Anchor text: null
+ INFO [Crawler 2] Text length: 63
+ INFO [Crawler 2] Html length: 737
+ INFO [Crawler 2] Number of outgoing links: 0
+ INFO [Crawler 2] Response headers:
+ INFO [Crawler 2] 		Content-Type: text/xml; charset=UTF-8
+ INFO [Crawler 2] 		Vary: Accept-Encoding
+ INFO [Crawler 2] 		Date: Sat, 31 Jan 2015 18:16:37 GMT
+ INFO [Crawler 2] 		Server: Google Frontend
+ INFO [Crawler 2] 		Cache-Control: private
+ INFO [Crawler 2] 		Alternate-Protocol: 80:quic,p=0.02,80:quic,p=0.02
+ INFO [Crawler 2] 		Accept-Ranges: none
+ INFO [Crawler 2] 		Transfer-Encoding: chunked
+ INFO [Crawler 2] Docid: 11
+ INFO [Crawler 2] URL: http://ntt2k.technology/about/
+ INFO [Crawler 2] Domain: ntt2k.technology
+ INFO [Crawler 2] Sub-domain: 
+ INFO [Crawler 2] Path: /about/
+ INFO [Crawler 2] Parent page: http://ntt2k.technology/
+ INFO [Crawler 2] Anchor text: About
+ INFO [Crawler 2] Text length: 2648
+ INFO [Crawler 2] Html length: 23314
+ INFO [Crawler 2] Number of outgoing links: 59
+ INFO [Crawler 2] Response headers:
+ INFO [Crawler 2] 		Vary: Cookie
+ INFO [Crawler 2] 		X-Pingback: http://ntt2k.technology/xmlrpc.php
+ INFO [Crawler 2] 		Content-Type: text/html; charset=UTF-8
+ INFO [Crawler 2] 		Link: <http://ntt2k.technology/?p=2>; rel=shortlink
+ INFO [Crawler 2] 		Vary: Accept-Encoding
+ INFO [Crawler 2] 		Date: Sat, 31 Jan 2015 18:16:41 GMT
+ INFO [Crawler 2] 		Server: Google Frontend
+ INFO [Crawler 2] 		Cache-Control: private
+ INFO [Crawler 2] 		Alternate-Protocol: 80:quic,p=0.02,80:quic,p=0.02
+ INFO [Crawler 2] 		Accept-Ranges: none
+ INFO [Crawler 2] 		Transfer-Encoding: chunked
+ INFO [Crawler 2] Docid: 12
+ INFO [Crawler 2] URL: http://ntt2k.technology/2015/01/10/optimize-website/
+ INFO [Crawler 2] Domain: ntt2k.technology
+ INFO [Crawler 2] Sub-domain: 
+ INFO [Crawler 2] Path: /2015/01/10/optimize-website/
+ INFO [Crawler 2] Parent page: http://ntt2k.technology/
+ INFO [Crawler 2] Anchor text: Optimize website
+ INFO [Crawler 2] Text length: 3151
+ INFO [Crawler 2] Html length: 29074
+ INFO [Crawler 2] Number of outgoing links: 81
+ INFO [Crawler 2] Response headers:
+ INFO [Crawler 2] 		Vary: Cookie
+ INFO [Crawler 2] 		X-Pingback: http://ntt2k.technology/xmlrpc.php
+ INFO [Crawler 2] 		Content-Type: text/html; charset=UTF-8
+ INFO [Crawler 2] 		Link: <http://ntt2k.technology/?p=365>; rel=shortlink
+ INFO [Crawler 2] 		Vary: Accept-Encoding
+ INFO [Crawler 2] 		Date: Sat, 31 Jan 2015 18:16:44 GMT
+ INFO [Crawler 2] 		Server: Google Frontend
+ INFO [Crawler 2] 		Cache-Control: private
+ INFO [Crawler 2] 		Alternate-Protocol: 80:quic,p=0.02,80:quic,p=0.02
+ INFO [Crawler 2] 		Accept-Ranges: none
+ INFO [Crawler 2] 		Transfer-Encoding: chunked
+ INFO [Crawler 1] Docid: 38
+ INFO [Crawler 1] URL: http://ntt2k.technology/2015/01/10/optimize-website/feed/
+ INFO [Crawler 1] Domain: ntt2k.technology
+ INFO [Crawler 1] Sub-domain: 
+ INFO [Crawler 1] Path: /2015/01/10/optimize-website/feed/
+ INFO [Crawler 1] Parent page: http://ntt2k.technology/2015/01/10/optimize-website/
+ INFO [Crawler 1] Anchor text: null
+ INFO [Crawler 1] Text length: 154
+ INFO [Crawler 1] Html length: 782
+ INFO [Crawler 1] Number of outgoing links: 0
+ INFO [Crawler 1] Response headers:
+ INFO [Crawler 1] 		Vary: Cookie
+ INFO [Crawler 1] 		X-Pingback: http://ntt2k.technology/xmlrpc.php
+ INFO [Crawler 1] 		Last-Modified: Wed, 24 Dec 2014 08:35:00 GMT
+ INFO [Crawler 1] 		Link: <http://ntt2k.technology/?p=365>; rel=shortlink
+ INFO [Crawler 1] 		Content-Type: text/xml; charset=UTF-8
+ INFO [Crawler 1] 		Vary: Accept-Encoding
+ INFO [Crawler 1] 		Date: Sat, 31 Jan 2015 18:16:47 GMT
+ INFO [Crawler 1] 		Server: Google Frontend
+ INFO [Crawler 1] 		Cache-Control: private
+ INFO [Crawler 1] 		Alternate-Protocol: 80:quic,p=0.02,80:quic,p=0.02
+ INFO [Crawler 1] 		Accept-Ranges: none
+ INFO [Crawler 1] 		Transfer-Encoding: chunked
+ INFO [Crawler 2] Docid: 13
+ INFO [Crawler 2] URL: http://ntt2k.technology/author/ntt2k/
+ INFO [Crawler 2] Domain: ntt2k.technology
+ INFO [Crawler 2] Sub-domain: 
+ INFO [Crawler 2] Path: /author/ntt2k/
+ INFO [Crawler 2] Parent page: http://ntt2k.technology/
+ INFO [Crawler 2] Anchor text: ntt2k
+ INFO [Crawler 2] Text length: 6146
+ INFO [Crawler 2] Html length: 33664
+ INFO [Crawler 2] Number of outgoing links: 86
+ INFO [Crawler 2] Response headers:
+ INFO [Crawler 2] 		Vary: Cookie
+ INFO [Crawler 2] 		X-Pingback: http://ntt2k.technology/xmlrpc.php
+ INFO [Crawler 2] 		Content-Type: text/html; charset=UTF-8
+ INFO [Crawler 2] 		Vary: Accept-Encoding
+ INFO [Crawler 2] 		Date: Sat, 31 Jan 2015 18:16:47 GMT
+ INFO [Crawler 2] 		Server: Google Frontend
+ INFO [Crawler 2] 		Cache-Control: private
+ INFO [Crawler 2] 		Alternate-Protocol: 80:quic,p=0.02,80:quic,p=0.02
+ INFO [Crawler 2] 		Accept-Ranges: none
+ INFO [Crawler 2] 		Transfer-Encoding: chunked
+ INFO [Crawler 2] Docid: 14
+ INFO [Crawler 2] URL: http://ntt2k.technology/2014/12/23/java-veeva-systems-trick-code-interview-question/
+ INFO [Crawler 2] Domain: ntt2k.technology
+ INFO [Crawler 2] Sub-domain: 
+ INFO [Crawler 2] Path: /2014/12/23/java-veeva-systems-trick-code-interview-question/
+ INFO [Crawler 2] Parent page: http://ntt2k.technology/
+ INFO [Crawler 2] Anchor text: [Java] Veeva Systems trick code interview question
+ INFO [Crawler 2] Text length: 4756
+ INFO [Crawler 2] Html length: 44127
+ INFO [Crawler 2] Number of outgoing links: 91
+ INFO [Crawler 2] Response headers:
+ INFO [Crawler 2] 		Vary: Cookie
+ INFO [Crawler 2] 		X-Pingback: http://ntt2k.technology/xmlrpc.php
+ INFO [Crawler 2] 		Content-Type: text/html; charset=UTF-8
+ INFO [Crawler 2] 		Link: <http://ntt2k.technology/?p=298>; rel=shortlink
+ INFO [Crawler 2] 		Vary: Accept-Encoding
+ INFO [Crawler 2] 		Date: Sat, 31 Jan 2015 18:16:50 GMT
+ INFO [Crawler 2] 		Server: Google Frontend
+ INFO [Crawler 2] 		Cache-Control: private
+ INFO [Crawler 2] 		Alternate-Protocol: 80:quic,p=0.02,80:quic,p=0.02
+ INFO [Crawler 2] 		Accept-Ranges: none
+ INFO [Crawler 2] 		Transfer-Encoding: chunked
+ INFO [Crawler 4] Docid: 40
+ INFO [Crawler 4] URL: http://ntt2k.technology/author/ntt2k/feed/
+ INFO [Crawler 4] Domain: ntt2k.technology
+ INFO [Crawler 4] Sub-domain: 
+ INFO [Crawler 4] Path: /author/ntt2k/feed/
+ INFO [Crawler 4] Parent page: http://ntt2k.technology/author/ntt2k/
+ INFO [Crawler 4] Anchor text: null
+ INFO [Crawler 4] Text length: 45618
+ INFO [Crawler 4] Html length: 51500
+ INFO [Crawler 4] Number of outgoing links: 0
+ INFO [Crawler 4] Response headers:
+ INFO [Crawler 4] 		Vary: Cookie
+ INFO [Crawler 4] 		X-Pingback: http://ntt2k.technology/xmlrpc.php
+ INFO [Crawler 4] 		Last-Modified: Sat, 17 Jan 2015 22:12:50 GMT
+ INFO [Crawler 4] 		Content-Type: text/xml; charset=UTF-8
+ INFO [Crawler 4] 		Vary: Accept-Encoding
+ INFO [Crawler 4] 		Date: Sat, 31 Jan 2015 18:16:51 GMT
+ INFO [Crawler 4] 		Server: Google Frontend
+ INFO [Crawler 4] 		Cache-Control: private
+ INFO [Crawler 4] 		Alternate-Protocol: 80:quic,p=0.02,80:quic,p=0.02
+ INFO [Crawler 4] 		Accept-Ranges: none
+ INFO [Crawler 4] 		Transfer-Encoding: chunked
+ INFO [Crawler 1] Docid: 42
+ INFO [Crawler 1] URL: http://ntt2k.technology/2014/12/23/java-veeva-systems-trick-code-interview-question/feed/
+ INFO [Crawler 1] Domain: ntt2k.technology
+ INFO [Crawler 1] Sub-domain: 
+ INFO [Crawler 1] Path: /2014/12/23/java-veeva-systems-trick-code-interview-question/feed/
+ INFO [Crawler 1] Parent page: http://ntt2k.technology/2014/12/23/java-veeva-systems-trick-code-interview-question/
+ INFO [Crawler 1] Anchor text: null
+ INFO [Crawler 1] Text length: 506
+ INFO [Crawler 1] Html length: 1443
+ INFO [Crawler 1] Number of outgoing links: 0
+ INFO [Crawler 1] Response headers:
+ INFO [Crawler 1] 		Vary: Cookie
+ INFO [Crawler 1] 		X-Pingback: http://ntt2k.technology/xmlrpc.php
+ INFO [Crawler 1] 		Last-Modified: Wed, 24 Dec 2014 08:35:00 GMT
+ INFO [Crawler 1] 		Link: <http://ntt2k.technology/?p=298>; rel=shortlink
+ INFO [Crawler 1] 		Content-Type: text/xml; charset=UTF-8
+ INFO [Crawler 1] 		Vary: Accept-Encoding
+ INFO [Crawler 1] 		Date: Sat, 31 Jan 2015 18:16:53 GMT
+ INFO [Crawler 1] 		Server: Google Frontend
+ INFO [Crawler 1] 		Cache-Control: private
+ INFO [Crawler 1] 		Alternate-Protocol: 80:quic,p=0.02,80:quic,p=0.02
+ INFO [Crawler 1] 		Accept-Ranges: none
+ INFO [Crawler 1] 		Transfer-Encoding: chunked
+ INFO [Crawler 2] Docid: 15
+ INFO [Crawler 2] URL: http://ntt2k.technology/2014/12/22/c-basic-vim-text-editor-implement-undo-and-redo-function/
+ INFO [Crawler 2] Domain: ntt2k.technology
+ INFO [Crawler 2] Sub-domain: 
+ INFO [Crawler 2] Path: /2014/12/22/c-basic-vim-text-editor-implement-undo-and-redo-function/
+ INFO [Crawler 2] Parent page: http://ntt2k.technology/
+ INFO [Crawler 2] Anchor text: [C++] Basic Vim text editor: implement “undo” and “redo” function
+ INFO [Crawler 2] Text length: 7205
+ INFO [Crawler 2] Html length: 66481
+ INFO [Crawler 2] Number of outgoing links: 92
+ INFO [Crawler 2] Response headers:
+ INFO [Crawler 2] 		Vary: Cookie
+ INFO [Crawler 2] 		X-Pingback: http://ntt2k.technology/xmlrpc.php
+ INFO [Crawler 2] 		Content-Type: text/html; charset=UTF-8
+ INFO [Crawler 2] 		Link: <http://ntt2k.technology/?p=293>; rel=shortlink
+ INFO [Crawler 2] 		Vary: Accept-Encoding
+ INFO [Crawler 2] 		Date: Sat, 31 Jan 2015 18:16:54 GMT
+ INFO [Crawler 2] 		Server: Google Frontend
+ INFO [Crawler 2] 		Cache-Control: private
+ INFO [Crawler 2] 		Alternate-Protocol: 80:quic,p=0.02,80:quic,p=0.02
+ INFO [Crawler 2] 		Accept-Ranges: none
+ INFO [Crawler 2] 		Transfer-Encoding: chunked
+ INFO [Crawler 4] Docid: 41
+ INFO [Crawler 4] URL: http://ntt2k.technology/author/ntt2k/page/2/
+ INFO [Crawler 4] Domain: ntt2k.technology
+ INFO [Crawler 4] Sub-domain: 
+ INFO [Crawler 4] Path: /author/ntt2k/page/2/
+ INFO [Crawler 4] Parent page: http://ntt2k.technology/author/ntt2k/
+ INFO [Crawler 4] Anchor text: Older posts
+ INFO [Crawler 4] Text length: 6342
+ INFO [Crawler 4] Html length: 37405
+ INFO [Crawler 4] Number of outgoing links: 82
+ INFO [Crawler 4] Response headers:
+ INFO [Crawler 4] 		Vary: Cookie
+ INFO [Crawler 4] 		X-Pingback: http://ntt2k.technology/xmlrpc.php
+ INFO [Crawler 4] 		Content-Type: text/html; charset=UTF-8
+ INFO [Crawler 4] 		Vary: Accept-Encoding
+ INFO [Crawler 4] 		Date: Sat, 31 Jan 2015 18:16:56 GMT
+ INFO [Crawler 4] 		Server: Google Frontend
+ INFO [Crawler 4] 		Cache-Control: private
+ INFO [Crawler 4] 		Alternate-Protocol: 80:quic,p=0.02,80:quic,p=0.02
+ INFO [Crawler 4] 		Accept-Ranges: none
+ INFO [Crawler 4] 		Transfer-Encoding: chunked
+ INFO [Crawler 3] Docid: 49
+ INFO [Crawler 3] URL: http://ntt2k.technology/2014/12/22/c-basic-vim-text-editor-implement-undo-and-redo-function/feed/
+ INFO [Crawler 3] Domain: ntt2k.technology
+ INFO [Crawler 3] Sub-domain: 
+ INFO [Crawler 3] Path: /2014/12/22/c-basic-vim-text-editor-implement-undo-and-redo-function/feed/
+ INFO [Crawler 3] Parent page: http://ntt2k.technology/2014/12/22/c-basic-vim-text-editor-implement-undo-and-redo-function/
+ INFO [Crawler 3] Anchor text: null
+ INFO [Crawler 3] Text length: 194
+ INFO [Crawler 3] Html length: 935
+ INFO [Crawler 3] Number of outgoing links: 0
+ INFO [Crawler 3] Response headers:
+ INFO [Crawler 3] 		Vary: Cookie
+ INFO [Crawler 3] 		X-Pingback: http://ntt2k.technology/xmlrpc.php
+ INFO [Crawler 3] 		Last-Modified: Wed, 24 Dec 2014 08:35:00 GMT
+ INFO [Crawler 3] 		Link: <http://ntt2k.technology/?p=293>; rel=shortlink
+ INFO [Crawler 3] 		Content-Type: text/xml; charset=UTF-8
+ INFO [Crawler 3] 		Vary: Accept-Encoding
+ INFO [Crawler 3] 		Date: Sat, 31 Jan 2015 18:16:57 GMT
+ INFO [Crawler 3] 		Server: Google Frontend
+ INFO [Crawler 3] 		Cache-Control: private
+ INFO [Crawler 3] 		Alternate-Protocol: 80:quic,p=0.02,80:quic,p=0.02
+ INFO [Crawler 3] 		Accept-Ranges: none
+ INFO [Crawler 3] 		Transfer-Encoding: chunked
+ INFO [Crawler 2] Docid: 16
+ INFO [Crawler 2] URL: http://ntt2k.technology/2014/12/22/cc-int-vs-int-pointers-vs-array-notation-what-is-the-difference/
+ INFO [Crawler 2] Domain: ntt2k.technology
+ INFO [Crawler 2] Sub-domain: 
+ INFO [Crawler 2] Path: /2014/12/22/cc-int-vs-int-pointers-vs-array-notation-what-is-the-difference/
+ INFO [Crawler 2] Parent page: http://ntt2k.technology/
+ INFO [Crawler 2] Anchor text: C/C++ int[ ] vs int* (pointers vs. array notation). What is the difference?
+ INFO [Crawler 2] Text length: 7436
+ INFO [Crawler 2] Html length: 73504
+ INFO [Crawler 2] Number of outgoing links: 89
+ INFO [Crawler 2] Response headers:
+ INFO [Crawler 2] 		Vary: Cookie
+ INFO [Crawler 2] 		X-Pingback: http://ntt2k.technology/xmlrpc.php
+ INFO [Crawler 2] 		Content-Type: text/html; charset=UTF-8
+ INFO [Crawler 2] 		Link: <http://ntt2k.technology/?p=279>; rel=shortlink
+ INFO [Crawler 2] 		Vary: Accept-Encoding
+ INFO [Crawler 2] 		Date: Sat, 31 Jan 2015 18:16:58 GMT
+ INFO [Crawler 2] 		Server: Google Frontend
+ INFO [Crawler 2] 		Cache-Control: private
+ INFO [Crawler 2] 		Alternate-Protocol: 80:quic,p=0.02,80:quic,p=0.02
+ INFO [Crawler 2] 		Accept-Ranges: none
+ INFO [Crawler 2] 		Transfer-Encoding: chunked
+ INFO [Crawler 1] Docid: 44
+ INFO [Crawler 1] URL: http://ntt2k.technology/2014/12/08/
+ INFO [Crawler 1] Domain: ntt2k.technology
+ INFO [Crawler 1] Sub-domain: 
+ INFO [Crawler 1] Path: /2014/12/08/
+ INFO [Crawler 1] Parent page: http://ntt2k.technology/2014/12/23/java-veeva-systems-trick-code-interview-question/
+ INFO [Crawler 1] Anchor text: 8
+ INFO [Crawler 1] Text length: 3372
+ INFO [Crawler 1] Html length: 25988
+ INFO [Crawler 1] Number of outgoing links: 65
+ INFO [Crawler 1] Response headers:
+ INFO [Crawler 1] 		Vary: Cookie
+ INFO [Crawler 1] 		X-Pingback: http://ntt2k.technology/xmlrpc.php
+ INFO [Crawler 1] 		Content-Type: text/html; charset=UTF-8
+ INFO [Crawler 1] 		Vary: Accept-Encoding
+ INFO [Crawler 1] 		Date: Sat, 31 Jan 2015 18:16:58 GMT
+ INFO [Crawler 1] 		Server: Google Frontend
+ INFO [Crawler 1] 		Cache-Control: private
+ INFO [Crawler 1] 		Alternate-Protocol: 80:quic,p=0.02,80:quic,p=0.02
+ INFO [Crawler 1] 		Accept-Ranges: none
+ INFO [Crawler 1] 		Transfer-Encoding: chunked
+ INFO [Crawler 4] Docid: 51
+ INFO [Crawler 4] URL: http://ntt2k.technology/2014/12/17/python-user-interface-for-a-strategy-board-game-with-2-players-part-2/
+ INFO [Crawler 4] Domain: ntt2k.technology
+ INFO [Crawler 4] Sub-domain: 
+ INFO [Crawler 4] Path: /2014/12/17/python-user-interface-for-a-strategy-board-game-with-2-players-part-2/
+ INFO [Crawler 4] Parent page: http://ntt2k.technology/author/ntt2k/page/2/
+ INFO [Crawler 4] Anchor text: [Python] User interface for a strategy board game with 2 players – Part# 2
+ INFO [Crawler 4] Text length: 15650
+ INFO [Crawler 4] Html length: 195008
+ INFO [Crawler 4] Number of outgoing links: 91
+ INFO [Crawler 4] Response headers:
+ INFO [Crawler 4] 		Vary: Cookie
+ INFO [Crawler 4] 		X-Pingback: http://ntt2k.technology/xmlrpc.php
+ INFO [Crawler 4] 		Content-Type: text/html; charset=UTF-8
+ INFO [Crawler 4] 		Link: <http://ntt2k.technology/?p=260>; rel=shortlink
+ INFO [Crawler 4] 		Vary: Accept-Encoding
+ INFO [Crawler 4] 		Date: Sat, 31 Jan 2015 18:17:01 GMT
+ INFO [Crawler 4] 		Server: Google Frontend
+ INFO [Crawler 4] 		Cache-Control: private
+ INFO [Crawler 4] 		Alternate-Protocol: 80:quic,p=0.02,80:quic,p=0.02
+ INFO [Crawler 4] 		Accept-Ranges: none
+ INFO [Crawler 4] 		Transfer-Encoding: chunked
+ INFO [Crawler 2] Docid: 17
+ INFO [Crawler 2] URL: http://ntt2k.technology/2014/12/21/linux-learn-vim-a-better-way/
+ INFO [Crawler 2] Domain: ntt2k.technology
+ INFO [Crawler 2] Sub-domain: 
+ INFO [Crawler 2] Path: /2014/12/21/linux-learn-vim-a-better-way/
+ INFO [Crawler 2] Parent page: http://ntt2k.technology/
+ INFO [Crawler 2] Anchor text: [Linux] Learn Vim a better way!
+ INFO [Crawler 2] Text length: 3295
+ INFO [Crawler 2] Html length: 31149
+ INFO [Crawler 2] Number of outgoing links: 91
+ INFO [Crawler 2] Response headers:
+ INFO [Crawler 2] 		Vary: Cookie
+ INFO [Crawler 2] 		X-Pingback: http://ntt2k.technology/xmlrpc.php
+ INFO [Crawler 2] 		Content-Type: text/html; charset=UTF-8
+ INFO [Crawler 2] 		Link: <http://ntt2k.technology/?p=263>; rel=shortlink
+ INFO [Crawler 2] 		Vary: Accept-Encoding
+ INFO [Crawler 2] 		Date: Sat, 31 Jan 2015 18:17:02 GMT
+ INFO [Crawler 2] 		Server: Google Frontend
+ INFO [Crawler 2] 		Cache-Control: private
+ INFO [Crawler 2] 		Alternate-Protocol: 80:quic,p=0.02,80:quic,p=0.02
+ INFO [Crawler 2] 		Accept-Ranges: none
+ INFO [Crawler 2] 		Transfer-Encoding: chunked
+ INFO [Crawler 3] Docid: 56
+ INFO [Crawler 3] URL: http://ntt2k.technology/2014/12/22/cc-int-vs-int-pointers-vs-array-notation-what-is-the-difference/feed/
+ INFO [Crawler 3] Domain: ntt2k.technology
+ INFO [Crawler 3] Sub-domain: 
+ INFO [Crawler 3] Path: /2014/12/22/cc-int-vs-int-pointers-vs-array-notation-what-is-the-difference/feed/
+ INFO [Crawler 3] Parent page: http://ntt2k.technology/2014/12/22/cc-int-vs-int-pointers-vs-array-notation-what-is-the-difference/
+ INFO [Crawler 3] Anchor text: null
+ INFO [Crawler 3] Text length: 201
+ INFO [Crawler 3] Html length: 935
+ INFO [Crawler 3] Number of outgoing links: 0
+ INFO [Crawler 3] Response headers:
+ INFO [Crawler 3] 		Vary: Cookie
+ INFO [Crawler 3] 		X-Pingback: http://ntt2k.technology/xmlrpc.php
+ INFO [Crawler 3] 		Last-Modified: Wed, 24 Dec 2014 08:35:00 GMT
+ INFO [Crawler 3] 		Link: <http://ntt2k.technology/?p=279>; rel=shortlink
+ INFO [Crawler 3] 		Content-Type: text/xml; charset=UTF-8
+ INFO [Crawler 3] 		Vary: Accept-Encoding
+ INFO [Crawler 3] 		Date: Sat, 31 Jan 2015 18:17:03 GMT
+ INFO [Crawler 3] 		Server: Google Frontend
+ INFO [Crawler 3] 		Cache-Control: private
+ INFO [Crawler 3] 		Alternate-Protocol: 80:quic,p=0.02,80:quic,p=0.02
+ INFO [Crawler 3] 		Accept-Ranges: none
+ INFO [Crawler 3] 		Transfer-Encoding: chunked
+ INFO [Crawler 1] Docid: 45
+ INFO [Crawler 1] URL: http://ntt2k.technology/2014/12/17/
+ INFO [Crawler 1] Domain: ntt2k.technology
+ INFO [Crawler 1] Sub-domain: 
+ INFO [Crawler 1] Path: /2014/12/17/
+ INFO [Crawler 1] Parent page: http://ntt2k.technology/2014/12/23/java-veeva-systems-trick-code-interview-question/
+ INFO [Crawler 1] Anchor text: 17
+ INFO [Crawler 1] Text length: 3967
+ INFO [Crawler 1] Html length: 27603
+ INFO [Crawler 1] Number of outgoing links: 69
+ INFO [Crawler 1] Response headers:
+ INFO [Crawler 1] 		Vary: Cookie
+ INFO [Crawler 1] 		X-Pingback: http://ntt2k.technology/xmlrpc.php
+ INFO [Crawler 1] 		Content-Type: text/html; charset=UTF-8
+ INFO [Crawler 1] 		Vary: Accept-Encoding
+ INFO [Crawler 1] 		Date: Sat, 31 Jan 2015 18:17:04 GMT
+ INFO [Crawler 1] 		Server: Google Frontend
+ INFO [Crawler 1] 		Cache-Control: private
+ INFO [Crawler 1] 		Alternate-Protocol: 80:quic,p=0.02,80:quic,p=0.02
+ INFO [Crawler 1] 		Accept-Ranges: none
+ INFO [Crawler 1] 		Transfer-Encoding: chunked
+ INFO [Crawler 4] Docid: 52
+ INFO [Crawler 4] URL: http://ntt2k.technology/2014/12/17/python-reversi-othello-a-strategy-board-game-for-2-players-part-1/
+ INFO [Crawler 4] Domain: ntt2k.technology
+ INFO [Crawler 4] Sub-domain: 
+ INFO [Crawler 4] Path: /2014/12/17/python-reversi-othello-a-strategy-board-game-for-2-players-part-1/
+ INFO [Crawler 4] Parent page: http://ntt2k.technology/author/ntt2k/page/2/
+ INFO [Crawler 4] Anchor text: [Python] Reversi (Othello) – a strategy board game for 2 players – Part# 1
+ INFO [Crawler 4] Text length: 11498
+ INFO [Crawler 4] Html length: 129347
+ INFO [Crawler 4] Number of outgoing links: 91
+ INFO [Crawler 4] Response headers:
+ INFO [Crawler 4] 		Vary: Cookie
+ INFO [Crawler 4] 		X-Pingback: http://ntt2k.technology/xmlrpc.php
+ INFO [Crawler 4] 		Content-Type: text/html; charset=UTF-8
+ INFO [Crawler 4] 		Link: <http://ntt2k.technology/?p=257>; rel=shortlink
+ INFO [Crawler 4] 		Vary: Accept-Encoding
+ INFO [Crawler 4] 		Date: Sat, 31 Jan 2015 18:17:06 GMT
+ INFO [Crawler 4] 		Server: Google Frontend
+ INFO [Crawler 4] 		Cache-Control: private
+ INFO [Crawler 4] 		Alternate-Protocol: 80:quic,p=0.02,80:quic,p=0.02
+ INFO [Crawler 4] 		Accept-Ranges: none
+ INFO [Crawler 4] 		Transfer-Encoding: chunked
+ INFO [Crawler 2] Docid: 18
+ INFO [Crawler 2] URL: http://ntt2k.technology/page/2/
+ INFO [Crawler 2] Domain: ntt2k.technology
+ INFO [Crawler 2] Sub-domain: 
+ INFO [Crawler 2] Path: /page/2/
+ INFO [Crawler 2] Parent page: http://ntt2k.technology/
+ INFO [Crawler 2] Anchor text: « Older posts
+ INFO [Crawler 2] Text length: 6554
+ INFO [Crawler 2] Html length: 58916
+ INFO [Crawler 2] Number of outgoing links: 171
+ INFO [Crawler 2] Response headers:
+ INFO [Crawler 2] 		Vary: Cookie
+ INFO [Crawler 2] 		X-Pingback: http://ntt2k.technology/xmlrpc.php
+ INFO [Crawler 2] 		Content-Type: text/html; charset=UTF-8
+ INFO [Crawler 2] 		Vary: Accept-Encoding
+ INFO [Crawler 2] 		Date: Sat, 31 Jan 2015 18:17:07 GMT
+ INFO [Crawler 2] 		Server: Google Frontend
+ INFO [Crawler 2] 		Cache-Control: private
+ INFO [Crawler 2] 		Alternate-Protocol: 80:quic,p=0.02,80:quic,p=0.02
+ INFO [Crawler 2] 		Accept-Ranges: none
+ INFO [Crawler 2] 		Transfer-Encoding: chunked
+ INFO [Crawler 1] Docid: 46
+ INFO [Crawler 1] URL: http://ntt2k.technology/2014/12/21/
+ INFO [Crawler 1] Domain: ntt2k.technology
+ INFO [Crawler 1] Sub-domain: 
+ INFO [Crawler 1] Path: /2014/12/21/
+ INFO [Crawler 1] Parent page: http://ntt2k.technology/2014/12/23/java-veeva-systems-trick-code-interview-question/
+ INFO [Crawler 1] Anchor text: 21
+ INFO [Crawler 1] Text length: 2653
+ INFO [Crawler 1] Html length: 23918
+ INFO [Crawler 1] Number of outgoing links: 62
+ INFO [Crawler 1] Response headers:
+ INFO [Crawler 1] 		Vary: Cookie
+ INFO [Crawler 1] 		X-Pingback: http://ntt2k.technology/xmlrpc.php
+ INFO [Crawler 1] 		Content-Type: text/html; charset=UTF-8
+ INFO [Crawler 1] 		Vary: Accept-Encoding
+ INFO [Crawler 1] 		Date: Sat, 31 Jan 2015 18:17:10 GMT
+ INFO [Crawler 1] 		Server: Google Frontend
+ INFO [Crawler 1] 		Cache-Control: private
+ INFO [Crawler 1] 		Alternate-Protocol: 80:quic,p=0.02,80:quic,p=0.02
+ INFO [Crawler 1] 		Accept-Ranges: none
+ INFO [Crawler 1] 		Transfer-Encoding: chunked
+ INFO [Crawler 4] Docid: 53
+ INFO [Crawler 4] URL: http://ntt2k.technology/2014/12/08/c-hashmap/
+ INFO [Crawler 4] Domain: ntt2k.technology
+ INFO [Crawler 4] Sub-domain: 
+ INFO [Crawler 4] Path: /2014/12/08/c-hashmap/
+ INFO [Crawler 4] Parent page: http://ntt2k.technology/author/ntt2k/page/2/
+ INFO [Crawler 4] Anchor text: [C++] HashMap
+ INFO [Crawler 4] Text length: 3195
+ INFO [Crawler 4] Html length: 30092
+ INFO [Crawler 4] Number of outgoing links: 87
+ INFO [Crawler 4] Response headers:
+ INFO [Crawler 4] 		Vary: Cookie
+ INFO [Crawler 4] 		X-Pingback: http://ntt2k.technology/xmlrpc.php
+ INFO [Crawler 4] 		Content-Type: text/html; charset=UTF-8
+ INFO [Crawler 4] 		Link: <http://ntt2k.technology/?p=162>; rel=shortlink
+ INFO [Crawler 4] 		Vary: Accept-Encoding
+ INFO [Crawler 4] 		Date: Sat, 31 Jan 2015 18:17:10 GMT
+ INFO [Crawler 4] 		Server: Google Frontend
+ INFO [Crawler 4] 		Cache-Control: private
+ INFO [Crawler 4] 		Alternate-Protocol: 80:quic,p=0.02,80:quic,p=0.02
+ INFO [Crawler 4] 		Accept-Ranges: none
+ INFO [Crawler 4] 		Transfer-Encoding: chunked
+ INFO [Crawler 3] Docid: 60
+ INFO [Crawler 3] URL: http://ntt2k.technology/2014/12/21/linux-learn-vim-a-better-way/feed/
+ INFO [Crawler 3] Domain: ntt2k.technology
+ INFO [Crawler 3] Sub-domain: 
+ INFO [Crawler 3] Path: /2014/12/21/linux-learn-vim-a-better-way/feed/
+ INFO [Crawler 3] Parent page: http://ntt2k.technology/2014/12/21/linux-learn-vim-a-better-way/
+ INFO [Crawler 3] Anchor text: null
+ INFO [Crawler 3] Text length: 166
+ INFO [Crawler 3] Html length: 821
+ INFO [Crawler 3] Number of outgoing links: 0
+ INFO [Crawler 3] Response headers:
+ INFO [Crawler 3] 		Vary: Cookie
+ INFO [Crawler 3] 		X-Pingback: http://ntt2k.technology/xmlrpc.php
+ INFO [Crawler 3] 		Last-Modified: Wed, 24 Dec 2014 08:35:00 GMT
+ INFO [Crawler 3] 		Link: <http://ntt2k.technology/?p=263>; rel=shortlink
+ INFO [Crawler 3] 		Content-Type: text/xml; charset=UTF-8
+ INFO [Crawler 3] 		Vary: Accept-Encoding
+ INFO [Crawler 3] 		Date: Sat, 31 Jan 2015 18:17:11 GMT
+ INFO [Crawler 3] 		Server: Google Frontend
+ INFO [Crawler 3] 		Cache-Control: private
+ INFO [Crawler 3] 		Alternate-Protocol: 80:quic,p=0.02,80:quic,p=0.02
+ INFO [Crawler 3] 		Accept-Ranges: none
+ INFO [Crawler 3] 		Transfer-Encoding: chunked
+ INFO [Crawler 2] Docid: 19
+ INFO [Crawler 2] URL: http://ntt2k.technology/2014/12/
+ INFO [Crawler 2] Domain: ntt2k.technology
+ INFO [Crawler 2] Sub-domain: 
+ INFO [Crawler 2] Path: /2014/12/
+ INFO [Crawler 2] Parent page: http://ntt2k.technology/
+ INFO [Crawler 2] Anchor text: « Dec
+ INFO [Crawler 2] Text length: 6412
+ INFO [Crawler 2] Html length: 34869
+ INFO [Crawler 2] Number of outgoing links: 89
+ INFO [Crawler 2] Response headers:
+ INFO [Crawler 2] 		Vary: Cookie
+ INFO [Crawler 2] 		X-Pingback: http://ntt2k.technology/xmlrpc.php
+ INFO [Crawler 2] 		Content-Type: text/html; charset=UTF-8
+ INFO [Crawler 2] 		Vary: Accept-Encoding
+ INFO [Crawler 2] 		Date: Sat, 31 Jan 2015 18:17:13 GMT
+ INFO [Crawler 2] 		Server: Google Frontend
+ INFO [Crawler 2] 		Cache-Control: private
+ INFO [Crawler 2] 		Alternate-Protocol: 80:quic,p=0.02,80:quic,p=0.02
+ INFO [Crawler 2] 		Accept-Ranges: none
+ INFO [Crawler 2] 		Transfer-Encoding: chunked
+ INFO [Crawler 1] Docid: 47
+ INFO [Crawler 1] URL: http://ntt2k.technology/2014/12/22/
+ INFO [Crawler 1] Domain: ntt2k.technology
+ INFO [Crawler 1] Sub-domain: 
+ INFO [Crawler 1] Path: /2014/12/22/
+ INFO [Crawler 1] Parent page: http://ntt2k.technology/2014/12/23/java-veeva-systems-trick-code-interview-question/
+ INFO [Crawler 1] Anchor text: 22
+ INFO [Crawler 1] Text length: 3792
+ INFO [Crawler 1] Html length: 27151
+ INFO [Crawler 1] Number of outgoing links: 67
+ INFO [Crawler 1] Response headers:
+ INFO [Crawler 1] 		Vary: Cookie
+ INFO [Crawler 1] 		X-Pingback: http://ntt2k.technology/xmlrpc.php
+ INFO [Crawler 1] 		Content-Type: text/html; charset=UTF-8
+ INFO [Crawler 1] 		Vary: Accept-Encoding
+ INFO [Crawler 1] 		Date: Sat, 31 Jan 2015 18:17:13 GMT
+ INFO [Crawler 1] 		Server: Google Frontend
+ INFO [Crawler 1] 		Cache-Control: private
+ INFO [Crawler 1] 		Alternate-Protocol: 80:quic,p=0.02,80:quic,p=0.02
+ INFO [Crawler 1] 		Accept-Ranges: none
+ INFO [Crawler 1] 		Transfer-Encoding: chunked
+ INFO [Crawler 4] Docid: 54
+ INFO [Crawler 4] URL: http://ntt2k.technology/2014/12/08/c-destructor-for-hashmap-to-clear-an-array-of-linked-lists-project3-ics45c-part-3/
+ INFO [Crawler 4] Domain: ntt2k.technology
+ INFO [Crawler 4] Sub-domain: 
+ INFO [Crawler 4] Path: /2014/12/08/c-destructor-for-hashmap-to-clear-an-array-of-linked-lists-project3-ics45c-part-3/
+ INFO [Crawler 4] Parent page: http://ntt2k.technology/author/ntt2k/page/2/
+ INFO [Crawler 4] Anchor text: [C++] Destructor for HashMap to clear an array of linked lists â€“ project#3 ics45c part 3
+ INFO [Crawler 4] Text length: 4006
+ INFO [Crawler 4] Html length: 41117
+ INFO [Crawler 4] Number of outgoing links: 89
+ INFO [Crawler 4] Response headers:
+ INFO [Crawler 4] 		Vary: Cookie
+ INFO [Crawler 4] 		X-Pingback: http://ntt2k.technology/xmlrpc.php
+ INFO [Crawler 4] 		Content-Type: text/html; charset=UTF-8
+ INFO [Crawler 4] 		Link: <http://ntt2k.technology/?p=159>; rel=shortlink
+ INFO [Crawler 4] 		Vary: Accept-Encoding
+ INFO [Crawler 4] 		Date: Sat, 31 Jan 2015 18:17:15 GMT
+ INFO [Crawler 4] 		Server: Google Frontend
+ INFO [Crawler 4] 		Cache-Control: private
+ INFO [Crawler 4] 		Alternate-Protocol: 80:quic,p=0.02,80:quic,p=0.02
+ INFO [Crawler 4] 		Accept-Ranges: none
+ INFO [Crawler 4] 		Transfer-Encoding: chunked
+ INFO [Crawler 2] Docid: 20
+ INFO [Crawler 2] URL: http://ntt2k.technology/2015/01/10/
+ INFO [Crawler 2] Domain: ntt2k.technology
+ INFO [Crawler 2] Sub-domain: 
+ INFO [Crawler 2] Path: /2015/01/10/
+ INFO [Crawler 2] Parent page: http://ntt2k.technology/
+ INFO [Crawler 2] Anchor text: 10
+ INFO [Crawler 2] Text length: 2699
+ INFO [Crawler 2] Html length: 22982
+ INFO [Crawler 2] Number of outgoing links: 56
+ INFO [Crawler 2] Response headers:
+ INFO [Crawler 2] 		Vary: Cookie
+ INFO [Crawler 2] 		X-Pingback: http://ntt2k.technology/xmlrpc.php
+ INFO [Crawler 2] 		Content-Type: text/html; charset=UTF-8
+ INFO [Crawler 2] 		Vary: Accept-Encoding
+ INFO [Crawler 2] 		Date: Sat, 31 Jan 2015 18:17:16 GMT
+ INFO [Crawler 2] 		Server: Google Frontend
+ INFO [Crawler 2] 		Cache-Control: private
+ INFO [Crawler 2] 		Alternate-Protocol: 80:quic,p=0.02,80:quic,p=0.02
+ INFO [Crawler 2] 		Accept-Ranges: none
+ INFO [Crawler 2] 		Transfer-Encoding: chunked
+ INFO [Crawler 1] Docid: 48
+ INFO [Crawler 1] URL: http://ntt2k.technology/2014/12/23/
+ INFO [Crawler 1] Domain: ntt2k.technology
+ INFO [Crawler 1] Sub-domain: 
+ INFO [Crawler 1] Path: /2014/12/23/
+ INFO [Crawler 1] Parent page: http://ntt2k.technology/2014/12/23/java-veeva-systems-trick-code-interview-question/
+ INFO [Crawler 1] Anchor text: 23
+ INFO [Crawler 1] Text length: 2552
+ INFO [Crawler 1] Html length: 23851
+ INFO [Crawler 1] Number of outgoing links: 60
+ INFO [Crawler 1] Response headers:
+ INFO [Crawler 1] 		Vary: Cookie
+ INFO [Crawler 1] 		X-Pingback: http://ntt2k.technology/xmlrpc.php
+ INFO [Crawler 1] 		Content-Type: text/html; charset=UTF-8
+ INFO [Crawler 1] 		Vary: Accept-Encoding
+ INFO [Crawler 1] 		Date: Sat, 31 Jan 2015 18:17:17 GMT
+ INFO [Crawler 1] 		Server: Google Frontend
+ INFO [Crawler 1] 		Cache-Control: private
+ INFO [Crawler 1] 		Alternate-Protocol: 80:quic,p=0.02,80:quic,p=0.02
+ INFO [Crawler 1] 		Accept-Ranges: none
+ INFO [Crawler 1] 		Transfer-Encoding: chunked
+ INFO [Crawler 3] Docid: 58
+ INFO [Crawler 3] URL: http://ntt2k.technology/2014/12/17/python-user-interface-for-a-strategy-board-game-with-2-players-part-2/feed/
+ INFO [Crawler 3] Domain: ntt2k.technology
+ INFO [Crawler 3] Sub-domain: 
+ INFO [Crawler 3] Path: /2014/12/17/python-user-interface-for-a-strategy-board-game-with-2-players-part-2/feed/
+ INFO [Crawler 3] Parent page: http://ntt2k.technology/2014/12/17/python-user-interface-for-a-strategy-board-game-with-2-players-part-2/
+ INFO [Crawler 3] Anchor text: null
+ INFO [Crawler 3] Text length: 207
+ INFO [Crawler 3] Html length: 952
+ INFO [Crawler 3] Number of outgoing links: 0
+ INFO [Crawler 3] Response headers:
+ INFO [Crawler 3] 		Vary: Cookie
+ INFO [Crawler 3] 		X-Pingback: http://ntt2k.technology/xmlrpc.php
+ INFO [Crawler 3] 		Last-Modified: Wed, 24 Dec 2014 08:35:00 GMT
+ INFO [Crawler 3] 		Link: <http://ntt2k.technology/?p=260>; rel=shortlink
+ INFO [Crawler 3] 		Content-Type: text/xml; charset=UTF-8
+ INFO [Crawler 3] 		Vary: Accept-Encoding
+ INFO [Crawler 3] 		Date: Sat, 31 Jan 2015 18:17:18 GMT
+ INFO [Crawler 3] 		Server: Google Frontend
+ INFO [Crawler 3] 		Cache-Control: private
+ INFO [Crawler 3] 		Alternate-Protocol: 80:quic,p=0.02,80:quic,p=0.02
+ INFO [Crawler 3] 		Accept-Ranges: none
+ INFO [Crawler 3] 		Transfer-Encoding: chunked
+ INFO [Crawler 4] Docid: 55
+ INFO [Crawler 4] URL: http://ntt2k.technology/author/ntt2k/page/3/
+ INFO [Crawler 4] Domain: ntt2k.technology
+ INFO [Crawler 4] Sub-domain: 
+ INFO [Crawler 4] Path: /author/ntt2k/page/3/
+ INFO [Crawler 4] Parent page: http://ntt2k.technology/author/ntt2k/page/2/
+ INFO [Crawler 4] Anchor text: Older posts
+ INFO [Crawler 4] Text length: 3286
+ INFO [Crawler 4] Html length: 25192
+ INFO [Crawler 4] Number of outgoing links: 61
+ INFO [Crawler 4] Response headers:
+ INFO [Crawler 4] 		Vary: Cookie
+ INFO [Crawler 4] 		X-Pingback: http://ntt2k.technology/xmlrpc.php
+ INFO [Crawler 4] 		Content-Type: text/html; charset=UTF-8
+ INFO [Crawler 4] 		Vary: Accept-Encoding
+ INFO [Crawler 4] 		Date: Sat, 31 Jan 2015 18:17:19 GMT
+ INFO [Crawler 4] 		Server: Google Frontend
+ INFO [Crawler 4] 		Cache-Control: private
+ INFO [Crawler 4] 		Alternate-Protocol: 80:quic,p=0.02,80:quic,p=0.02
+ INFO [Crawler 4] 		Accept-Ranges: none
+ INFO [Crawler 4] 		Transfer-Encoding: chunked
+ INFO [Crawler 2] Docid: 21
+ INFO [Crawler 2] URL: http://ntt2k.technology/tag/c/
+ INFO [Crawler 2] Domain: ntt2k.technology
+ INFO [Crawler 2] Sub-domain: 
+ INFO [Crawler 2] Path: /tag/c/
+ INFO [Crawler 2] Parent page: http://ntt2k.technology/
+ INFO [Crawler 2] Anchor text: C++
+ INFO [Crawler 2] Text length: 6145
+ INFO [Crawler 2] Html length: 36770
+ INFO [Crawler 2] Number of outgoing links: 79
+ INFO [Crawler 2] Response headers:
+ INFO [Crawler 2] 		Vary: Cookie
+ INFO [Crawler 2] 		X-Pingback: http://ntt2k.technology/xmlrpc.php
+ INFO [Crawler 2] 		Content-Type: text/html; charset=UTF-8
+ INFO [Crawler 2] 		Vary: Accept-Encoding
+ INFO [Crawler 2] 		Date: Sat, 31 Jan 2015 18:17:20 GMT
+ INFO [Crawler 2] 		Server: Google Frontend
+ INFO [Crawler 2] 		Cache-Control: private
+ INFO [Crawler 2] 		Alternate-Protocol: 80:quic,p=0.02,80:quic,p=0.02
+ INFO [Crawler 2] 		Accept-Ranges: none
+ INFO [Crawler 2] 		Transfer-Encoding: chunked
+ INFO [Crawler 1] Docid: 64
+ INFO [Crawler 1] URL: http://ntt2k.technology/page/3/
+ INFO [Crawler 1] Domain: ntt2k.technology
+ INFO [Crawler 1] Sub-domain: 
+ INFO [Crawler 1] Path: /page/3/
+ INFO [Crawler 1] Parent page: http://ntt2k.technology/page/2/
+ INFO [Crawler 1] Anchor text: « Older posts
+ INFO [Crawler 1] Text length: 3367
+ INFO [Crawler 1] Html length: 32611
+ INFO [Crawler 1] Number of outgoing links: 96
+ INFO [Crawler 1] Response headers:
+ INFO [Crawler 1] 		Vary: Cookie
+ INFO [Crawler 1] 		X-Pingback: http://ntt2k.technology/xmlrpc.php
+ INFO [Crawler 1] 		Content-Type: text/html; charset=UTF-8
+ INFO [Crawler 1] 		Vary: Accept-Encoding
+ INFO [Crawler 1] 		Date: Sat, 31 Jan 2015 18:17:20 GMT
+ INFO [Crawler 1] 		Server: Google Frontend
+ INFO [Crawler 1] 		Cache-Control: private
+ INFO [Crawler 1] 		Alternate-Protocol: 80:quic,p=0.02,80:quic,p=0.02
+ INFO [Crawler 1] 		Accept-Ranges: none
+ INFO [Crawler 1] 		Transfer-Encoding: chunked
+ INFO [Crawler 4] Docid: 70
+ INFO [Crawler 4] URL: http://ntt2k.technology/2014/11/29/c-how-to-deep-copy-an-array-of-linked-list/
+ INFO [Crawler 4] Domain: ntt2k.technology
+ INFO [Crawler 4] Sub-domain: 
+ INFO [Crawler 4] Path: /2014/11/29/c-how-to-deep-copy-an-array-of-linked-list/
+ INFO [Crawler 4] Parent page: http://ntt2k.technology/author/ntt2k/page/3/
+ INFO [Crawler 4] Anchor text: [C++] How to deep copy an array of linked list
+ INFO [Crawler 4] Text length: 4902
+ INFO [Crawler 4] Html length: 47473
+ INFO [Crawler 4] Number of outgoing links: 90
+ INFO [Crawler 4] Response headers:
+ INFO [Crawler 4] 		Vary: Cookie
+ INFO [Crawler 4] 		X-Pingback: http://ntt2k.technology/xmlrpc.php
+ INFO [Crawler 4] 		Content-Type: text/html; charset=UTF-8
+ INFO [Crawler 4] 		Link: <http://ntt2k.technology/?p=76>; rel=shortlink
+ INFO [Crawler 4] 		Vary: Accept-Encoding
+ INFO [Crawler 4] 		Date: Sat, 31 Jan 2015 18:17:23 GMT
+ INFO [Crawler 4] 		Server: Google Frontend
+ INFO [Crawler 4] 		Cache-Control: private
+ INFO [Crawler 4] 		Alternate-Protocol: 80:quic,p=0.02,80:quic,p=0.02
+ INFO [Crawler 4] 		Accept-Ranges: none
+ INFO [Crawler 4] 		Transfer-Encoding: chunked
+ INFO [Crawler 2] Docid: 22
+ INFO [Crawler 2] URL: http://ntt2k.technology/tag/java/
+ INFO [Crawler 2] Domain: ntt2k.technology
+ INFO [Crawler 2] Sub-domain: 
+ INFO [Crawler 2] Path: /tag/java/
+ INFO [Crawler 2] Parent page: http://ntt2k.technology/
+ INFO [Crawler 2] Anchor text: Java
+ INFO [Crawler 2] Text length: 2534
+ INFO [Crawler 2] Html length: 23253
+ INFO [Crawler 2] Number of outgoing links: 56
+ INFO [Crawler 2] Response headers:
+ INFO [Crawler 2] 		Vary: Cookie
+ INFO [Crawler 2] 		X-Pingback: http://ntt2k.technology/xmlrpc.php
+ INFO [Crawler 2] 		Content-Type: text/html; charset=UTF-8
+ INFO [Crawler 2] 		Vary: Accept-Encoding
+ INFO [Crawler 2] 		Date: Sat, 31 Jan 2015 18:17:24 GMT
+ INFO [Crawler 2] 		Server: Google Frontend
+ INFO [Crawler 2] 		Cache-Control: private
+ INFO [Crawler 2] 		Alternate-Protocol: 80:quic,p=0.02,80:quic,p=0.02
+ INFO [Crawler 2] 		Accept-Ranges: none
+ INFO [Crawler 2] 		Transfer-Encoding: chunked
+ INFO [Crawler 3] Docid: 62
+ INFO [Crawler 3] URL: http://ntt2k.technology/2014/12/17/python-reversi-othello-a-strategy-board-game-for-2-players-part-1/feed/
+ INFO [Crawler 3] Domain: ntt2k.technology
+ INFO [Crawler 3] Sub-domain: 
+ INFO [Crawler 3] Path: /2014/12/17/python-reversi-othello-a-strategy-board-game-for-2-players-part-1/feed/
+ INFO [Crawler 3] Parent page: http://ntt2k.technology/2014/12/17/python-reversi-othello-a-strategy-board-game-for-2-players-part-1/
+ INFO [Crawler 3] Anchor text: null
+ INFO [Crawler 3] Text length: 203
+ INFO [Crawler 3] Html length: 950
+ INFO [Crawler 3] Number of outgoing links: 0
+ INFO [Crawler 3] Response headers:
+ INFO [Crawler 3] 		Vary: Cookie
+ INFO [Crawler 3] 		X-Pingback: http://ntt2k.technology/xmlrpc.php
+ INFO [Crawler 3] 		Last-Modified: Wed, 24 Dec 2014 08:35:00 GMT
+ INFO [Crawler 3] 		Link: <http://ntt2k.technology/?p=257>; rel=shortlink
+ INFO [Crawler 3] 		Content-Type: text/xml; charset=UTF-8
+ INFO [Crawler 3] 		Vary: Accept-Encoding
+ INFO [Crawler 3] 		Date: Sat, 31 Jan 2015 18:17:26 GMT
+ INFO [Crawler 3] 		Server: Google Frontend
+ INFO [Crawler 3] 		Cache-Control: private
+ INFO [Crawler 3] 		Alternate-Protocol: 80:quic,p=0.02,80:quic,p=0.02
+ INFO [Crawler 3] 		Accept-Ranges: none
+ INFO [Crawler 3] 		Transfer-Encoding: chunked
+ INFO [Crawler 1] Docid: 67
+ INFO [Crawler 1] URL: http://ntt2k.technology/2014/12/page/2/
+ INFO [Crawler 1] Domain: ntt2k.technology
+ INFO [Crawler 1] Sub-domain: 
+ INFO [Crawler 1] Path: /2014/12/page/2/
+ INFO [Crawler 1] Parent page: http://ntt2k.technology/2014/12/
+ INFO [Crawler 1] Anchor text: Older posts
+ INFO [Crawler 1] Text length: 4495
+ INFO [Crawler 1] Html length: 29225
+ INFO [Crawler 1] Number of outgoing links: 73
+ INFO [Crawler 1] Response headers:
+ INFO [Crawler 1] 		Vary: Cookie
+ INFO [Crawler 1] 		X-Pingback: http://ntt2k.technology/xmlrpc.php
+ INFO [Crawler 1] 		Content-Type: text/html; charset=UTF-8
+ INFO [Crawler 1] 		Vary: Accept-Encoding
+ INFO [Crawler 1] 		Date: Sat, 31 Jan 2015 18:17:26 GMT
+ INFO [Crawler 1] 		Server: Google Frontend
+ INFO [Crawler 1] 		Cache-Control: private
+ INFO [Crawler 1] 		Alternate-Protocol: 80:quic,p=0.02,80:quic,p=0.02
+ INFO [Crawler 1] 		Accept-Ranges: none
+ INFO [Crawler 1] 		Transfer-Encoding: chunked
+ INFO [Crawler 4] Docid: 71
+ INFO [Crawler 4] URL: http://ntt2k.technology/2014/11/22/hello-world/
+ INFO [Crawler 4] Domain: ntt2k.technology
+ INFO [Crawler 4] Sub-domain: 
+ INFO [Crawler 4] Path: /2014/11/22/hello-world/
+ INFO [Crawler 4] Parent page: http://ntt2k.technology/author/ntt2k/page/3/
+ INFO [Crawler 4] Anchor text: Hello world!
+ INFO [Crawler 4] Text length: 3103
+ INFO [Crawler 4] Html length: 28954
+ INFO [Crawler 4] Number of outgoing links: 78
+ INFO [Crawler 4] Response headers:
+ INFO [Crawler 4] 		Vary: Cookie
+ INFO [Crawler 4] 		X-Pingback: http://ntt2k.technology/xmlrpc.php
+ INFO [Crawler 4] 		Content-Type: text/html; charset=UTF-8
+ INFO [Crawler 4] 		Link: <http://ntt2k.technology/?p=1>; rel=shortlink
+ INFO [Crawler 4] 		Vary: Accept-Encoding
+ INFO [Crawler 4] 		Date: Sat, 31 Jan 2015 18:17:28 GMT
+ INFO [Crawler 4] 		Server: Google Frontend
+ INFO [Crawler 4] 		Cache-Control: private
+ INFO [Crawler 4] 		Alternate-Protocol: 80:quic,p=0.02,80:quic,p=0.02
+ INFO [Crawler 4] 		Accept-Ranges: none
+ INFO [Crawler 4] 		Transfer-Encoding: chunked
+ INFO [Crawler 2] Docid: 23
+ INFO [Crawler 2] URL: http://ntt2k.technology/tag/linux/
+ INFO [Crawler 2] Domain: ntt2k.technology
+ INFO [Crawler 2] Sub-domain: 
+ INFO [Crawler 2] Path: /tag/linux/
+ INFO [Crawler 2] Parent page: http://ntt2k.technology/
+ INFO [Crawler 2] Anchor text: Linux
+ INFO [Crawler 2] Text length: 2636
+ INFO [Crawler 2] Html length: 23325
+ INFO [Crawler 2] Number of outgoing links: 58
+ INFO [Crawler 2] Response headers:
+ INFO [Crawler 2] 		Vary: Cookie
+ INFO [Crawler 2] 		X-Pingback: http://ntt2k.technology/xmlrpc.php
+ INFO [Crawler 2] 		Content-Type: text/html; charset=UTF-8
+ INFO [Crawler 2] 		Vary: Accept-Encoding
+ INFO [Crawler 2] 		Date: Sat, 31 Jan 2015 18:17:28 GMT
+ INFO [Crawler 2] 		Server: Google Frontend
+ INFO [Crawler 2] 		Cache-Control: private
+ INFO [Crawler 2] 		Alternate-Protocol: 80:quic,p=0.02,80:quic,p=0.02
+ INFO [Crawler 2] 		Accept-Ranges: none
+ INFO [Crawler 2] 		Transfer-Encoding: chunked
+ INFO [Crawler 1] Docid: 65
+ INFO [Crawler 1] URL: http://ntt2k.technology/2014/12/08/c-hashmap/feed/
+ INFO [Crawler 1] Domain: ntt2k.technology
+ INFO [Crawler 1] Sub-domain: 
+ INFO [Crawler 1] Path: /2014/12/08/c-hashmap/feed/
+ INFO [Crawler 1] Parent page: http://ntt2k.technology/2014/12/08/c-hashmap/
+ INFO [Crawler 1] Anchor text: null
+ INFO [Crawler 1] Text length: 147
+ INFO [Crawler 1] Html length: 765
+ INFO [Crawler 1] Number of outgoing links: 0
+ INFO [Crawler 1] Response headers:
+ INFO [Crawler 1] 		Vary: Cookie
+ INFO [Crawler 1] 		X-Pingback: http://ntt2k.technology/xmlrpc.php
+ INFO [Crawler 1] 		Last-Modified: Wed, 24 Dec 2014 08:35:00 GMT
+ INFO [Crawler 1] 		Link: <http://ntt2k.technology/?p=162>; rel=shortlink
+ INFO [Crawler 1] 		Content-Type: text/xml; charset=UTF-8
+ INFO [Crawler 1] 		Vary: Accept-Encoding
+ INFO [Crawler 1] 		Date: Sat, 31 Jan 2015 18:17:29 GMT
+ INFO [Crawler 1] 		Server: Google Frontend
+ INFO [Crawler 1] 		Cache-Control: private
+ INFO [Crawler 1] 		Alternate-Protocol: 80:quic,p=0.02,80:quic,p=0.02
+ INFO [Crawler 1] 		Accept-Ranges: none
+ INFO [Crawler 1] 		Transfer-Encoding: chunked
+ INFO [Crawler 4] Docid: 72
+ INFO [Crawler 4] URL: http://ntt2k.technology/tag/c/feed/
+ INFO [Crawler 4] Domain: ntt2k.technology
+ INFO [Crawler 4] Sub-domain: 
+ INFO [Crawler 4] Path: /tag/c/feed/
+ INFO [Crawler 4] Parent page: http://ntt2k.technology/tag/c/
+ INFO [Crawler 4] Anchor text: null
+ INFO [Crawler 4] Text length: 20806
+ INFO [Crawler 4] Html length: 24423
+ INFO [Crawler 4] Number of outgoing links: 0
+ INFO [Crawler 4] Response headers:
+ INFO [Crawler 4] 		Vary: Cookie
+ INFO [Crawler 4] 		X-Pingback: http://ntt2k.technology/xmlrpc.php
+ INFO [Crawler 4] 		Last-Modified: Sat, 17 Jan 2015 22:12:50 GMT
+ INFO [Crawler 4] 		Content-Type: text/xml; charset=UTF-8
+ INFO [Crawler 4] 		Vary: Accept-Encoding
+ INFO [Crawler 4] 		Date: Sat, 31 Jan 2015 18:17:32 GMT
+ INFO [Crawler 4] 		Server: Google Frontend
+ INFO [Crawler 4] 		Cache-Control: private
+ INFO [Crawler 4] 		Alternate-Protocol: 80:quic,p=0.02,80:quic,p=0.02
+ INFO [Crawler 4] 		Accept-Ranges: none
+ INFO [Crawler 4] 		Transfer-Encoding: chunked
+ INFO [Crawler 2] Docid: 24
+ INFO [Crawler 2] URL: http://ntt2k.technology/tag/python/
+ INFO [Crawler 2] Domain: ntt2k.technology
+ INFO [Crawler 2] Sub-domain: 
+ INFO [Crawler 2] Path: /tag/python/
+ INFO [Crawler 2] Parent page: http://ntt2k.technology/
+ INFO [Crawler 2] Anchor text: Python
+ INFO [Crawler 2] Text length: 3951
+ INFO [Crawler 2] Html length: 27017
+ INFO [Crawler 2] Number of outgoing links: 65
+ INFO [Crawler 2] Response headers:
+ INFO [Crawler 2] 		Vary: Cookie
+ INFO [Crawler 2] 		X-Pingback: http://ntt2k.technology/xmlrpc.php
+ INFO [Crawler 2] 		Content-Type: text/html; charset=UTF-8
+ INFO [Crawler 2] 		Vary: Accept-Encoding
+ INFO [Crawler 2] 		Date: Sat, 31 Jan 2015 18:17:32 GMT
+ INFO [Crawler 2] 		Server: Google Frontend
+ INFO [Crawler 2] 		Cache-Control: private
+ INFO [Crawler 2] 		Alternate-Protocol: 80:quic,p=0.02,80:quic,p=0.02
+ INFO [Crawler 2] 		Accept-Ranges: none
+ INFO [Crawler 2] 		Transfer-Encoding: chunked
+ INFO [Crawler 4] Docid: 73
+ INFO [Crawler 4] URL: http://ntt2k.technology/tag/c/page/2/
+ INFO [Crawler 4] Domain: ntt2k.technology
+ INFO [Crawler 4] Sub-domain: 
+ INFO [Crawler 4] Path: /tag/c/page/2/
+ INFO [Crawler 4] Parent page: http://ntt2k.technology/tag/c/
+ INFO [Crawler 4] Anchor text: Older posts
+ INFO [Crawler 4] Text length: 2787
+ INFO [Crawler 4] Html length: 23719
+ INFO [Crawler 4] Number of outgoing links: 57
+ INFO [Crawler 4] Response headers:
+ INFO [Crawler 4] 		Vary: Cookie
+ INFO [Crawler 4] 		X-Pingback: http://ntt2k.technology/xmlrpc.php
+ INFO [Crawler 4] 		Content-Type: text/html; charset=UTF-8
+ INFO [Crawler 4] 		Vary: Accept-Encoding
+ INFO [Crawler 4] 		Date: Sat, 31 Jan 2015 18:17:34 GMT
+ INFO [Crawler 4] 		Server: Google Frontend
+ INFO [Crawler 4] 		Cache-Control: private
+ INFO [Crawler 4] 		Alternate-Protocol: 80:quic,p=0.02,80:quic,p=0.02
+ INFO [Crawler 4] 		Accept-Ranges: none
+ INFO [Crawler 4] 		Transfer-Encoding: chunked
+ INFO [Crawler 3] Docid: 83
+ INFO [Crawler 3] URL: http://ntt2k.technology/tag/python/feed/
+ INFO [Crawler 3] Domain: ntt2k.technology
+ INFO [Crawler 3] Sub-domain: 
+ INFO [Crawler 3] Path: /tag/python/feed/
+ INFO [Crawler 3] Parent page: http://ntt2k.technology/tag/python/
+ INFO [Crawler 3] Anchor text: null
+ INFO [Crawler 3] Text length: 22728
+ INFO [Crawler 3] Html length: 24944
+ INFO [Crawler 3] Number of outgoing links: 0
+ INFO [Crawler 3] Response headers:
+ INFO [Crawler 3] 		Vary: Cookie
+ INFO [Crawler 3] 		X-Pingback: http://ntt2k.technology/xmlrpc.php
+ INFO [Crawler 3] 		Last-Modified: Sat, 17 Jan 2015 22:12:50 GMT
+ INFO [Crawler 3] 		Content-Type: text/xml; charset=UTF-8
+ INFO [Crawler 3] 		Vary: Accept-Encoding
+ INFO [Crawler 3] 		Date: Sat, 31 Jan 2015 18:17:34 GMT
+ INFO [Crawler 3] 		Server: Google Frontend
+ INFO [Crawler 3] 		Cache-Control: private
+ INFO [Crawler 3] 		Alternate-Protocol: 80:quic,p=0.02,80:quic,p=0.02
+ INFO [Crawler 3] 		Accept-Ranges: none
+ INFO [Crawler 3] 		Transfer-Encoding: chunked
+ INFO [Crawler 1] Docid: 68
+ INFO [Crawler 1] URL: http://ntt2k.technology/2014/12/08/c-destructor-for-hashmap-to-clear-an-array-of-linked-lists-project3-ics45c-part-3/feed/
+ INFO [Crawler 1] Domain: ntt2k.technology
+ INFO [Crawler 1] Sub-domain: 
+ INFO [Crawler 1] Path: /2014/12/08/c-destructor-for-hashmap-to-clear-an-array-of-linked-lists-project3-ics45c-part-3/feed/
+ INFO [Crawler 1] Parent page: http://ntt2k.technology/2014/12/08/c-destructor-for-hashmap-to-clear-an-array-of-linked-lists-project3-ics45c-part-3/
+ INFO [Crawler 1] Anchor text: null
+ INFO [Crawler 1] Text length: 219
+ INFO [Crawler 1] Html length: 984
+ INFO [Crawler 1] Number of outgoing links: 0
+ INFO [Crawler 1] Response headers:
+ INFO [Crawler 1] 		Vary: Cookie
+ INFO [Crawler 1] 		X-Pingback: http://ntt2k.technology/xmlrpc.php
+ INFO [Crawler 1] 		Last-Modified: Wed, 24 Dec 2014 08:35:00 GMT
+ INFO [Crawler 1] 		Link: <http://ntt2k.technology/?p=159>; rel=shortlink
+ INFO [Crawler 1] 		Content-Type: text/xml; charset=UTF-8
+ INFO [Crawler 1] 		Vary: Accept-Encoding
+ INFO [Crawler 1] 		Date: Sat, 31 Jan 2015 18:17:36 GMT
+ INFO [Crawler 1] 		Server: Google Frontend
+ INFO [Crawler 1] 		Cache-Control: private
+ INFO [Crawler 1] 		Alternate-Protocol: 80:quic,p=0.02,80:quic,p=0.02
+ INFO [Crawler 1] 		Accept-Ranges: none
+ INFO [Crawler 1] 		Transfer-Encoding: chunked
+ INFO [Crawler 2] Docid: 25
+ INFO [Crawler 2] URL: http://ntt2k.technology/tag/uc-irvine/
+ INFO [Crawler 2] Domain: ntt2k.technology
+ INFO [Crawler 2] Sub-domain: 
+ INFO [Crawler 2] Path: /tag/uc-irvine/
+ INFO [Crawler 2] Parent page: http://ntt2k.technology/
+ INFO [Crawler 2] Anchor text: UC Irvine
+ INFO [Crawler 2] Text length: 6402
+ INFO [Crawler 2] Html length: 34311
+ INFO [Crawler 2] Number of outgoing links: 85
+ INFO [Crawler 2] Response headers:
+ INFO [Crawler 2] 		Vary: Cookie
+ INFO [Crawler 2] 		X-Pingback: http://ntt2k.technology/xmlrpc.php
+ INFO [Crawler 2] 		Content-Type: text/html; charset=UTF-8
+ INFO [Crawler 2] 		Vary: Accept-Encoding
+ INFO [Crawler 2] 		Date: Sat, 31 Jan 2015 18:17:36 GMT
+ INFO [Crawler 2] 		Server: Google Frontend
+ INFO [Crawler 2] 		Cache-Control: private
+ INFO [Crawler 2] 		Alternate-Protocol: 80:quic,p=0.02,80:quic,p=0.02
+ INFO [Crawler 2] 		Accept-Ranges: none
+ INFO [Crawler 2] 		Transfer-Encoding: chunked
+ INFO [Crawler 4] Docid: 79
+ INFO [Crawler 4] URL: http://ntt2k.technology/tag/java/feed/
+ INFO [Crawler 4] Domain: ntt2k.technology
+ INFO [Crawler 4] Sub-domain: 
+ INFO [Crawler 4] Path: /tag/java/feed/
+ INFO [Crawler 4] Parent page: http://ntt2k.technology/tag/java/
+ INFO [Crawler 4] Anchor text: null
+ INFO [Crawler 4] Text length: 2879
+ INFO [Crawler 4] Html length: 4092
+ INFO [Crawler 4] Number of outgoing links: 0
+ INFO [Crawler 4] Response headers:
+ INFO [Crawler 4] 		Vary: Cookie
+ INFO [Crawler 4] 		X-Pingback: http://ntt2k.technology/xmlrpc.php
+ INFO [Crawler 4] 		Last-Modified: Sat, 17 Jan 2015 22:12:50 GMT
+ INFO [Crawler 4] 		Content-Type: text/xml; charset=UTF-8
+ INFO [Crawler 4] 		Vary: Accept-Encoding
+ INFO [Crawler 4] 		Date: Sat, 31 Jan 2015 18:17:37 GMT
+ INFO [Crawler 4] 		Server: Google Frontend
+ INFO [Crawler 4] 		Cache-Control: private
+ INFO [Crawler 4] 		Alternate-Protocol: 80:quic,p=0.02,80:quic,p=0.02
+ INFO [Crawler 4] 		Accept-Ranges: none
+ INFO [Crawler 4] 		Transfer-Encoding: chunked
+ INFO [Crawler 2] Docid: 26
+ INFO [Crawler 2] URL: http://ntt2k.technology/tag/web-development/
+ INFO [Crawler 2] Domain: ntt2k.technology
+ INFO [Crawler 2] Sub-domain: 
+ INFO [Crawler 2] Path: /tag/web-development/
+ INFO [Crawler 2] Parent page: http://ntt2k.technology/
+ INFO [Crawler 2] Anchor text: Web Development
+ INFO [Crawler 2] Text length: 2697
+ INFO [Crawler 2] Html length: 23169
+ INFO [Crawler 2] Number of outgoing links: 57
+ INFO [Crawler 2] Response headers:
+ INFO [Crawler 2] 		Vary: Cookie
+ INFO [Crawler 2] 		X-Pingback: http://ntt2k.technology/xmlrpc.php
+ INFO [Crawler 2] 		Content-Type: text/html; charset=UTF-8
+ INFO [Crawler 2] 		Vary: Accept-Encoding
+ INFO [Crawler 2] 		Date: Sat, 31 Jan 2015 18:17:39 GMT
+ INFO [Crawler 2] 		Server: Google Frontend
+ INFO [Crawler 2] 		Cache-Control: private
+ INFO [Crawler 2] 		Alternate-Protocol: 80:quic,p=0.02,80:quic,p=0.02
+ INFO [Crawler 2] 		Accept-Ranges: none
+ INFO [Crawler 2] 		Transfer-Encoding: chunked
+ INFO [Crawler 3] Docid: 84
+ INFO [Crawler 3] URL: http://ntt2k.technology/tag/uc-irvine/feed/
+ INFO [Crawler 3] Domain: ntt2k.technology
+ INFO [Crawler 3] Sub-domain: 
+ INFO [Crawler 3] Path: /tag/uc-irvine/feed/
+ INFO [Crawler 3] Parent page: http://ntt2k.technology/tag/uc-irvine/
+ INFO [Crawler 3] Anchor text: null
+ INFO [Crawler 3] Text length: 47770
+ INFO [Crawler 3] Html length: 53757
+ INFO [Crawler 3] Number of outgoing links: 0
+ INFO [Crawler 3] Response headers:
+ INFO [Crawler 3] 		Vary: Cookie
+ INFO [Crawler 3] 		X-Pingback: http://ntt2k.technology/xmlrpc.php
+ INFO [Crawler 3] 		Last-Modified: Sat, 17 Jan 2015 22:12:50 GMT
+ INFO [Crawler 3] 		Content-Type: text/xml; charset=UTF-8
+ INFO [Crawler 3] 		Vary: Accept-Encoding
+ INFO [Crawler 3] 		Date: Sat, 31 Jan 2015 18:17:39 GMT
+ INFO [Crawler 3] 		Server: Google Frontend
+ INFO [Crawler 3] 		Cache-Control: private
+ INFO [Crawler 3] 		Alternate-Protocol: 80:quic,p=0.02,80:quic,p=0.02
+ INFO [Crawler 3] 		Accept-Ranges: none
+ INFO [Crawler 3] 		Transfer-Encoding: chunked
+ INFO [Crawler 1] Docid: 86
+ INFO [Crawler 1] URL: http://ntt2k.technology/tag/web-development/feed/
+ INFO [Crawler 1] Domain: ntt2k.technology
+ INFO [Crawler 1] Sub-domain: 
+ INFO [Crawler 1] Path: /tag/web-development/feed/
+ INFO [Crawler 1] Parent page: http://ntt2k.technology/tag/web-development/
+ INFO [Crawler 1] Anchor text: null
+ INFO [Crawler 1] Text length: 1601
+ INFO [Crawler 1] Html length: 2714
+ INFO [Crawler 1] Number of outgoing links: 0
+ INFO [Crawler 1] Response headers:
+ INFO [Crawler 1] 		Vary: Cookie
+ INFO [Crawler 1] 		X-Pingback: http://ntt2k.technology/xmlrpc.php
+ INFO [Crawler 1] 		Last-Modified: Sat, 17 Jan 2015 22:12:50 GMT
+ INFO [Crawler 1] 		Content-Type: text/xml; charset=UTF-8
+ INFO [Crawler 1] 		Vary: Accept-Encoding
+ INFO [Crawler 1] 		Date: Sat, 31 Jan 2015 18:17:41 GMT
+ INFO [Crawler 1] 		Server: Google Frontend
+ INFO [Crawler 1] 		Cache-Control: private
+ INFO [Crawler 1] 		Alternate-Protocol: 80:quic,p=0.02,80:quic,p=0.02
+ INFO [Crawler 1] 		Accept-Ranges: none
+ INFO [Crawler 1] 		Transfer-Encoding: chunked
+ INFO [Crawler 4] Docid: 82
+ INFO [Crawler 4] URL: http://ntt2k.technology/tag/linux/feed/
+ INFO [Crawler 4] Domain: ntt2k.technology
+ INFO [Crawler 4] Sub-domain: 
+ INFO [Crawler 4] Path: /tag/linux/feed/
+ INFO [Crawler 4] Parent page: http://ntt2k.technology/tag/linux/
+ INFO [Crawler 4] Anchor text: null
+ INFO [Crawler 4] Text length: 1741
+ INFO [Crawler 4] Html length: 2882
+ INFO [Crawler 4] Number of outgoing links: 0
+ INFO [Crawler 4] Response headers:
+ INFO [Crawler 4] 		Vary: Cookie
+ INFO [Crawler 4] 		X-Pingback: http://ntt2k.technology/xmlrpc.php
+ INFO [Crawler 4] 		Last-Modified: Sat, 17 Jan 2015 22:12:50 GMT
+ INFO [Crawler 4] 		Content-Type: text/xml; charset=UTF-8
+ INFO [Crawler 4] 		Vary: Accept-Encoding
+ INFO [Crawler 4] 		Date: Sat, 31 Jan 2015 18:17:41 GMT
+ INFO [Crawler 4] 		Server: Google Frontend
+ INFO [Crawler 4] 		Cache-Control: private
+ INFO [Crawler 4] 		Alternate-Protocol: 80:quic,p=0.02,80:quic,p=0.02
+ INFO [Crawler 4] 		Accept-Ranges: none
+ INFO [Crawler 4] 		Transfer-Encoding: chunked
+ INFO [Crawler 2] Docid: 27
+ INFO [Crawler 2] URL: http://ntt2k.technology/category/c/
+ INFO [Crawler 2] Domain: ntt2k.technology
+ INFO [Crawler 2] Sub-domain: 
+ INFO [Crawler 2] Path: /category/c/
+ INFO [Crawler 2] Parent page: http://ntt2k.technology/
+ INFO [Crawler 2] Anchor text: C++
+ INFO [Crawler 2] Text length: 6150
+ INFO [Crawler 2] Html length: 36829
+ INFO [Crawler 2] Number of outgoing links: 79
+ INFO [Crawler 2] Response headers:
+ INFO [Crawler 2] 		Vary: Cookie
+ INFO [Crawler 2] 		X-Pingback: http://ntt2k.technology/xmlrpc.php
+ INFO [Crawler 2] 		Content-Type: text/html; charset=UTF-8
+ INFO [Crawler 2] 		Vary: Accept-Encoding
+ INFO [Crawler 2] 		Date: Sat, 31 Jan 2015 18:17:43 GMT
+ INFO [Crawler 2] 		Server: Google Frontend
+ INFO [Crawler 2] 		Cache-Control: private
+ INFO [Crawler 2] 		Alternate-Protocol: 80:quic,p=0.02,80:quic,p=0.02
+ INFO [Crawler 2] 		Accept-Ranges: none
+ INFO [Crawler 2] 		Transfer-Encoding: chunked
+ INFO [Crawler 3] Docid: 85
+ INFO [Crawler 3] URL: http://ntt2k.technology/tag/uc-irvine/page/2/
+ INFO [Crawler 3] Domain: ntt2k.technology
+ INFO [Crawler 3] Sub-domain: 
+ INFO [Crawler 3] Path: /tag/uc-irvine/page/2/
+ INFO [Crawler 3] Parent page: http://ntt2k.technology/tag/uc-irvine/
+ INFO [Crawler 3] Anchor text: Older posts
+ INFO [Crawler 3] Text length: 6044
+ INFO [Crawler 3] Html length: 36510
+ INFO [Crawler 3] Number of outgoing links: 79
+ INFO [Crawler 3] Response headers:
+ INFO [Crawler 3] 		Vary: Cookie
+ INFO [Crawler 3] 		X-Pingback: http://ntt2k.technology/xmlrpc.php
+ INFO [Crawler 3] 		Content-Type: text/html; charset=UTF-8
+ INFO [Crawler 3] 		Vary: Accept-Encoding
+ INFO [Crawler 3] 		Date: Sat, 31 Jan 2015 18:17:43 GMT
+ INFO [Crawler 3] 		Server: Google Frontend
+ INFO [Crawler 3] 		Cache-Control: private
+ INFO [Crawler 3] 		Alternate-Protocol: 80:quic,p=0.02,80:quic,p=0.02
+ INFO [Crawler 3] 		Accept-Ranges: none
+ INFO [Crawler 3] 		Transfer-Encoding: chunked
+ INFO [Crawler 4] Docid: 74
+ INFO [Crawler 4] URL: http://ntt2k.technology/2014/11/29/c-how-to-deep-copy-an-array-of-linked-list/feed/
+ INFO [Crawler 4] Domain: ntt2k.technology
+ INFO [Crawler 4] Sub-domain: 
+ INFO [Crawler 4] Path: /2014/11/29/c-how-to-deep-copy-an-array-of-linked-list/feed/
+ INFO [Crawler 4] Parent page: http://ntt2k.technology/2014/11/29/c-how-to-deep-copy-an-array-of-linked-list/
+ INFO [Crawler 4] Anchor text: null
+ INFO [Crawler 4] Text length: 180
+ INFO [Crawler 4] Html length: 864
+ INFO [Crawler 4] Number of outgoing links: 0
+ INFO [Crawler 4] Response headers:
+ INFO [Crawler 4] 		Vary: Cookie
+ INFO [Crawler 4] 		X-Pingback: http://ntt2k.technology/xmlrpc.php
+ INFO [Crawler 4] 		Last-Modified: Wed, 24 Dec 2014 08:35:00 GMT
+ INFO [Crawler 4] 		Link: <http://ntt2k.technology/?p=76>; rel=shortlink
+ INFO [Crawler 4] 		Content-Type: text/xml; charset=UTF-8
+ INFO [Crawler 4] 		Vary: Accept-Encoding
+ INFO [Crawler 4] 		Date: Sat, 31 Jan 2015 18:17:44 GMT
+ INFO [Crawler 4] 		Server: Google Frontend
+ INFO [Crawler 4] 		Cache-Control: private
+ INFO [Crawler 4] 		Alternate-Protocol: 80:quic,p=0.02,80:quic,p=0.02
+ INFO [Crawler 4] 		Accept-Ranges: none
+ INFO [Crawler 4] 		Transfer-Encoding: chunked
+ INFO [Crawler 2] Docid: 28
+ INFO [Crawler 2] URL: http://ntt2k.technology/category/java/
+ INFO [Crawler 2] Domain: ntt2k.technology
+ INFO [Crawler 2] Sub-domain: 
+ INFO [Crawler 2] Path: /category/java/
+ INFO [Crawler 2] Parent page: http://ntt2k.technology/
+ INFO [Crawler 2] Anchor text: Java
+ INFO [Crawler 2] Text length: 2539
+ INFO [Crawler 2] Html length: 23307
+ INFO [Crawler 2] Number of outgoing links: 56
+ INFO [Crawler 2] Response headers:
+ INFO [Crawler 2] 		Vary: Cookie
+ INFO [Crawler 2] 		X-Pingback: http://ntt2k.technology/xmlrpc.php
+ INFO [Crawler 2] 		Content-Type: text/html; charset=UTF-8
+ INFO [Crawler 2] 		Vary: Accept-Encoding
+ INFO [Crawler 2] 		Date: Sat, 31 Jan 2015 18:17:45 GMT
+ INFO [Crawler 2] 		Server: Google Frontend
+ INFO [Crawler 2] 		Cache-Control: private
+ INFO [Crawler 2] 		Alternate-Protocol: 80:quic,p=0.02,80:quic,p=0.02
+ INFO [Crawler 2] 		Accept-Ranges: none
+ INFO [Crawler 2] 		Transfer-Encoding: chunked
+ INFO [Crawler 1] Docid: 87
+ INFO [Crawler 1] URL: http://ntt2k.technology/category/c/feed/
+ INFO [Crawler 1] Domain: ntt2k.technology
+ INFO [Crawler 1] Sub-domain: 
+ INFO [Crawler 1] Path: /category/c/feed/
+ INFO [Crawler 1] Parent page: http://ntt2k.technology/category/c/
+ INFO [Crawler 1] Anchor text: null
+ INFO [Crawler 1] Text length: 20806
+ INFO [Crawler 1] Html length: 24428
+ INFO [Crawler 1] Number of outgoing links: 0
+ INFO [Crawler 1] Response headers:
+ INFO [Crawler 1] 		Vary: Cookie
+ INFO [Crawler 1] 		X-Pingback: http://ntt2k.technology/xmlrpc.php
+ INFO [Crawler 1] 		Last-Modified: Sat, 17 Jan 2015 22:12:50 GMT
+ INFO [Crawler 1] 		Content-Type: text/xml; charset=UTF-8
+ INFO [Crawler 1] 		Vary: Accept-Encoding
+ INFO [Crawler 1] 		Date: Sat, 31 Jan 2015 18:17:46 GMT
+ INFO [Crawler 1] 		Server: Google Frontend
+ INFO [Crawler 1] 		Cache-Control: private
+ INFO [Crawler 1] 		Alternate-Protocol: 80:quic,p=0.02,80:quic,p=0.02
+ INFO [Crawler 1] 		Accept-Ranges: none
+ INFO [Crawler 1] 		Transfer-Encoding: chunked
+ INFO [Crawler 3] Docid: 89
+ INFO [Crawler 3] URL: http://ntt2k.technology/category/java/feed/
+ INFO [Crawler 3] Domain: ntt2k.technology
+ INFO [Crawler 3] Sub-domain: 
+ INFO [Crawler 3] Path: /category/java/feed/
+ INFO [Crawler 3] Parent page: http://ntt2k.technology/category/java/
+ INFO [Crawler 3] Anchor text: null
+ INFO [Crawler 3] Text length: 2879
+ INFO [Crawler 3] Html length: 4097
+ INFO [Crawler 3] Number of outgoing links: 0
+ INFO [Crawler 3] Response headers:
+ INFO [Crawler 3] 		Vary: Cookie
+ INFO [Crawler 3] 		X-Pingback: http://ntt2k.technology/xmlrpc.php
+ INFO [Crawler 3] 		Last-Modified: Sat, 17 Jan 2015 22:12:50 GMT
+ INFO [Crawler 3] 		Content-Type: text/xml; charset=UTF-8
+ INFO [Crawler 3] 		Vary: Accept-Encoding
+ INFO [Crawler 3] 		Date: Sat, 31 Jan 2015 18:17:48 GMT
+ INFO [Crawler 3] 		Server: Google Frontend
+ INFO [Crawler 3] 		Cache-Control: private
+ INFO [Crawler 3] 		Alternate-Protocol: 80:quic,p=0.02,80:quic,p=0.02
+ INFO [Crawler 3] 		Accept-Ranges: none
+ INFO [Crawler 3] 		Transfer-Encoding: chunked
+ INFO [Crawler 2] Docid: 29
+ INFO [Crawler 2] URL: http://ntt2k.technology/category/linux/
+ INFO [Crawler 2] Domain: ntt2k.technology
+ INFO [Crawler 2] Sub-domain: 
+ INFO [Crawler 2] Path: /category/linux/
+ INFO [Crawler 2] Parent page: http://ntt2k.technology/
+ INFO [Crawler 2] Anchor text: Linux
+ INFO [Crawler 2] Text length: 2641
+ INFO [Crawler 2] Html length: 23379
+ INFO [Crawler 2] Number of outgoing links: 58
+ INFO [Crawler 2] Response headers:
+ INFO [Crawler 2] 		Vary: Cookie
+ INFO [Crawler 2] 		X-Pingback: http://ntt2k.technology/xmlrpc.php
+ INFO [Crawler 2] 		Content-Type: text/html; charset=UTF-8
+ INFO [Crawler 2] 		Vary: Accept-Encoding
+ INFO [Crawler 2] 		Date: Sat, 31 Jan 2015 18:17:48 GMT
+ INFO [Crawler 2] 		Server: Google Frontend
+ INFO [Crawler 2] 		Cache-Control: private
+ INFO [Crawler 2] 		Alternate-Protocol: 80:quic,p=0.02,80:quic,p=0.02
+ INFO [Crawler 2] 		Accept-Ranges: none
+ INFO [Crawler 2] 		Transfer-Encoding: chunked
+ INFO [Crawler 4] Docid: 76
+ INFO [Crawler 4] URL: http://ntt2k.technology/2014/11/22/
+ INFO [Crawler 4] Domain: ntt2k.technology
+ INFO [Crawler 4] Sub-domain: 
+ INFO [Crawler 4] Path: /2014/11/22/
+ INFO [Crawler 4] Parent page: http://ntt2k.technology/2014/11/29/c-how-to-deep-copy-an-array-of-linked-list/
+ INFO [Crawler 4] Anchor text: 22
+ INFO [Crawler 4] Text length: 2372
+ INFO [Crawler 4] Html length: 22341
+ INFO [Crawler 4] Number of outgoing links: 54
+ INFO [Crawler 4] Response headers:
+ INFO [Crawler 4] 		Vary: Cookie
+ INFO [Crawler 4] 		X-Pingback: http://ntt2k.technology/xmlrpc.php
+ INFO [Crawler 4] 		Content-Type: text/html; charset=UTF-8
+ INFO [Crawler 4] 		Vary: Accept-Encoding
+ INFO [Crawler 4] 		Date: Sat, 31 Jan 2015 18:17:49 GMT
+ INFO [Crawler 4] 		Server: Google Frontend
+ INFO [Crawler 4] 		Cache-Control: private
+ INFO [Crawler 4] 		Alternate-Protocol: 80:quic,p=0.02,80:quic,p=0.02
+ INFO [Crawler 4] 		Accept-Ranges: none
+ INFO [Crawler 4] 		Transfer-Encoding: chunked
+ INFO [Crawler 1] Docid: 88
+ INFO [Crawler 1] URL: http://ntt2k.technology/category/c/page/2/
+ INFO [Crawler 1] Domain: ntt2k.technology
+ INFO [Crawler 1] Sub-domain: 
+ INFO [Crawler 1] Path: /category/c/page/2/
+ INFO [Crawler 1] Parent page: http://ntt2k.technology/category/c/
+ INFO [Crawler 1] Anchor text: Older posts
+ INFO [Crawler 1] Text length: 2792
+ INFO [Crawler 1] Html length: 23783
+ INFO [Crawler 1] Number of outgoing links: 57
+ INFO [Crawler 1] Response headers:
+ INFO [Crawler 1] 		Vary: Cookie
+ INFO [Crawler 1] 		X-Pingback: http://ntt2k.technology/xmlrpc.php
+ INFO [Crawler 1] 		Content-Type: text/html; charset=UTF-8
+ INFO [Crawler 1] 		Vary: Accept-Encoding
+ INFO [Crawler 1] 		Date: Sat, 31 Jan 2015 18:17:50 GMT
+ INFO [Crawler 1] 		Server: Google Frontend
+ INFO [Crawler 1] 		Cache-Control: private
+ INFO [Crawler 1] 		Alternate-Protocol: 80:quic,p=0.02,80:quic,p=0.02
+ INFO [Crawler 1] 		Accept-Ranges: none
+ INFO [Crawler 1] 		Transfer-Encoding: chunked
+ INFO [Crawler 3] Docid: 90
+ INFO [Crawler 3] URL: http://ntt2k.technology/category/linux/feed/
+ INFO [Crawler 3] Domain: ntt2k.technology
+ INFO [Crawler 3] Sub-domain: 
+ INFO [Crawler 3] Path: /category/linux/feed/
+ INFO [Crawler 3] Parent page: http://ntt2k.technology/category/linux/
+ INFO [Crawler 3] Anchor text: null
+ INFO [Crawler 3] Text length: 1741
+ INFO [Crawler 3] Html length: 2887
+ INFO [Crawler 3] Number of outgoing links: 0
+ INFO [Crawler 3] Response headers:
+ INFO [Crawler 3] 		Vary: Cookie
+ INFO [Crawler 3] 		X-Pingback: http://ntt2k.technology/xmlrpc.php
+ INFO [Crawler 3] 		Last-Modified: Sat, 17 Jan 2015 22:12:50 GMT
+ INFO [Crawler 3] 		Content-Type: text/xml; charset=UTF-8
+ INFO [Crawler 3] 		Vary: Accept-Encoding
+ INFO [Crawler 3] 		Date: Sat, 31 Jan 2015 18:17:51 GMT
+ INFO [Crawler 3] 		Server: Google Frontend
+ INFO [Crawler 3] 		Cache-Control: private
+ INFO [Crawler 3] 		Alternate-Protocol: 80:quic,p=0.02,80:quic,p=0.02
+ INFO [Crawler 3] 		Accept-Ranges: none
+ INFO [Crawler 3] 		Transfer-Encoding: chunked
+ INFO [Crawler 2] Docid: 30
+ INFO [Crawler 2] URL: http://ntt2k.technology/category/python/
+ INFO [Crawler 2] Domain: ntt2k.technology
+ INFO [Crawler 2] Sub-domain: 
+ INFO [Crawler 2] Path: /category/python/
+ INFO [Crawler 2] Parent page: http://ntt2k.technology/
+ INFO [Crawler 2] Anchor text: Python
+ INFO [Crawler 2] Text length: 3956
+ INFO [Crawler 2] Html length: 27071
+ INFO [Crawler 2] Number of outgoing links: 65
+ INFO [Crawler 2] Response headers:
+ INFO [Crawler 2] 		Vary: Cookie
+ INFO [Crawler 2] 		X-Pingback: http://ntt2k.technology/xmlrpc.php
+ INFO [Crawler 2] 		Content-Type: text/html; charset=UTF-8
+ INFO [Crawler 2] 		Vary: Accept-Encoding
+ INFO [Crawler 2] 		Date: Sat, 31 Jan 2015 18:17:52 GMT
+ INFO [Crawler 2] 		Server: Google Frontend
+ INFO [Crawler 2] 		Cache-Control: private
+ INFO [Crawler 2] 		Alternate-Protocol: 80:quic,p=0.02,80:quic,p=0.02
+ INFO [Crawler 2] 		Accept-Ranges: none
+ INFO [Crawler 2] 		Transfer-Encoding: chunked
+ INFO [Crawler 4] Docid: 77
+ INFO [Crawler 4] URL: http://ntt2k.technology/2014/11/29/
+ INFO [Crawler 4] Domain: ntt2k.technology
+ INFO [Crawler 4] Sub-domain: 
+ INFO [Crawler 4] Path: /2014/11/29/
+ INFO [Crawler 4] Parent page: http://ntt2k.technology/2014/11/29/c-how-to-deep-copy-an-array-of-linked-list/
+ INFO [Crawler 4] Anchor text: 29
+ INFO [Crawler 4] Text length: 2677
+ INFO [Crawler 4] Html length: 23418
+ INFO [Crawler 4] Number of outgoing links: 57
+ INFO [Crawler 4] Response headers:
+ INFO [Crawler 4] 		Vary: Cookie
+ INFO [Crawler 4] 		X-Pingback: http://ntt2k.technology/xmlrpc.php
+ INFO [Crawler 4] 		Content-Type: text/html; charset=UTF-8
+ INFO [Crawler 4] 		Vary: Accept-Encoding
+ INFO [Crawler 4] 		Date: Sat, 31 Jan 2015 18:17:53 GMT
+ INFO [Crawler 4] 		Server: Google Frontend
+ INFO [Crawler 4] 		Cache-Control: private
+ INFO [Crawler 4] 		Alternate-Protocol: 80:quic,p=0.02,80:quic,p=0.02
+ INFO [Crawler 4] 		Accept-Ranges: none
+ INFO [Crawler 4] 		Transfer-Encoding: chunked
+ INFO [Crawler 3] Docid: 91
+ INFO [Crawler 3] URL: http://ntt2k.technology/category/python/feed/
+ INFO [Crawler 3] Domain: ntt2k.technology
+ INFO [Crawler 3] Sub-domain: 
+ INFO [Crawler 3] Path: /category/python/feed/
+ INFO [Crawler 3] Parent page: http://ntt2k.technology/category/python/
+ INFO [Crawler 3] Anchor text: null
+ INFO [Crawler 3] Text length: 22728
+ INFO [Crawler 3] Html length: 24949
+ INFO [Crawler 3] Number of outgoing links: 0
+ INFO [Crawler 3] Response headers:
+ INFO [Crawler 3] 		Vary: Cookie
+ INFO [Crawler 3] 		X-Pingback: http://ntt2k.technology/xmlrpc.php
+ INFO [Crawler 3] 		Last-Modified: Sat, 17 Jan 2015 22:12:50 GMT
+ INFO [Crawler 3] 		Content-Type: text/xml; charset=UTF-8
+ INFO [Crawler 3] 		Vary: Accept-Encoding
+ INFO [Crawler 3] 		Date: Sat, 31 Jan 2015 18:17:54 GMT
+ INFO [Crawler 3] 		Server: Google Frontend
+ INFO [Crawler 3] 		Cache-Control: private
+ INFO [Crawler 3] 		Alternate-Protocol: 80:quic,p=0.02,80:quic,p=0.02
+ INFO [Crawler 3] 		Accept-Ranges: none
+ INFO [Crawler 3] 		Transfer-Encoding: chunked
+ INFO [Crawler 2] Docid: 31
+ INFO [Crawler 2] URL: http://ntt2k.technology/category/uc-irvine/
+ INFO [Crawler 2] Domain: ntt2k.technology
+ INFO [Crawler 2] Sub-domain: 
+ INFO [Crawler 2] Path: /category/uc-irvine/
+ INFO [Crawler 2] Parent page: http://ntt2k.technology/
+ INFO [Crawler 2] Anchor text: UC Irvine
+ INFO [Crawler 2] Text length: 6407
+ INFO [Crawler 2] Html length: 34370
+ INFO [Crawler 2] Number of outgoing links: 85
+ INFO [Crawler 2] Response headers:
+ INFO [Crawler 2] 		Vary: Cookie
+ INFO [Crawler 2] 		X-Pingback: http://ntt2k.technology/xmlrpc.php
+ INFO [Crawler 2] 		Content-Type: text/html; charset=UTF-8
+ INFO [Crawler 2] 		Vary: Accept-Encoding
+ INFO [Crawler 2] 		Date: Sat, 31 Jan 2015 18:17:56 GMT
+ INFO [Crawler 2] 		Server: Google Frontend
+ INFO [Crawler 2] 		Cache-Control: private
+ INFO [Crawler 2] 		Alternate-Protocol: 80:quic,p=0.02,80:quic,p=0.02
+ INFO [Crawler 2] 		Accept-Ranges: none
+ INFO [Crawler 2] 		Transfer-Encoding: chunked
+ INFO [Crawler 4] Docid: 78
+ INFO [Crawler 4] URL: http://ntt2k.technology/2014/11/30/
+ INFO [Crawler 4] Domain: ntt2k.technology
+ INFO [Crawler 4] Sub-domain: 
+ INFO [Crawler 4] Path: /2014/11/30/
+ INFO [Crawler 4] Parent page: http://ntt2k.technology/2014/11/29/c-how-to-deep-copy-an-array-of-linked-list/
+ INFO [Crawler 4] Anchor text: 30
+ INFO [Crawler 4] Text length: 2650
+ INFO [Crawler 4] Html length: 27019
+ INFO [Crawler 4] Number of outgoing links: 57
+ INFO [Crawler 4] Response headers:
+ INFO [Crawler 4] 		Vary: Cookie
+ INFO [Crawler 4] 		X-Pingback: http://ntt2k.technology/xmlrpc.php
+ INFO [Crawler 4] 		Content-Type: text/html; charset=UTF-8
+ INFO [Crawler 4] 		Vary: Accept-Encoding
+ INFO [Crawler 4] 		Date: Sat, 31 Jan 2015 18:17:56 GMT
+ INFO [Crawler 4] 		Server: Google Frontend
+ INFO [Crawler 4] 		Cache-Control: private
+ INFO [Crawler 4] 		Alternate-Protocol: 80:quic,p=0.02,80:quic,p=0.02
+ INFO [Crawler 4] 		Accept-Ranges: none
+ INFO [Crawler 4] 		Transfer-Encoding: chunked
+ INFO [Crawler 2] Docid: 32
+ INFO [Crawler 2] URL: http://ntt2k.technology/category/uncategorized/
+ INFO [Crawler 2] Domain: ntt2k.technology
+ INFO [Crawler 2] Sub-domain: 
+ INFO [Crawler 2] Path: /category/uncategorized/
+ INFO [Crawler 2] Parent page: http://ntt2k.technology/
+ INFO [Crawler 2] Anchor text: Uncategorized
+ INFO [Crawler 2] Text length: 3036
+ INFO [Crawler 2] Html length: 24769
+ INFO [Crawler 2] Number of outgoing links: 60
+ INFO [Crawler 2] Response headers:
+ INFO [Crawler 2] 		Vary: Cookie
+ INFO [Crawler 2] 		X-Pingback: http://ntt2k.technology/xmlrpc.php
+ INFO [Crawler 2] 		Content-Type: text/html; charset=UTF-8
+ INFO [Crawler 2] 		Vary: Accept-Encoding
+ INFO [Crawler 2] 		Date: Sat, 31 Jan 2015 18:17:58 GMT
+ INFO [Crawler 2] 		Server: Google Frontend
+ INFO [Crawler 2] 		Cache-Control: private
+ INFO [Crawler 2] 		Alternate-Protocol: 80:quic,p=0.02,80:quic,p=0.02
+ INFO [Crawler 2] 		Accept-Ranges: none
+ INFO [Crawler 2] 		Transfer-Encoding: chunked
+ INFO [Crawler 1] Docid: 92
+ INFO [Crawler 1] URL: http://ntt2k.technology/category/uc-irvine/feed/
+ INFO [Crawler 1] Domain: ntt2k.technology
+ INFO [Crawler 1] Sub-domain: 
+ INFO [Crawler 1] Path: /category/uc-irvine/feed/
+ INFO [Crawler 1] Parent page: http://ntt2k.technology/category/uc-irvine/
+ INFO [Crawler 1] Anchor text: null
+ INFO [Crawler 1] Text length: 47770
+ INFO [Crawler 1] Html length: 53762
+ INFO [Crawler 1] Number of outgoing links: 0
+ INFO [Crawler 1] Response headers:
+ INFO [Crawler 1] 		Vary: Cookie
+ INFO [Crawler 1] 		X-Pingback: http://ntt2k.technology/xmlrpc.php
+ INFO [Crawler 1] 		Last-Modified: Sat, 17 Jan 2015 22:12:50 GMT
+ INFO [Crawler 1] 		Content-Type: text/xml; charset=UTF-8
+ INFO [Crawler 1] 		Vary: Accept-Encoding
+ INFO [Crawler 1] 		Date: Sat, 31 Jan 2015 18:17:59 GMT
+ INFO [Crawler 1] 		Server: Google Frontend
+ INFO [Crawler 1] 		Cache-Control: private
+ INFO [Crawler 1] 		Alternate-Protocol: 80:quic,p=0.02,80:quic,p=0.02
+ INFO [Crawler 1] 		Accept-Ranges: none
+ INFO [Crawler 1] 		Transfer-Encoding: chunked
+ INFO [Crawler 4] Docid: 80
+ INFO [Crawler 4] URL: http://ntt2k.technology/2014/11/22/hello-world/feed/
+ INFO [Crawler 4] Domain: ntt2k.technology
+ INFO [Crawler 4] Sub-domain: 
+ INFO [Crawler 4] Path: /2014/11/22/hello-world/feed/
+ INFO [Crawler 4] Parent page: http://ntt2k.technology/2014/11/22/hello-world/
+ INFO [Crawler 4] Anchor text: null
+ INFO [Crawler 4] Text length: 610
+ INFO [Crawler 4] Html length: 1467
+ INFO [Crawler 4] Number of outgoing links: 0
+ INFO [Crawler 4] Response headers:
+ INFO [Crawler 4] 		Vary: Cookie
+ INFO [Crawler 4] 		X-Pingback: http://ntt2k.technology/xmlrpc.php
+ INFO [Crawler 4] 		Last-Modified: Wed, 24 Dec 2014 08:35:00 GMT
+ INFO [Crawler 4] 		Link: <http://ntt2k.technology/?p=1>; rel=shortlink
+ INFO [Crawler 4] 		Content-Type: text/xml; charset=UTF-8
+ INFO [Crawler 4] 		Vary: Accept-Encoding
+ INFO [Crawler 4] 		Date: Sat, 31 Jan 2015 18:17:59 GMT
+ INFO [Crawler 4] 		Server: Google Frontend
+ INFO [Crawler 4] 		Cache-Control: private
+ INFO [Crawler 4] 		Alternate-Protocol: 80:quic,p=0.02,80:quic,p=0.02
+ INFO [Crawler 4] 		Accept-Ranges: none
+ INFO [Crawler 4] 		Transfer-Encoding: chunked
+ INFO [Crawler 2] Docid: 33
+ INFO [Crawler 2] URL: http://ntt2k.technology/category/web-development/
+ INFO [Crawler 2] Domain: ntt2k.technology
+ INFO [Crawler 2] Sub-domain: 
+ INFO [Crawler 2] Path: /category/web-development/
+ INFO [Crawler 2] Parent page: http://ntt2k.technology/
+ INFO [Crawler 2] Anchor text: Web Development
+ INFO [Crawler 2] Text length: 2702
+ INFO [Crawler 2] Html length: 23223
+ INFO [Crawler 2] Number of outgoing links: 57
+ INFO [Crawler 2] Response headers:
+ INFO [Crawler 2] 		Vary: Cookie
+ INFO [Crawler 2] 		X-Pingback: http://ntt2k.technology/xmlrpc.php
+ INFO [Crawler 2] 		Content-Type: text/html; charset=UTF-8
+ INFO [Crawler 2] 		Vary: Accept-Encoding
+ INFO [Crawler 2] 		Date: Sat, 31 Jan 2015 18:18:01 GMT
+ INFO [Crawler 2] 		Server: Google Frontend
+ INFO [Crawler 2] 		Cache-Control: private
+ INFO [Crawler 2] 		Alternate-Protocol: 80:quic,p=0.02,80:quic,p=0.02
+ INFO [Crawler 2] 		Accept-Ranges: none
+ INFO [Crawler 2] 		Transfer-Encoding: chunked
+ INFO [Crawler 3] Docid: 94
+ INFO [Crawler 3] URL: http://ntt2k.technology/category/uncategorized/feed/
+ INFO [Crawler 3] Domain: ntt2k.technology
+ INFO [Crawler 3] Sub-domain: 
+ INFO [Crawler 3] Path: /category/uncategorized/feed/
+ INFO [Crawler 3] Parent page: http://ntt2k.technology/category/uncategorized/
+ INFO [Crawler 3] Anchor text: null
+ INFO [Crawler 3] Text length: 3334
+ INFO [Crawler 3] Html length: 4921
+ INFO [Crawler 3] Number of outgoing links: 0
+ INFO [Crawler 3] Response headers:
+ INFO [Crawler 3] 		Vary: Cookie
+ INFO [Crawler 3] 		X-Pingback: http://ntt2k.technology/xmlrpc.php
+ INFO [Crawler 3] 		Last-Modified: Sat, 17 Jan 2015 22:12:50 GMT
+ INFO [Crawler 3] 		Content-Type: text/xml; charset=UTF-8
+ INFO [Crawler 3] 		Vary: Accept-Encoding
+ INFO [Crawler 3] 		Date: Sat, 31 Jan 2015 18:18:01 GMT
+ INFO [Crawler 3] 		Server: Google Frontend
+ INFO [Crawler 3] 		Cache-Control: private
+ INFO [Crawler 3] 		Alternate-Protocol: 80:quic,p=0.02,80:quic,p=0.02
+ INFO [Crawler 3] 		Accept-Ranges: none
+ INFO [Crawler 3] 		Transfer-Encoding: chunked
+ INFO [Crawler 2] Docid: 34
+ INFO [Crawler 2] URL: http://ntt2k.technology/2015/01/
+ INFO [Crawler 2] Domain: ntt2k.technology
+ INFO [Crawler 2] Sub-domain: 
+ INFO [Crawler 2] Path: /2015/01/
+ INFO [Crawler 2] Parent page: http://ntt2k.technology/
+ INFO [Crawler 2] Anchor text: January 2015
+ INFO [Crawler 2] Text length: 2696
+ INFO [Crawler 2] Html length: 22974
+ INFO [Crawler 2] Number of outgoing links: 56
+ INFO [Crawler 2] Response headers:
+ INFO [Crawler 2] 		Vary: Cookie
+ INFO [Crawler 2] 		X-Pingback: http://ntt2k.technology/xmlrpc.php
+ INFO [Crawler 2] 		Content-Type: text/html; charset=UTF-8
+ INFO [Crawler 2] 		Vary: Accept-Encoding
+ INFO [Crawler 2] 		Date: Sat, 31 Jan 2015 18:18:03 GMT
+ INFO [Crawler 2] 		Server: Google Frontend
+ INFO [Crawler 2] 		Cache-Control: private
+ INFO [Crawler 2] 		Alternate-Protocol: 80:quic,p=0.02,80:quic,p=0.02
+ INFO [Crawler 2] 		Accept-Ranges: none
+ INFO [Crawler 2] 		Transfer-Encoding: chunked
+ INFO [Crawler 1] Docid: 93
+ INFO [Crawler 1] URL: http://ntt2k.technology/category/uc-irvine/page/2/
+ INFO [Crawler 1] Domain: ntt2k.technology
+ INFO [Crawler 1] Sub-domain: 
+ INFO [Crawler 1] Path: /category/uc-irvine/page/2/
+ INFO [Crawler 1] Parent page: http://ntt2k.technology/category/uc-irvine/
+ INFO [Crawler 1] Anchor text: Older posts
+ INFO [Crawler 1] Text length: 6049
+ INFO [Crawler 1] Html length: 36574
+ INFO [Crawler 1] Number of outgoing links: 79
+ INFO [Crawler 1] Response headers:
+ INFO [Crawler 1] 		Vary: Cookie
+ INFO [Crawler 1] 		X-Pingback: http://ntt2k.technology/xmlrpc.php
+ INFO [Crawler 1] 		Content-Type: text/html; charset=UTF-8
+ INFO [Crawler 1] 		Vary: Accept-Encoding
+ INFO [Crawler 1] 		Date: Sat, 31 Jan 2015 18:18:04 GMT
+ INFO [Crawler 1] 		Server: Google Frontend
+ INFO [Crawler 1] 		Cache-Control: private
+ INFO [Crawler 1] 		Alternate-Protocol: 80:quic,p=0.02,80:quic,p=0.02
+ INFO [Crawler 1] 		Accept-Ranges: none
+ INFO [Crawler 1] 		Transfer-Encoding: chunked
+ INFO [Crawler 3] Docid: 95
+ INFO [Crawler 3] URL: http://ntt2k.technology/category/web-development/feed/
+ INFO [Crawler 3] Domain: ntt2k.technology
+ INFO [Crawler 3] Sub-domain: 
+ INFO [Crawler 3] Path: /category/web-development/feed/
+ INFO [Crawler 3] Parent page: http://ntt2k.technology/category/web-development/
+ INFO [Crawler 3] Anchor text: null
+ INFO [Crawler 3] Text length: 1601
+ INFO [Crawler 3] Html length: 2719
+ INFO [Crawler 3] Number of outgoing links: 0
+ INFO [Crawler 3] Response headers:
+ INFO [Crawler 3] 		Vary: Cookie
+ INFO [Crawler 3] 		X-Pingback: http://ntt2k.technology/xmlrpc.php
+ INFO [Crawler 3] 		Last-Modified: Sat, 17 Jan 2015 22:12:50 GMT
+ INFO [Crawler 3] 		Content-Type: text/xml; charset=UTF-8
+ INFO [Crawler 3] 		Vary: Accept-Encoding
+ INFO [Crawler 3] 		Date: Sat, 31 Jan 2015 18:18:05 GMT
+ INFO [Crawler 3] 		Server: Google Frontend
+ INFO [Crawler 3] 		Cache-Control: private
+ INFO [Crawler 3] 		Alternate-Protocol: 80:quic,p=0.02,80:quic,p=0.02
+ INFO [Crawler 3] 		Accept-Ranges: none
+ INFO [Crawler 3] 		Transfer-Encoding: chunked
+ INFO [Crawler 2] Docid: 35
+ INFO [Crawler 2] URL: http://ntt2k.technology/2014/11/
+ INFO [Crawler 2] Domain: ntt2k.technology
+ INFO [Crawler 2] Sub-domain: 
+ INFO [Crawler 2] Path: /2014/11/
+ INFO [Crawler 2] Parent page: http://ntt2k.technology/
+ INFO [Crawler 2] Anchor text: November 2014
+ INFO [Crawler 2] Text length: 3928
+ INFO [Crawler 2] Html length: 30549
+ INFO [Crawler 2] Number of outgoing links: 66
+ INFO [Crawler 2] Response headers:
+ INFO [Crawler 2] 		Vary: Cookie
+ INFO [Crawler 2] 		X-Pingback: http://ntt2k.technology/xmlrpc.php
+ INFO [Crawler 2] 		Content-Type: text/html; charset=UTF-8
+ INFO [Crawler 2] 		Vary: Accept-Encoding
+ INFO [Crawler 2] 		Date: Sat, 31 Jan 2015 18:18:06 GMT
+ INFO [Crawler 2] 		Server: Google Frontend
+ INFO [Crawler 2] 		Cache-Control: private
+ INFO [Crawler 2] 		Alternate-Protocol: 80:quic,p=0.02,80:quic,p=0.02
+ INFO [Crawler 2] 		Accept-Ranges: none
+ INFO [Crawler 2] 		Transfer-Encoding: chunked
+ INFO [Crawler 2] Docid: 36
+ INFO [Crawler 2] URL: http://ntt2k.technology/2014/11/30/c-how-to-remove-a-specific-node-base-on-certain-key-member-project3-ics45c-part-2/
+ INFO [Crawler 2] Domain: ntt2k.technology
+ INFO [Crawler 2] Sub-domain: 
+ INFO [Crawler 2] Path: /2014/11/30/c-how-to-remove-a-specific-node-base-on-certain-key-member-project3-ics45c-part-2/
+ INFO [Crawler 2] Parent page: http://ntt2k.technology/
+ INFO [Crawler 2] Anchor text: [C++] How to remove a specific node base on certain key member â€“ project#3 ics45c part 2
+ INFO [Crawler 2] Text length: 4576
+ INFO [Crawler 2] Html length: 50658
+ INFO [Crawler 2] Number of outgoing links: 88
+ INFO [Crawler 2] Response headers:
+ INFO [Crawler 2] 		Vary: Cookie
+ INFO [Crawler 2] 		X-Pingback: http://ntt2k.technology/xmlrpc.php
+ INFO [Crawler 2] 		Content-Type: text/html; charset=UTF-8
+ INFO [Crawler 2] 		Link: <http://ntt2k.technology/?p=153>; rel=shortlink
+ INFO [Crawler 2] 		Vary: Accept-Encoding
+ INFO [Crawler 2] 		Date: Sat, 31 Jan 2015 18:18:08 GMT
+ INFO [Crawler 2] 		Server: Google Frontend
+ INFO [Crawler 2] 		Cache-Control: private
+ INFO [Crawler 2] 		Alternate-Protocol: 80:quic,p=0.02,80:quic,p=0.02
+ INFO [Crawler 2] 		Accept-Ranges: none
+ INFO [Crawler 2] 		Transfer-Encoding: chunked
+ INFO [Crawler 3] Docid: 96
+ INFO [Crawler 3] URL: http://ntt2k.technology/2014/11/30/c-how-to-remove-a-specific-node-base-on-certain-key-member-project3-ics45c-part-2/feed/
+ INFO [Crawler 3] Domain: ntt2k.technology
+ INFO [Crawler 3] Sub-domain: 
+ INFO [Crawler 3] Path: /2014/11/30/c-how-to-remove-a-specific-node-base-on-certain-key-member-project3-ics45c-part-2/feed/
+ INFO [Crawler 3] Parent page: http://ntt2k.technology/2014/11/30/c-how-to-remove-a-specific-node-base-on-certain-key-member-project3-ics45c-part-2/
+ INFO [Crawler 3] Anchor text: null
+ INFO [Crawler 3] Text length: 490
+ INFO [Crawler 3] Html length: 1499
+ INFO [Crawler 3] Number of outgoing links: 0
+ INFO [Crawler 3] Response headers:
+ INFO [Crawler 3] 		Vary: Cookie
+ INFO [Crawler 3] 		X-Pingback: http://ntt2k.technology/xmlrpc.php
+ INFO [Crawler 3] 		Last-Modified: Wed, 24 Dec 2014 08:35:00 GMT
+ INFO [Crawler 3] 		Link: <http://ntt2k.technology/?p=153>; rel=shortlink
+ INFO [Crawler 3] 		Content-Type: text/xml; charset=UTF-8
+ INFO [Crawler 3] 		Vary: Accept-Encoding
+ INFO [Crawler 3] 		Date: Sat, 31 Jan 2015 18:18:10 GMT
+ INFO [Crawler 3] 		Server: Google Frontend
+ INFO [Crawler 3] 		Cache-Control: private
+ INFO [Crawler 3] 		Alternate-Protocol: 80:quic,p=0.02,80:quic,p=0.02
+ INFO [Crawler 3] 		Accept-Ranges: none
+ INFO [Crawler 3] 		Transfer-Encoding: chunked
  INFO [Thread-1] It looks like no thread is working, waiting for 10 seconds to make sure...
  INFO [Thread-1] No thread is working and no more URLs are in queue waiting for another 10 seconds to make sure...
  INFO [Thread-1] All of the crawlers are stopped. Finishing the process...

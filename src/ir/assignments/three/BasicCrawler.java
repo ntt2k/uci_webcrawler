@@ -48,8 +48,8 @@ public class BasicCrawler extends WebCrawler {
     public boolean shouldVisit(WebURL url) {
         String href = url.getURL().toLowerCase();
 
-        return !BINARY_FILES_EXTENSIONS.matcher(href).matches() && href.startsWith("http://www.ics.uci.edu/");
-//        return !BINARY_FILES_EXTENSIONS.matcher(href).matches() && href.startsWith("http://ntt2k.technology/");
+//        return !BINARY_FILES_EXTENSIONS.matcher(href).matches() && href.startsWith("http://www.ics.uci.edu/");
+        return !BINARY_FILES_EXTENSIONS.matcher(href).matches() && href.startsWith("http://ntt2k.technology/");
     }
 
     /**
@@ -66,13 +66,13 @@ public class BasicCrawler extends WebCrawler {
         String parentUrl = page.getWebURL().getParentUrl();
         String anchor = page.getWebURL().getAnchor();
 
-        logger.info("Docid: {}" + docid);
+        logger.info("Docid: " + docid);
         logger.info("URL: " + url);
-        logger.info("Domain: '{}'" + domain);
-        logger.info("Sub-domain: '{}'" + subDomain);
-        logger.info("Path: '{}'" + path);
-        logger.info("Parent page: {}" + parentUrl);
-        logger.info("Anchor text: {}" + anchor);
+        logger.info("Domain: " + domain);
+        logger.info("Sub-domain: " + subDomain);
+        logger.info("Path: " + path);
+        logger.info("Parent page: " + parentUrl);
+        logger.info("Anchor text: " + anchor);
 
         // Print out
         System.out.println("Docid: " + docid);
@@ -91,7 +91,7 @@ public class BasicCrawler extends WebCrawler {
 
             logger.info("Text length: " + text.length());
             logger.info("Html length: " + html.length());
-            logger.info("Number of outgoing links: {}" + links.size());
+            logger.info("Number of outgoing links: " + links.size());
 
             // Print out
             System.out.println("Text length: " + text.length());
@@ -105,13 +105,13 @@ public class BasicCrawler extends WebCrawler {
             logger.info("Response headers:");
             System.out.println("Response headers:");
             for (Header header : responseHeaders) {
-                logger.info("\t{}: {}" + header.getName() + " " + header.getValue());
+                logger.info("\t\t" + header.getName() + ": " + header.getValue());
 
-                System.out.println("\t" + header.getName() + ": " + header.getValue());
+                System.out.println("\t\t" + header.getName() + ": " + header.getValue());
             }
         }
 
-        logger.debug("=============");
+        logger.debug("===================================");
     }
 }
 
