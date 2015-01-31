@@ -1,17 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="403a682d-5217-43b4-b046-c04cff332ba8" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data_output/frontier/00000000.jdb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data_output/frontier/je.info.0" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data_output/frontier/je.info.0.lck" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data_output/frontier/je.lck" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Assignment3/ir/assignments/three/BasicCrawler.class" afterPath="$PROJECT_DIR$/out/production/Assignment3/ir/assignments/three/BasicCrawler.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ir/assignments/three/BasicCrawlController.java" afterPath="$PROJECT_DIR$/src/ir/assignments/three/BasicCrawlController.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ir/assignments/three/BasicCrawler.java" afterPath="$PROJECT_DIR$/src/ir/assignments/three/BasicCrawler.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Standard_Output.log" afterPath="$PROJECT_DIR$/Standard_Output.log" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="403a682d-5217-43b4-b046-c04cff332ba8" name="Default" comment="" />
     <ignored path="Assignment3.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
