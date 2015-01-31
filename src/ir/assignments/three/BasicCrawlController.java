@@ -26,9 +26,7 @@ import edu.uci.ics.crawler4j.robotstxt.RobotstxtServer;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
-/**
- * @author Yasser Ganjisaffar [lastname at gmail dot com]
- */
+
 public class BasicCrawlController {
     private static Logger logger = LoggerFactory.getLogger(BasicCrawlController.class);
 
@@ -66,13 +64,13 @@ public class BasicCrawlController {
      * You can set the maximum crawl depth here. The default value is -1 for
      * unlimited depth
      */
-        config.setMaxDepthOfCrawling(2);
+//        config.setMaxDepthOfCrawling(2);
 
     /*
      * You can set the maximum number of pages to crawl. The default value
      * is -1 for unlimited number of pages
      */
-        config.setMaxPagesToFetch(1000);
+//        config.setMaxPagesToFetch(1000);
 
         /**
          * Do you want crawler4j to crawl also binary data ?
@@ -96,7 +94,10 @@ public class BasicCrawlController {
      * want to start a fresh crawl, you need to delete the contents of
      * rootFolder manually.
      */
-        config.setResumableCrawling(false);
+//        config.setResumableCrawling(false);
+        config.setResumableCrawling(true);
+
+        config.setUserAgentString("UCI Inf141-CS121 crawler 14853167 67255516");
 
     /*
      * Instantiate the controller for this crawl.
@@ -112,8 +113,9 @@ public class BasicCrawlController {
      * which are found in these pages
      */
         controller.addSeed("http://www.ics.uci.edu/");
-        controller.addSeed("http://www.ics.uci.edu/~lopes/");
-        controller.addSeed("http://www.ics.uci.edu/~welling/");
+//        controller.addSeed("http://www.ics.uci.edu/~lopes/");
+//        controller.addSeed("http://www.ics.uci.edu/~welling/");
+//        controller.addSeed("http://ntt2k.technology");
 
     /*
      * Start the crawl. This is a blocking operation, meaning that your code

@@ -24,9 +24,9 @@ import edu.uci.ics.crawler4j.parser.HtmlParseData;
 import edu.uci.ics.crawler4j.url.WebURL;
 
 import java.util.List;
-import java.util.Set;
+//import java.util.Set;
 import java.util.regex.Pattern;
-import java.lang.Throwable;
+//import java.lang.Throwable;
 
 import org.apache.http.Header;
 
