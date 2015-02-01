@@ -27,7 +27,6 @@ public class Crawler {
 	 * collection containing all URLs visited during the crawl.
 	 */
     private static Logger logger = LoggerFactory.getLogger(BasicCrawlController.class);
-    private static String targetURL = "http://ntt2k.technology";
     private static String crawlStorageFolder;
     private  static int numberOfCrawlers;
 
@@ -53,14 +52,6 @@ public class Crawler {
          */
         config.setIncludeBinaryContentInCrawling(false);
 
-    /*
-     * Do you need to set a proxy? If so, you can use:
-     * config.setProxyHost("proxyserver.example.com");
-     * config.setProxyPort(8080);
-     *
-     * If your proxy also needs authentication:
-     * config.setProxyUsername(username); config.getProxyPassword(password);
-     */
 
     /*
      * This config parameter can be used to set your crawl to be resumable
@@ -87,10 +78,8 @@ public class Crawler {
      * URLs that are fetched and then the crawler starts following links
      * which are found in these pages
      */
-//        controller.addSeed("http://www.ics.uci.edu/");
-//        controller.addSeed("http://www.ics.uci.edu/~lopes/");
-//        controller.addSeed("http://www.ics.uci.edu/~welling/");
-        controller.addSeed("http://ntt2k.technology");
+
+        controller.addSeed(seedURL);
 
     /*
      * Start the crawl. This is a blocking operation, meaning that your code
@@ -137,6 +126,7 @@ public class Crawler {
 
     public static void main(String[] args) {
 
+        String targetURL = "http://ntt2k.technology/";
 
         if (args.length != 2) {
             logger.info("Needed parameters: ");
@@ -156,8 +146,11 @@ public class Crawler {
          * be initiated for crawling.
          */
             numberOfCrawlers = Integer.parseInt(args[1]);
+
         try {
+
             crawl(targetURL);
+
         } catch (Exception e) {
             e.printStackTrace();
             System.err.println("Error setting the targetURL to crawl: \"" + targetURL + "\"");
