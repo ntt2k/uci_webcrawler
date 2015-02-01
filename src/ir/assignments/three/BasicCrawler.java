@@ -70,18 +70,18 @@ public class BasicCrawler extends WebCrawler {
         logger.info("URL: " + url);
         logger.info("Domain: " + domain);
         logger.info("Sub-domain: " + subDomain);
-        logger.info("Path: " + path);
-        logger.info("Parent page: " + parentUrl);
-        logger.info("Anchor text: " + anchor);
+//        logger.info("Path: " + path);
+//        logger.info("Parent page: " + parentUrl);
+//        logger.info("Anchor text: " + anchor);
 
         // Print out
         System.out.println("Docid: " + docid);
         System.out.println("URL: " + url);
         System.out.println("Domain: " + domain);
         System.out.println("Sub-domain: " + subDomain);
-        System.out.println("Path: " + path);
-        System.out.println("Parent page: " + parentUrl);
-        System.out.println("Anchor text: " + anchor);
+//        System.out.println("Path: " + path);
+//        System.out.println("Parent page: " + parentUrl);
+//        System.out.println("Anchor text: " + anchor);
 
         if (page.getParseData() instanceof HtmlParseData) {
             HtmlParseData htmlParseData = (HtmlParseData) page.getParseData();
@@ -91,25 +91,28 @@ public class BasicCrawler extends WebCrawler {
 
             logger.info("Text length: " + text.length());
             logger.info("Html length: " + html.length());
-            logger.info("Number of outgoing links: " + links.size());
+//            logger.info("Number of outgoing links: " + links.size());
 
             // Print out
+//            System.out.println("Text: " + text);
+//            System.out.println("Html: " + html);
             System.out.println("Text length: " + text.length());
             System.out.println("Html length: " + html.length());
-            System.out.println("Number of outgoing links: " + links.size());
+//            System.out.println("Number of outgoing links: " + links.size());
         }
 
-        Header[] responseHeaders = page.getFetchResponseHeaders();
-        if (responseHeaders != null) {
-
-            logger.info("Response headers:");
-            System.out.println("Response headers:");
-            for (Header header : responseHeaders) {
-                logger.info("\t\t" + header.getName() + ": " + header.getValue());
-
-                System.out.println("\t\t" + header.getName() + ": " + header.getValue());
-            }
-        }
+//        Header[] responseHeaders = page.getFetchResponseHeaders();
+//        if (responseHeaders != null) {
+//
+//            logger.info("Response headers:");
+//            System.out.println("Response headers:");
+//
+//            for (Header header : responseHeaders) {
+//                logger.info("\t\t" + header.getName() + ": " + header.getValue());
+//
+//                System.out.println("\t\t" + header.getName() + ": " + header.getValue());
+//            }
+//        }
 
         logger.debug("===================================");
     }
