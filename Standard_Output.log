@@ -1,0 +1,3351 @@
+Crawler 1 started.
+Crawler 2 started.
+Crawler 3 started.
+Crawler 4 started.
+Crawler 5 started.
+Crawler 6 started.
+Crawler 7 started.
+Crawler 8 started.
+Crawler 9 started.
+Crawler 10 started.
+Docid: 1
+URL: http://www.ics.uci.edu/
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 4236
+Html length: 34258
+Docid: 2
+URL: http://www.ics.uci.edu/about/
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 4615
+Html length: 16247
+Docid: 52
+URL: http://www.ics.uci.edu/involved/tech_talk
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 3468
+Html length: 14409
+Docid: 63
+URL: http://www.ics.uci.edu/about/bren/index.php
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 4414
+Html length: 15828
+Docid: 3
+URL: http://www.ics.uci.edu/about/about_mission.php
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 3515
+Html length: 14665
+Docid: 76
+URL: http://www.ics.uci.edu/about/bren/bren_vision.php
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 4740
+Html length: 16298
+Docid: 64
+URL: http://www.ics.uci.edu/faculty/area/index.php
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 10938
+Html length: 23846
+Docid: 69
+URL: http://www.ics.uci.edu/involved/tech_talk.php
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 3468
+Html length: 14409
+Docid: 53
+URL: http://www.ics.uci.edu/involved/information_session
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 3945
+Html length: 14930
+Docid: 70
+URL: http://www.ics.uci.edu/involved/information_session.php
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 3945
+Html length: 14930
+Docid: 80
+URL: http://www.ics.uci.edu/faculty/area/area_algorithms.php
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 3496
+Html length: 15790
+Docid: 65
+URL: http://www.ics.uci.edu/ugrad/index.php
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 5785
+Html length: 21784
+Docid: 77
+URL: http://www.ics.uci.edu/about/bren/bren_about.php
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 7847
+Html length: 19685
+Docid: 4
+URL: http://www.ics.uci.edu/about/about_deanmsg.php
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 4266
+Html length: 15779
+Docid: 78
+URL: http://www.ics.uci.edu/about/bren/bren_advance.php
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 3906
+Html length: 15953
+Docid: 112
+URL: http://www.ics.uci.edu/ugrad/sao/Appts_Walk-Ins.php
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 4074
+Html length: 18545
+Docid: 66
+URL: http://www.ics.uci.edu/grad/index.php
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 4663
+Html length: 17590
+Docid: 103
+URL: http://www.ics.uci.edu/faculty/profiles/view_faculty.php?ucinetid=mbdillen
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 3290
+Html length: 15208
+Docid: 71
+URL: http://www.ics.uci.edu/involved/project_class.php
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 4274
+Html length: 15800
+Docid: 54
+URL: http://www.ics.uci.edu/involved/project_class
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 4274
+Html length: 15800
+Docid: 72
+URL: http://www.ics.uci.edu/involved/leadership_council.php
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 5043
+Html length: 16834
+Docid: 81
+URL: http://www.ics.uci.edu/faculty/area/area_ai.php
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 3718
+Html length: 17030
+Docid: 104
+URL: http://www.ics.uci.edu/faculty/profiles/view_faculty.php?ucinetid=eppstein
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 3199
+Html length: 15117
+Docid: 130
+URL: http://www.ics.uci.edu/grad/admissions/index.php
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 3905
+Html length: 16383
+Docid: 67
+URL: http://www.ics.uci.edu/about/videos/index.php
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 3546
+Html length: 15378
+Docid: 129
+URL: http://www.ics.uci.edu/ugrad/sao/
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 5262
+Html length: 17735
+Docid: 113
+URL: http://www.ics.uci.edu/ugrad/sao/index.php
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 5262
+Html length: 17735
+Docid: 79
+URL: http://www.ics.uci.edu/about/bren/bren_press.php
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 4329
+Html length: 23444
+Docid: 5
+URL: http://www.ics.uci.edu/about/bren/
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 4414
+Html length: 15828
+Docid: 165
+URL: http://www.ics.uci.edu/community/news/press/view_press?id=20
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 6334
+Html length: 18273
+Docid: 114
+URL: http://www.ics.uci.edu/ugrad/courses/index.php
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 4772
+Html length: 19122
+Docid: 163
+URL: http://www.ics.uci.edu/about/videos/
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 3546
+Html length: 15378
+Docid: 68
+URL: http://www.ics.uci.edu/about/about_safety.php
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 4112
+Html length: 17769
+Docid: 131
+URL: http://www.ics.uci.edu/grad/degrees/index.php
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 3334
+Html length: 17662
+Docid: 105
+URL: http://www.ics.uci.edu/faculty/profiles/view_faculty.php?ucinetid=goodrich
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 3260
+Html length: 15178
+Docid: 82
+URL: http://www.ics.uci.edu/faculty/area/area_biomed.php
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 3514
+Html length: 15604
+Docid: 73
+URL: http://www.ics.uci.edu/involved/corporate_partner.php
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 4729
+Html length: 16308
+Docid: 55
+URL: http://www.ics.uci.edu/involved/leadership_council
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 5043
+Html length: 16834
+Docid: 74
+URL: http://www.ics.uci.edu/involved/internship.php
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 4428
+Html length: 15811
+Docid: 83
+URL: http://www.ics.uci.edu/faculty/area/area_compdesign.php
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 2853
+Html length: 14899
+Docid: 106
+URL: http://www.ics.uci.edu/faculty/profiles/view_faculty.php?ucinetid=dhirschb
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 3090
+Html length: 14999
+Docid: 132
+URL: http://www.ics.uci.edu/grad/degrees/degrees_MSOverview.php
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 5617
+Html length: 17189
+Docid: 200
+URL: http://www.ics.uci.edu/ugrad/courses/
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 4772
+Html length: 19122
+Docid: 115
+URL: http://www.ics.uci.edu/ugrad/degrees/Double_Majors.php
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 4305
+Html length: 16450
+Docid: 166
+URL: http://www.ics.uci.edu/community/news/press/view_press?id=19
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 9219
+Html length: 21229
+Docid: 6
+URL: http://www.ics.uci.edu/about/about_factsfigures.php
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 5334
+Html length: 20100
+Docid: 167
+URL: http://www.ics.uci.edu/about/bren/gallery/gallery_01_jpg.php
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 2823
+Html length: 14881
+Docid: 116
+URL: http://www.ics.uci.edu/ugrad/degrees/Second_BA.php
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 5543
+Html length: 18246
+Docid: 141
+URL: http://www.ics.uci.edu/faculty/profiles/view_faculty.php?ucinetid=pfbaldi
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 3426
+Html length: 15355
+Docid: 189
+URL: http://www.ics.uci.edu/community/
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 3186
+Html length: 14735
+Docid: 133
+URL: http://www.ics.uci.edu/grad/degrees/degrees_PhDOverview.php
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 6202
+Html length: 17809
+Docid: 107
+URL: http://www.ics.uci.edu/faculty/profiles/view_faculty.php?ucinetid=ssirani
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 3140
+Html length: 15051
+Docid: 75
+URL: http://www.ics.uci.edu/community/events/butterworth/index.php
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 2549
+Html length: 14052
+Docid: 56
+URL: http://www.ics.uci.edu/involved/corporate_partner
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 4729
+Html length: 16308
+Docid: 233
+URL: http://www.ics.uci.edu/community/events/
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 0
+Html length: 221
+Docid: 84
+URL: http://www.ics.uci.edu/faculty/area/area_compgraphics.php
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 4047
+Html length: 15966
+Docid: 108
+URL: http://www.ics.uci.edu/faculty/profiles/view_faculty.php?ucinetid=sjarecki
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 3190
+Html length: 15109
+Docid: 134
+URL: http://www.ics.uci.edu/grad/courses/index.php
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 4450
+Html length: 18779
+Docid: 190
+URL: http://www.ics.uci.edu/community/news/press/
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 2852
+Html length: 15538
+Docid: 142
+URL: http://www.ics.uci.edu/faculty/profiles/view_faculty.php?ucinetid=dechter
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 3297
+Html length: 15210
+Docid: 117
+URL: http://www.ics.uci.edu/ugrad/degrees/Minors.php
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 4448
+Html length: 17891
+Docid: 168
+URL: http://www.ics.uci.edu/about/bren/gallery/gallery_02_jpg.php
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 2813
+Html length: 14863
+Docid: 7
+URL: http://www.ics.uci.edu/about/brenhall/index.php
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 4432
+Html length: 16341
+Docid: 169
+URL: http://www.ics.uci.edu/about/bren/gallery/gallery_03_jpg.php
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 2906
+Html length: 15045
+Docid: 143
+URL: http://www.ics.uci.edu/faculty/profiles/view_faculty.php?ucinetid=fowlkes
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 3257
+Html length: 15179
+Docid: 191
+URL: http://www.ics.uci.edu/community/alumni/index.php
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 3897
+Html length: 16289
+Docid: 135
+URL: http://www.ics.uci.edu/grad/forms/index.php
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 3469
+Html length: 16697
+Docid: 109
+URL: http://www.ics.uci.edu/faculty/profiles/view_faculty.php?ucinetid=lueker
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 3137
+Html length: 15049
+Docid: 85
+URL: http://www.ics.uci.edu/faculty/area/area_cscw.php
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 3062
+Html length: 15627
+Docid: 234
+URL: http://www.ics.uci.edu/community/events/competition/
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 5155
+Html length: 17543
+Docid: 57
+URL: http://www.ics.uci.edu/involved/internship
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 4428
+Html length: 15811
+Docid: 201
+URL: http://www.ics.uci.edu/grad/degrees/
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 3334
+Html length: 17662
+Docid: 110
+URL: http://www.ics.uci.edu/faculty/profiles/view_faculty.php?ucinetid=aregan
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 3060
+Html length: 14945
+Docid: 136
+URL: http://www.ics.uci.edu/grad/policies/index.php
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 3567
+Html length: 18884
+Docid: 192
+URL: http://www.ics.uci.edu/community/friends/index.php
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 4623
+Html length: 16819
+Docid: 118
+URL: http://www.ics.uci.edu/ugrad/QA_Petitions.php
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 4267
+Html length: 16741
+Docid: 170
+URL: http://www.ics.uci.edu/about/bren/gallery/gallery_04_jpg.php
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 2914
+Html length: 15060
+Docid: 8
+URL: http://www.ics.uci.edu/about/visit/index.php
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 4092
+Html length: 16672
+Docid: 171
+URL: http://www.ics.uci.edu/about/bren/gallery/gallery_05_jpg.php
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 2889
+Html length: 15003
+Docid: 119
+URL: http://www.ics.uci.edu/ugrad/policies/Academic_Honesty.php
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 6536
+Html length: 19087
+Docid: 144
+URL: http://www.ics.uci.edu/faculty/profiles/view_faculty.php?ucinetid=frost
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 2914
+Html length: 14822
+Docid: 193
+URL: http://www.ics.uci.edu/community/friends/leadershipcouncil/index.php
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 10623
+Html length: 27634
+Docid: 137
+URL: http://www.ics.uci.edu/grad/funding/index.php
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 4127
+Html length: 15923
+Docid: 86
+URL: http://www.ics.uci.edu/faculty/area/area_vision.php
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 3749
+Html length: 15868
+Docid: 202
+URL: http://www.ics.uci.edu/grad/degrees/degree_cs.php
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 6417
+Html length: 19512
+Docid: 58
+URL: http://www.ics.uci.edu/community/events/butterworth/
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 2549
+Html length: 14052
+Docid: 203
+URL: http://www.ics.uci.edu/grad/degrees/degree_informatics_phd.php
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 10703
+Html length: 22759
+Docid: 111
+URL: http://www.ics.uci.edu/~theory/
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 704
+Html length: 2172
+Docid: 138
+URL: http://www.ics.uci.edu/grad/resources.php
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 3057
+Html length: 15887
+Docid: 194
+URL: http://www.ics.uci.edu/community/news/index.php
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 3588
+Html length: 15477
+Docid: 145
+URL: http://www.ics.uci.edu/faculty/profiles/view_faculty.php?ucinetid=aihler
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 3154
+Html length: 15067
+Docid: 120
+URL: http://www.ics.uci.edu/ugrad/policies/Academic_Standing.php
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 6160
+Html length: 18392
+Docid: 172
+URL: http://www.ics.uci.edu/about/bren/gallery/gallery_06_jpg.php
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 2851
+Html length: 14953
+Docid: 9
+URL: http://www.ics.uci.edu/about/about_contact.php
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 3163
+Html length: 14613
+Docid: 173
+URL: http://www.ics.uci.edu/about/bren/gallery/gallery_07_jpg.php
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 2878
+Html length: 15001
+Docid: 121
+URL: http://www.ics.uci.edu/ugrad/policies/Add_Drop_ChangeOption.php
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 6673
+Html length: 19872
+Docid: 146
+URL: http://www.ics.uci.edu/faculty/profiles/view_faculty.php?ucinetid=rickl
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 3388
+Html length: 15303
+Fatal transport error: null while fetching https://ugradforms.ics.uci.edu/ (link found in doc #118)
+Docid: 195
+URL: http://www.ics.uci.edu/community/news/features/index.php
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 19425
+Html length: 59795
+Docid: 240
+URL: http://www.ics.uci.edu/about/brenhall/
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 4432
+Html length: 16341
+Docid: 87
+URL: http://www.ics.uci.edu/faculty/area/area_data.php
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 3726
+Html length: 15839
+Docid: 204
+URL: http://www.ics.uci.edu/grad/degrees/degree_inf-gen.php
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 4675
+Html length: 16254
+Docid: 205
+URL: http://www.ics.uci.edu/grad/degrees/degree_inf-ict.php
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 5075
+Html length: 16646
+Docid: 88
+URL: http://www.ics.uci.edu/faculty/area/area_embedded.php
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 4148
+Html length: 15963
+Docid: 241
+URL: http://www.ics.uci.edu/community/events/openhouse/dedication.html
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 4130
+Html length: 13466
+Docid: 196
+URL: http://www.ics.uci.edu/community/news/articles/index.php
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 4468
+Html length: 18741
+Docid: 290
+URL: http://www.ics.uci.edu/ugrad/policies/
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 3269
+Html length: 16661
+Docid: 147
+URL: http://www.ics.uci.edu/faculty/profiles/view_faculty.php?ucinetid=levorato
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 3241
+Html length: 15169
+Docid: 122
+URL: http://www.ics.uci.edu/ugrad/policies/Course_Outside_UCI.php
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 4002
+Html length: 16364
+Docid: 174
+URL: http://www.ics.uci.edu/about/bren/gallery/gallery_08_jpg.php
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 2838
+Html length: 14909
+Docid: 10
+URL: http://www.ics.uci.edu/about/equity/
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 6227
+Html length: 22302
+Docid: 175
+URL: http://www.ics.uci.edu/about/bren/gallery/gallery_09_jpg.php
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 2909
+Html length: 15043
+Docid: 123
+URL: http://www.ics.uci.edu/ugrad/policies/Grade_Options.php
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 5057
+Html length: 20114
+Docid: 148
+URL: http://www.ics.uci.edu/faculty/profiles/view_faculty.php?ucinetid=emj
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 3295
+Html length: 15261
+Docid: 292
+URL: http://www.ics.uci.edu/grad/funding/
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 4127
+Html length: 15923
+Docid: 286
+URL: http://www.ics.uci.edu/about/visit/
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 4092
+Html length: 16672
+Docid: 89
+URL: http://www.ics.uci.edu/faculty/area/area_environmental.php
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 3462
+Html length: 14992
+Docid: 206
+URL: http://www.ics.uci.edu/grad/degrees/degree_inf-ubi.php
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 4312
+Html length: 15854
+Docid: 207
+URL: http://www.ics.uci.edu/grad/degrees/degree_embedded.php
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 4201
+Html length: 15711
+Docid: 90
+URL: http://www.ics.uci.edu/faculty/area/area_hci.php
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 3102
+Html length: 15522
+Docid: 287
+URL: http://www.ics.uci.edu/about/visit/visit_fromLAX.php
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 3622
+Html length: 15686
+Docid: 308
+URL: http://vision.ics.uci.edu/
+Domain: uci.edu
+Sub-domain: vision.ics
+Text length: 1384
+Html length: 3362
+Docid: 149
+URL: http://www.ics.uci.edu/faculty/profiles/view_faculty.php?ucinetid=hombao
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 2868
+Html length: 14776
+Docid: 124
+URL: http://www.ics.uci.edu/ugrad/policies/Laptop_ComputerUse.php
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 4878
+Html length: 17626
+Docid: 176
+URL: http://www.ics.uci.edu/about/bren/gallery/gallery_10_jpg.php
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 2990
+Html length: 15216
+Docid: 11
+URL: http://www.ics.uci.edu/dept/
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 3371
+Html length: 13855
+Docid: 177
+URL: http://www.ics.uci.edu/about/bren/gallery/gallery_11_jpg.php
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 2841
+Html length: 14896
+Docid: 125
+URL: http://www.ics.uci.edu/ugrad/policies/Withdrawal_Readmission.php
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 5732
+Html length: 18253
+Docid: 150
+URL: http://www.ics.uci.edu/faculty/profiles/view_faculty.php?ucinetid=djpatter
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 3100
+Html length: 15025
+Docid: 288
+URL: http://www.ics.uci.edu/about/visit/visit_fromjwa.php
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 3344
+Html length: 15321
+Docid: 91
+URL: http://www.ics.uci.edu/faculty/area/area_medical.php
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 3054
+Html length: 15727
+Docid: 208
+URL: http://www.ics.uci.edu/grad/degrees/degree_se.php
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 3940
+Html length: 15497
+Docid: 210
+URL: http://www.ics.uci.edu/faculty/profiles/view_faculty.php?ucinetid=whayes
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 3279
+Html length: 15193
+Docid: 92
+URL: http://www.ics.uci.edu/faculty/area/area_multimedia.php
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 3015
+Html length: 14641
+Docid: 289
+URL: http://www.ics.uci.edu/about/visit/visit_fromfreeway.php
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 5157
+Html length: 18349
+Docid: 239
+URL: http://www.ics.uci.edu/~dechter/
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 2655
+Html length: 12561
+Docid: 151
+URL: http://www.ics.uci.edu/faculty/profiles/view_faculty.php?ucinetid=dramanan
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 3367
+Html length: 15302
+Docid: 126
+URL: http://www.ics.uci.edu/ugrad/QA_Graduation.php
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 7504
+Html length: 22647
+Docid: 178
+URL: http://www.ics.uci.edu/about/bren/gallery/gallery_12_jpg.php
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 2865
+Html length: 14978
+Docid: 12
+URL: http://www.informatics.uci.edu/
+Domain: uci.edu
+Sub-domain: www.informatics
+Text length: 1761
+Html length: 17590
+Docid: 179
+URL: http://www.ics.uci.edu/about/bren/gallery/gallery_13_jpg.php
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 2845
+Html length: 14950
+Docid: 152
+URL: http://www.ics.uci.edu/faculty/profiles/view_faculty.php?ucinetid=babaks
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 3348
+Html length: 15274
+Docid: 230
+URL: http://www.ics.uci.edu/faculty/profiles/view_faculty.php?ucinetid=majumder
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 3194
+Html length: 15111
+Docid: 197
+URL: http://www.ics.uci.edu/community/news/notes/index.php
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 56888
+Html length: 95056
+Docid: 93
+URL: http://www.ics.uci.edu/faculty/area/area_network.php
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 4086
+Html length: 16674
+Docid: 211
+URL: http://www.ics.uci.edu/faculty/profiles/view_faculty.php?ucinetid=ebozorgz
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 3014
+Html length: 14923
+Docid: 59
+URL: http://www.ics.uci.edu/community/news/notes/
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 56888
+Html length: 95056
+Docid: 212
+URL: http://www.ics.uci.edu/faculty/profiles/view_faculty.php?ucinetid=dutt
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 3345
+Html length: 15259
+Docid: 94
+URL: http://www.ics.uci.edu/faculty/area/area_systems.php
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 3635
+Html length: 15575
+Docid: 198
+URL: http://www.ics.uci.edu/community/news/press/index.php
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 2852
+Html length: 15538
+Docid: 231
+URL: http://www.ics.uci.edu/faculty/profiles/view_faculty.php?ucinetid=gopi
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 3067
+Html length: 14980
+Docid: 245
+URL: http://www.ics.uci.edu/~lueker/
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 4202
+Html length: 6452
+Docid: 153
+URL: http://www.ics.uci.edu/faculty/profiles/view_faculty.php?ucinetid=pjsmyth
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 3397
+Html length: 15319
+Docid: 127
+URL: http://www.ics.uci.edu/ugrad/resources/index.php
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 5967
+Html length: 20010
+Docid: 180
+URL: http://www.ics.uci.edu/about/bren/gallery/gallery_14_jpg.php
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 2832
+Html length: 14906
+Docid: 13
+URL: http://www.ics.uci.edu/faculty/area/
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 10938
+Html length: 23846
+Docid: 181
+URL: http://www.ics.uci.edu/about/bren/gallery/gallery_15_jpg.php
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 2815
+Html length: 14832
+Docid: 154
+URL: http://www.ics.uci.edu/faculty/profiles/view_faculty.php?ucinetid=sternh
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 3206
+Html length: 15122
+Docid: 291
+URL: http://frost.ics.uci.edu/
+Domain: uci.edu
+Sub-domain: frost.ics
+Text length: 779
+Html length: 1781
+Docid: 232
+URL: http://www.ics.uci.edu/faculty/profiles/view_faculty.php?ucinetid=wmt
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 3232
+Html length: 15155
+Docid: 95
+URL: http://www.ics.uci.edu/faculty/area/area_scientific.php
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 3182
+Html length: 14797
+Docid: 199
+URL: http://calendar.ics.uci.edu/calendar.php
+Domain: uci.edu
+Sub-domain: calendar.ics
+Text length: 8699
+Html length: 69868
+Docid: 213
+URL: http://www.ics.uci.edu/faculty/profiles/view_faculty.php?ucinetid=givargis
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 3112
+Html length: 15030
+Docid: 96
+URL: http://www.ics.uci.edu/faculty/area/area_security.php
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 3192
+Html length: 14893
+Docid: 60
+URL: http://calendar.ics.uci.edu/calendar.php?calendar=1
+Domain: uci.edu
+Sub-domain: calendar.ics
+Text length: 8699
+Html length: 69868
+Docid: 235
+URL: http://graphics.ics.uci.edu/
+Domain: uci.edu
+Sub-domain: graphics.ics
+Text length: 0
+Html length: 312
+Docid: 293
+URL: http://www.ics.uci.edu/~theory/stylesheet.css
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 142
+Html length: 143
+Docid: 155
+URL: http://www.ics.uci.edu/faculty/profiles/view_faculty.php?ucinetid=mwelling
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 3091
+Html length: 15011
+Docid: 182
+URL: http://www.ics.uci.edu/community/news/articles/view_article?id=23
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 6613
+Html length: 18643
+Docid: 183
+URL: http://www.ics.uci.edu/community/news/articles/view_article?id=24
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 6890
+Html length: 18884
+Docid: 128
+URL: http://www.ics.uci.edu/computing/account/new.php
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 1707
+Html length: 9591
+Docid: 156
+URL: http://www.ics.uci.edu/faculty/profiles/view_faculty.php?ucinetid=xhx
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 3118
+Html length: 15039
+Docid: 237
+URL: http://www.ics.uci.edu/grad/courses/
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 4450
+Html length: 18779
+Docid: 97
+URL: http://www.ics.uci.edu/faculty/area/area_social.php
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 3038
+Html length: 14807
+Docid: 214
+URL: http://www.ics.uci.edu/faculty/profiles/view_faculty.php?ucinetid=iharris
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 3200
+Html length: 15116
+Docid: 437
+URL: http://www.ics.uci.edu/about/equity/articles.php
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 4399
+Html length: 15927
+Docid: 215
+URL: http://www.ics.uci.edu/faculty/profiles/view_faculty.php?ucinetid=anicolau
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 3216
+Html length: 15136
+Docid: 244
+URL: http://www.ics.uci.edu/grad/forms/
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 3469
+Html length: 16697
+Docid: 157
+URL: http://cml.ics.uci.edu/
+Domain: uci.edu
+Sub-domain: cml.ics
+Text length: 2173
+Html length: 6605
+Docid: 387
+URL: http://isg.ics.uci.edu/
+Docid: 184
+URL: http://www.ics.uci.edu/community/news/articles/view_article?id=25
+Domain: uci.edu
+Sub-domain: www.ics
+Domain: uci.edu
+Sub-domain: isg.ics
+Text length: 7195
+Html length: 19238
+Text length: 4422
+Html length: 6898
+Docid: 14
+URL: http://www.ics.uci.edu/faculty/centers/
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 7437
+Html length: 19495
+Docid: 185
+URL: http://www.ics.uci.edu/community/news/articles/view_article?id=19
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 4745
+Html length: 16730
+Docid: 441
+URL: http://www.ics.uci.edu/faculty/profiles/view_faculty.php?ucinetid=yunanc
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 3029
+Html length: 14955
+Docid: 159
+URL: http://www.ics.uci.edu/grad/admissions/
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 3905
+Html length: 16383
+Docid: 246
+URL: http://www.ics.uci.edu/faculty/profiles/view_faculty.php?ucinetid=jpd
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 3204
+Html length: 15143
+Fatal transport error: null while fetching https://intranet.ics.uci.edu/ (link found in doc #1)
+Docid: 98
+URL: http://www.ics.uci.edu/faculty/area/area_software.php
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 3690
+Html length: 16036
+Docid: 216
+URL: http://www.ics.uci.edu/faculty/profiles/view_faculty.php?ucinetid=isaac
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 3338
+Html length: 15256
+Docid: 217
+URL: http://www.ics.uci.edu/faculty/profiles/view_faculty.php?ucinetid=aveidenb
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 3113
+Html length: 15031
+Docid: 99
+URL: http://www.ics.uci.edu/faculty/area/area_stats.php
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 3480
+Html length: 16467
+Docid: 595
+URL: http://www.ics.uci.edu/computing/services/sophos_win.php
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 3801
+Html length: 10898
+Docid: 247
+URL: http://www.ics.uci.edu/faculty/profiles/view_faculty.php?ucinetid=hayesg
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 3248
+Html length: 15172
+Docid: 160
+URL: http://www.ics.uci.edu/grad/degrees/NEW_index.php
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 3300
+Html length: 17406
+Docid: 453
+URL: http://www.ics.uci.edu/ugrad/policies/Computer_Ethics.php
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 11645
+Html length: 23736
+Docid: 186
+URL: http://www.ics.uci.edu/community/news/articles/view_article?id=20
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 5344
+Html length: 17402
+Loaded 660 URLs that had been detected in previous crawl.
+Loaded 256 URLs that have been in process in the previous crawl.
+Rescheduling 256 URLs from previous crawl.
+Crawler 1 started.
+Crawler 2 started.
+Crawler 3 started.
+Crawler 4 started.
+Crawler 5 started.
+Crawler 6 started.
+Crawler 7 started.
+Crawler 8 started.
+Crawler 9 started.
+Crawler 10 started.
+Docid: 251
+URL: http://www.ics.uci.edu/faculty/profiles/view_faculty.php?ucinetid=jsolson
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 3132
+Html length: 15050
+Docid: 252
+URL: http://www.ics.uci.edu/faculty/profiles/view_faculty.php?ucinetid=golson
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 3197
+Html length: 15108
+Docid: 451
+URL: http://vision.ics.uci.edu/links.html
+Domain: uci.edu
+Sub-domain: vision.ics
+Text length: 745
+Html length: 2783
+Docid: 226
+URL: http://www.ics.uci.edu/community/news/articles/view_article?id=392
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 3127
+Html length: 15264
+Docid: 362
+URL: http://www.ics.uci.edu/community/news/features/view_feature?id=48
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 7798
+Html length: 20837
+Docid: 519
+URL: http://honors.ics.uci.edu/
+Domain: uci.edu
+Sub-domain: honors.ics
+Text length: 1693
+Html length: 7660
+Docid: 470
+URL: http://www.ics.uci.edu/community/news/notes/index
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 56888
+Html length: 95056
+Docid: 493
+URL: http://www.informatics.uci.edu/ugrad/
+Domain: uci.edu
+Sub-domain: www.informatics
+Text length: 2204
+Html length: 10309
+Docid: 567
+URL: http://calendar.ics.uci.edu/calendar.php?calendar=1&day=22&month=01&type=day&year=2015
+Domain: uci.edu
+Sub-domain: calendar.ics
+Text length: 4069
+Html length: 38302
+Docid: 471
+URL: http://www.ics.uci.edu/~dechter/courses/ics-275b/fall-14/
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 6145
+Html length: 19974
+Docid: 363
+URL: http://www.ics.uci.edu/community/news/features/view_feature?id=24
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 4679
+Html length: 17463
+Docid: 253
+URL: http://www.ics.uci.edu/faculty/profiles/view_faculty.php?ucinetid=dfredmil
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 3360
+Html length: 15281
+Docid: 617
+URL: http://www.ics.uci.edu/faculty/profiles/view_faculty.php?ucinetid=jajones
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 3148
+Html length: 15062
+Docid: 618
+URL: http://www.ics.uci.edu/faculty/profiles/view_faculty.php?ucinetid=djr
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 3262
+Html length: 15171
+Docid: 254
+URL: http://www.ics.uci.edu/faculty/profiles/view_faculty.php?ucinetid=wscacchi
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 2989
+Html length: 14907
+Docid: 227
+URL: http://www.ics.uci.edu/community/news/press/view_press?id=147
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 5348
+Html length: 17744
+Docid: 364
+URL: http://www.ics.uci.edu/community/news/features/view_feature?id=25
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 9014
+Html length: 23054
+Docid: 520
+URL: http://www.ics.uci.edu/ugrad/internship/index.php
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 12874
+Html length: 27640
+Docid: 494
+URL: http://www.informatics.uci.edu/grad/
+Domain: uci.edu
+Sub-domain: www.informatics
+Text length: 3676
+Html length: 11157
+Docid: 568
+URL: http://calendar.ics.uci.edu/calendar.php?calendar=1&day=23&month=01&type=day&year=2015
+Domain: uci.edu
+Sub-domain: calendar.ics
+Text length: 4196
+Html length: 41435
+Docid: 473
+URL: http://www.ics.uci.edu/~dechter/talks/tutorial-ijcai2013/
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 3219
+Html length: 5304
+Docid: 521
+URL: http://www.ics.uci.edu/community/scholarships/index.php
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 6566
+Html length: 24483
+Docid: 365
+URL: http://www.ics.uci.edu/community/news/features/view_feature?id=29
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 8853
+Html length: 24160
+Docid: 228
+URL: http://www.ics.uci.edu/community/news/spotlight/spotlight_lamb.php
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 12371
+Html length: 24428
+Docid: 255
+URL: http://www.ics.uci.edu/faculty/profiles/view_faculty.php?ucinetid=taylor
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 3387
+Html length: 15329
+Docid: 619
+URL: http://www.ics.uci.edu/faculty/profiles/view_faculty.php?ucinetid=avanderh
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 3354
+Html length: 15265
+Docid: 649
+URL: http://se.ics.uci.edu/
+Domain: uci.edu
+Sub-domain: se.ics
+Text length: 0
+Html length: 311
+Docid: 256
+URL: http://www.ics.uci.edu/community/events/competition/rules.php
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 8097
+Html length: 20322
+Fatal transport error: omni.ics.uci.edu: Name or service not known while fetching http://omni.ics.uci.edu/robots.txt (link found in doc #0)
+Docid: 460
+URL: http://www.ics.uci.edu/~stasio/
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 8386
+Html length: 55935
+Docid: 238
+URL: http://www.ics.uci.edu/community/news/press/view_press?id=146
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 6753
+Html length: 19391
+Docid: 366
+URL: http://www.ics.uci.edu/community/news/features/view_feature?id=26
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 5028
+Html length: 17287
+Docid: 522
+URL: http://www.ics.uci.edu/ugrad/resources/ICS_StudentLife_nonTechOpps.php
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 4554
+Html length: 17219
+Docid: 474
+URL: http://www.ics.uci.edu/~dechter/index.html
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 2655
+Html length: 12561
+Docid: 495
+URL: http://www.informatics.uci.edu/contact/
+Domain: uci.edu
+Sub-domain: www.informatics
+Text length: 1279
+Html length: 8558
+Docid: 569
+URL: http://calendar.ics.uci.edu/calendar.php?calendar=1&day=24&month=01&type=day&year=2015
+Domain: uci.edu
+Sub-domain: calendar.ics
+Text length: 3968
+Html length: 37181
+Docid: 475
+URL: http://www.ics.uci.edu/~dechter/biographical.html
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 2326
+Html length: 12504
+Docid: 523
+URL: http://www.ics.uci.edu/computing/bin/styles/stylesheet_nosidebar.css
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 7948
+Html length: 8608
+Docid: 367
+URL: http://www.ics.uci.edu/community/news/features/view_feature?id=27
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 11410
+Html length: 26840
+Docid: 243
+URL: http://www.ics.uci.edu/community/alumni/stayconnected/index.php
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 4678
+Html length: 25115
+Docid: 257
+URL: http://www.ics.uci.edu/community/news/features/view_feature?id=2
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 10860
+Html length: 26338
+Docid: 653
+URL: http://www.ics.uci.edu/faculty/profiles/view_faculty.php?ucinetid=baldib
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 2682
+Html length: 14555
+Docid: 654
+URL: http://www.ics.uci.edu/faculty/profiles/view_faculty.php?ucinetid=dgillen
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 3238
+Html length: 15151
+Docid: 258
+URL: http://www.ics.uci.edu/community/events/competition/index.php
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 5155
+Html length: 17543
+Docid: 284
+URL: http://www.ics.uci.edu/community/scholarships/scholar_corporate.php
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 3510
+Html length: 14540
+Docid: 368
+URL: http://www.ics.uci.edu/community/news/features/view_feature?id=49
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 6355
+Html length: 18846
+Docid: 524
+URL: http://www.ics.uci.edu/computing/account/
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 1650
+Html length: 8806
+Docid: 476
+URL: http://www.ics.uci.edu/~dechter/research.html
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 6115
+Html length: 17499
+Docid: 496
+URL: http://www.ics.uci.edu/employment/employ_faculty.php
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 18924
+Html length: 31410
+Docid: 570
+URL: http://calendar.ics.uci.edu/calendar.php?calendar=1&day=25&month=01&type=day&year=2015
+Domain: uci.edu
+Sub-domain: calendar.ics
+Text length: 3968
+Html length: 37181
+Docid: 477
+URL: http://www.ics.uci.edu/~dechter/gradstudents.html
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 2047
+Html length: 13697
+Docid: 525
+URL: http://www.ics.uci.edu/computing/account/activate.php
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 1597
+Html length: 8534
+Docid: 369
+URL: http://www.ics.uci.edu/community/news/features/view_feature?id=28
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 10225
+Html length: 26909
+Docid: 316
+URL: http://www.ics.uci.edu/community/news/rss/index.php
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 4196
+Html length: 16590
+Docid: 501
+URL: http://www.ics.uci.edu/~babaks/
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 0
+Html length: 311
+Docid: 259
+URL: http://www.ics.uci.edu/community/events/competition/teams.php
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 2914
+Html length: 20277
+Docid: 655
+URL: http://www.ics.uci.edu/faculty/profiles/view_faculty.php?ucinetid=staceyah
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 2937
+Html length: 14850
+Docid: 656
+URL: http://www.ics.uci.edu/faculty/profiles/view_faculty.php?ucinetid=wjohnson
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 3209
+Html length: 15127
+Docid: 260
+URL: http://www.ics.uci.edu/community/events/competition/sponsors.php
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 5568
+Html length: 17741
+Docid: 317
+URL: http://www.ics.uci.edu/community/news/brenbits/brenbits-fall2014.php
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 6106
+Html length: 41528
+Docid: 370
+URL: http://www.ics.uci.edu/community/news/features/view_feature?id=50
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 3715
+Html length: 15753
+Docid: 478
+URL: http://www.ics.uci.edu/~dechter/publications.html
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 48933
+Html length: 86031
+Docid: 571
+URL: http://calendar.ics.uci.edu/calendar.php?calendar=1&day=26&month=01&type=day&year=2015
+Domain: uci.edu
+Sub-domain: calendar.ics
+Text length: 4098
+Html length: 38481
+Docid: 497
+URL: http://www.informatics.uci.edu/videos/
+Domain: uci.edu
+Sub-domain: www.informatics
+Text length: 32444
+Html length: 79497
+Docid: 526
+URL: http://www.ics.uci.edu/computing/account/password.php
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 1666
+Html length: 8616
+Docid: 371
+URL: http://www.ics.uci.edu/community/news/features/view_feature?id=30
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 4941
+Html length: 23304
+Docid: 320
+URL: http://www.ics.uci.edu/community/news/features/
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 19425
+Html length: 59795
+Docid: 502
+URL: http://www.ics.uci.edu/~fowlkes/
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 4409
+Html length: 11014
+Docid: 261
+URL: http://www.ics.uci.edu/community/events/competition/schedule.php
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 7182
+Html length: 20953
+Docid: 657
+URL: http://www.ics.uci.edu/faculty/profiles/view_faculty.php?ucinetid=jutts
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 2965
+Html length: 14886
+Docid: 658
+URL: http://www.ics.uci.edu/faculty/profiles/view_faculty.php?ucinetid=yamingy
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 3267
+Html length: 15179
+Docid: 262
+URL: http://www.ics.uci.edu/community/events/competition/past2014.php
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 6063
+Html length: 21570
+Docid: 321
+URL: http://www.ics.uci.edu/community/news/features/view_feature?id=67
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 10446
+Html length: 23300
+Docid: 372
+URL: http://www.ics.uci.edu/community/news/features/view_feature?id=51
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 8129
+Html length: 20633
+Docid: 527
+URL: http://www.ics.uci.edu/computing/account/quota.php
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 2973
+Html length: 10392
+Docid: 583
+URL: http://www.ics.uci.edu/%7etheory/
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 704
+Html length: 2172
+Docid: 479
+URL: http://www.ics.uci.edu/~dechter/talks.html
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 7233
+Html length: 22438
+Docid: 572
+URL: http://calendar.ics.uci.edu/calendar.php?calendar=1&day=30&month=01&type=day&year=2015
+Domain: uci.edu
+Sub-domain: calendar.ics
+Text length: 4426
+Html length: 42893
+Docid: 373
+URL: http://www.ics.uci.edu/community/news/features/view_feature?id=31
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 6531
+Html length: 20585
+Docid: 513
+URL: http://www.ics.uci.edu/~eli/
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 1352
+Html length: 42681
+Docid: 659
+URL: http://www.ics.uci.edu/faculty/profiles/view_faculty.php?ucinetid=yuzhaoxia
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 3251
+Html length: 15168
+Docid: 139
+URL: http://www.ics.uci.edu/faculty/profiles/
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 0
+Html length: 240
+Docid: 263
+URL: http://www.ics.uci.edu/faculty/profiles/view_faculty.php?ucinetid=jain
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 2915
+Html length: 14823
+Docid: 322
+URL: http://www.ics.uci.edu/community/news/features/view_feature?id=66
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 7690
+Html length: 20470
+Docid: 374
+URL: http://www.ics.uci.edu/community/news/features/view_feature?id=52
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 10552
+Html length: 25838
+Docid: 528
+URL: http://www.ics.uci.edu/computing/account/renewal.php
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 2121
+Html length: 9153
+Docid: 480
+URL: http://www.ics.uci.edu/~dechter/awards.html
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 1253
+Html length: 11339
+Docid: 573
+URL: http://calendar.ics.uci.edu/calendar.php?calendar=1&day=31&month=01&type=day&year=2015
+Domain: uci.edu
+Sub-domain: calendar.ics
+Text length: 3992
+Html length: 37691
+Docid: 529
+URL: http://www.ics.uci.edu/computing/account/mapdrive_win.php
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 5719
+Html length: 14636
+Docid: 375
+URL: http://www.ics.uci.edu/community/news/features/view_feature?id=32
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 5059
+Html length: 18123
+Docid: 514
+Docid: 264
+URL: http://www.ics.uci.edu/grad/policies/
+Domain: uci.edu
+Sub-domain: www.ics
+URL: http://www.ics.uci.edu/~dutt/
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 3567
+Html length: 18884
+Text length: 2477
+Html length: 98204
+Docid: 140
+URL: http://www.ics.uci.edu/~dillenco/
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 924
+Html length: 1739
+Docid: 15
+URL: http://www.ics.uci.edu/faculty/highlights/
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 10873
+Html length: 29184
+Docid: 158
+URL: http://www.ics.uci.edu/~eppstein/
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 1287
+Html length: 2941
+Docid: 265
+URL: http://www.ics.uci.edu/grad/policies/GradPolicies_AdvanceCandidacy.php
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 4554
+Html length: 16421
+Docid: 323
+URL: http://www.ics.uci.edu/community/news/features/view_feature?id=65
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 5340
+Html length: 18169
+Docid: 376
+URL: http://www.ics.uci.edu/community/news/features/view_feature?id=53
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 7444
+Html length: 20061
+Docid: 530
+URL: http://www.ics.uci.edu/computing/account/mapdrive_mac.php
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 3170
+Html length: 11752
+Docid: 646
+URL: http://luci.ics.uci.edu/
+Domain: uci.edu
+Sub-domain: luci.ics
+Text length: 240
+Html length: 2861
+Docid: 100
+URL: http://www.ics.uci.edu/faculty/area/area_ubi.php
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 4231
+Html length: 16149
+Docid: 531
+URL: http://www.ics.uci.edu/computing/account/faqs.php
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 4778
+Html length: 12762
+Docid: 377
+URL: http://www.ics.uci.edu/community/news/features/view_feature?id=54
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 7655
+Html length: 20115
+Docid: 324
+URL: http://www.ics.uci.edu/community/news/features/view_feature?id=62
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 6319
+Html length: 19168
+Docid: 266
+URL: http://www.ics.uci.edu/grad/policies/GradPolicies_CAResidency.php
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 3450
+Html length: 14925
+Docid: 209
+URL: http://www.ics.uci.edu/~goodrich/
+Docid: 16
+URL: http://www.ics.uci.edu/grad/
+Domain: uci.edu
+Sub-domain: www.ics
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 5927
+Html length: 10843
+Text length: 4663
+Html length: 17590
+Docid: 267
+URL: http://www.ics.uci.edu/grad/policies/GradPolicies_CandidacyCommittee.php
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 5994
+Html length: 17237
+Docid: 535
+URL: http://www.ics.uci.edu/~sternh/
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 1411
+Html length: 2639
+Docid: 325
+URL: http://www.ics.uci.edu/community/news/features/view_feature?id=33
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 4358
+Html length: 18966
+Docid: 378
+URL: http://www.ics.uci.edu/community/news/features/view_feature?id=55
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 4242
+Html length: 16689
+Docid: 101
+URL: http://www.ics.uci.edu/faculty/centers/index.php
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 7437
+Html length: 19495
+Docid: 481
+URL: http://www.ics.uci.edu/~dechter/software.html
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 1347
+Html length: 11702
+Docid: 482
+URL: http://www.ics.uci.edu/~dechter/courses.html
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 1276
+Html length: 11414
+Docid: 102
+URL: http://www.ics.uci.edu/faculty/highlights/index.php
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 10873
+Html length: 29184
+Docid: 379
+URL: http://www.ics.uci.edu/community/news/features/view_feature?id=56
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 8149
+Html length: 21255
+Docid: 326
+URL: http://www.ics.uci.edu/community/news/features/view_feature?id=34
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 6595
+Html length: 19640
+Docid: 268
+URL: http://www.ics.uci.edu/grad/policies/GradPolicies_CommitteeMembers.php
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 4551
+Html length: 15879
+Docid: 17
+URL: http://www.ics.uci.edu/grad/admissions/index
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 3905
+Html length: 16383
+Docid: 218
+URL: http://www.ics.uci.edu/~dan/
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 1277
+Html length: 5123
+Docid: 18
+URL: http://www.ics.uci.edu/grad/degrees/index
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 3334
+Html length: 17662
+Docid: 269
+URL: http://www.ics.uci.edu/grad/policies/GradPolicies_ComprehensiveExam.php
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 4208
+Html length: 15395
+Docid: 539
+URL: http://www.ics.uci.edu/~wmt/
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 895
+Html length: 6072
+Docid: 327
+URL: http://www.ics.uci.edu/community/news/features/view_feature?id=3
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 5202
+Html length: 18135
+Docid: 532
+URL: http://www.ics.uci.edu/computing/email/
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 3262
+Html length: 12383
+Docid: 483
+URL: http://www.ics.uci.edu/~dechter/books/
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 1935
+Html length: 13082
+Docid: 1070
+URL: http://cert.ics.uci.edu/
+Domain: uci.edu
+Sub-domain: cert.ics
+Text length: 4415
+Html length: 8167
+Docid: 533
+URL: http://www.ics.uci.edu/computing/email/google_apps.php
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 1871
+Html length: 10140
+Docid: 380
+URL: http://www.ics.uci.edu/community/news/features/view_feature?id=63
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 4926
+Html length: 17557
+Docid: 328
+URL: http://www.ics.uci.edu/community/news/features/view_feature?id=35
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 7690
+Html length: 21064
+Docid: 574
+URL: http://www.ics.uci.edu/~givargis/
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 20308
+Html length: 25907
+Docid: 270
+URL: http://www.ics.uci.edu/computing/policy/index.php
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 2286
+Html length: 9493
+Docid: 19
+URL: http://www.ics.uci.edu/grad/degrees/degrees_MSOverview
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 5617
+Html length: 17189
+Docid: 220
+URL: http://www.ics.uci.edu/about/bren/gallery/
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 0
+Html length: 257
+Docid: 20
+URL: http://www.ics.uci.edu/grad/degrees/degrees_PhDOverview
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 6202
+Html length: 17809
+Docid: 271
+URL: http://www.ics.uci.edu/grad/policies/GradPolicies_CopyrightInfringement.php
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 4126
+Html length: 15423
+Docid: 329
+URL: http://www.ics.uci.edu/community/news/features/view_feature?id=1
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 7457
+Html length: 20623
+Docid: 381
+URL: http://www.ics.uci.edu/community/news/features/view_feature?id=64
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 5158
+Html length: 17482
+Docid: 534
+URL: http://www.ics.uci.edu/computing/email/delivery_point.php
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 1727
+Html length: 8861
+Docid: 661
+URL: http://www.informatics.uci.edu/bin/styles/stylesheet_secondary.css
+Domain: uci.edu
+Sub-domain: www.informatics
+Text length: 12880
+Html length: 13741
+Docid: 382
+URL: http://www.ics.uci.edu/community/news/features/view_feature?id=58
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 6581
+Html length: 19053
+Docid: 330
+URL: http://www.ics.uci.edu/community/news/features/view_feature?id=4
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 5902
+Html length: 18806
+Docid: 272
+URL: http://www.ics.uci.edu/grad/policies/GradPolicies_CPT_OPT.php
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 3483
+Html length: 14961
+Docid: 21
+URL: http://www.ics.uci.edu/grad/courses/index
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 4450
+Html length: 18779
+Docid: 22
+URL: http://www.ics.uci.edu/grad/forms/index
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 3469
+Html length: 16697
+Docid: 273
+URL: http://www.ics.uci.edu/computing/policy/ethics.php
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 13189
+Html length: 20671
+Docid: 615
+URL: http://www.ics.uci.edu/~harris/
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 1813
+Html length: 3086
+Docid: 331
+URL: http://www.ics.uci.edu/community/news/features/view_feature?id=36
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 4556
+Html length: 17118
+Docid: 383
+URL: http://www.ics.uci.edu/community/news/features/view_feature?id=57
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 7015
+Html length: 19386
+Docid: 575
+URL: http://www.ics.uci.edu/faculty/profiles/view_faculty.php?ucinetid=gtsudik
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 2912
+Html length: 14825
+Docid: 384
+URL: http://www.ics.uci.edu/community/news/features/view_feature?id=60
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 6423
+Html length: 18849
+Docid: 332
+URL: http://www.ics.uci.edu/community/news/features/view_feature?id=5
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 7267
+Html length: 20479
+Docid: 274
+URL: http://www.ics.uci.edu/grad/policies/GradPolicies_Defense.php
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 4790
+Html length: 16471
+Docid: 23
+URL: http://www.ics.uci.edu/grad/policies/index
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 3567
+Html length: 18884
+Docid: 229
+URL: http://www.ics.uci.edu/~irani/
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 153
+Html length: 258
+Docid: 24
+URL: http://www.ics.uci.edu/grad/funding/index
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 4127
+Html length: 15923
+Docid: 275
+URL: http://www.ics.uci.edu/grad/policies/GradPolicies_EnrollmentStatus.php
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 6421
+Html length: 18267
+Docid: 621
+URL: http://cml.ics.uci.edu/css/igbweb_template2.css
+Domain: uci.edu
+Sub-domain: cml.ics
+Text length: 4902
+Html length: 5160
+Docid: 333
+URL: http://www.ics.uci.edu/community/news/features/view_feature?id=6
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 8594
+Html length: 21788
+Docid: 385
+URL: http://www.ics.uci.edu/community/news/features/view_feature?id=61
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 6302
+Html length: 18680
+Docid: 578
+URL: http://www.ics.uci.edu/computing/email/thunderbird_Gmail.php
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 5410
+Html length: 14012
+Docid: 504
+URL: http://sdcl.ics.uci.edu/
+Domain: uci.edu
+Sub-domain: sdcl.ics
+Text length: 7461
+Html length: 34914
+Docid: 682
+URL: http://www.ics.uci.edu/ugrad/degrees/index.php?track=cse
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 4358
+Html length: 19865
+Docid: 505
+URL: http://www.ics.uci.edu/community/news/notes/notes_2013.php
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 49120
+Html length: 83847
+Docid: 579
+URL: http://www.ics.uci.edu/computing/email/thunderbird_setup.php
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 2847
+Html length: 10210
+Docid: 386
+URL: http://www.ics.uci.edu/community/news/features/view_feature?id=59
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 4980
+Html length: 17300
+Docid: 334
+URL: http://www.ics.uci.edu/community/news/features/view_feature?id=7
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 4464
+Html length: 16806
+Docid: 622
+URL: http://cml.ics.uci.edu/?igbNews=google
+Domain: uci.edu
+Sub-domain: cml.ics
+Text length: 1
+Html length: 2216
+Docid: 276
+URL: http://www.ics.uci.edu/grad/policies/GradPolicies_Grading.php
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 5343
+Html length: 17200
+Docid: 25
+URL: http://www.ics.uci.edu/computing/account/new
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 1707
+Html length: 9591
+Docid: 26
+URL: http://www.ics.uci.edu/grad/resources
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 3057
+Html length: 15887
+Docid: 277
+URL: http://www.ics.uci.edu/grad/policies/GradPolicies_GradStudentReview.php
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 3697
+Html length: 14973
+Docid: 623
+URL: http://cml.ics.uci.edu/?igbNews=deep
+Domain: uci.edu
+Sub-domain: cml.ics
+Text length: 1
+Html length: 2216
+Docid: 335
+URL: http://www.ics.uci.edu/community/news/features/view_feature?id=8
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 5883
+Html length: 18316
+Docid: 415
+URL: http://www.ics.uci.edu/community/news/articles/
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 4468
+Html length: 18741
+Docid: 683
+URL: http://www.ics.uci.edu/ugrad/degrees/degree_in4matx.php
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 9296
+Html length: 22556
+Docid: 506
+URL: http://www.ics.uci.edu/community/news/notes/notes_2012.php
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 38318
+Html length: 66041
+Docid: 580
+URL: http://www.ics.uci.edu/computing/email/mailboss.php
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 1752
+Html length: 8309
+Docid: 416
+URL: http://www.ics.uci.edu/community/news/articles/view_article?id=393
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 3327
+Html length: 15496
+Docid: 336
+URL: http://www.ics.uci.edu/community/news/features/view_feature?id=37
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 13289
+Html length: 27230
+Docid: 624
+URL: http://www.ics.uci.edu/community/news/press/view_press?id=141
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 5863
+Html length: 18276
+Docid: 278
+URL: http://www.ics.uci.edu/grad/policies/GradPolicies_MSThesisOption.php
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 4411
+Html length: 15609
+Docid: 27
+URL: http://www.ics.uci.edu/about/visit/index
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 4092
+Html length: 16672
+Docid: 28
+URL: http://www.ics.uci.edu/ugrad/
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 5785
+Html length: 21784
+Docid: 279
+URL: http://www.ics.uci.edu/grad/policies/GradPolicies_PreviousMSdegree.php
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 3425
+Html length: 14650
+Docid: 625
+URL: http://www.ics.uci.edu/community/news/press/view_press?id=138
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 7836
+Html length: 20865
+Docid: 337
+URL: http://www.ics.uci.edu/community/news/features/view_feature?id=38
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 7322
+Html length: 20761
+Docid: 417
+URL: http://www.ics.uci.edu/community/news/articles/view_article?id=391
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 3099
+Html length: 15273
+Docid: 581
+URL: http://www.ics.uci.edu/computing/email/group_email.php
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 1589
+Html length: 8184
+Docid: 507
+URL: http://www.ics.uci.edu/community/news/notes/notes_2011.php
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 33746
+Html length: 58239
+Docid: 684
+URL: http://www.ics.uci.edu/ugrad/degrees/degree_in4matx_curriculum.php
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 6152
+Html length: 20229
+Docid: 582
+URL: http://www.ics.uci.edu/computing/network/
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 2360
+Html length: 9254
+Docid: 418
+URL: http://www.ics.uci.edu/community/news/articles/view_article?id=390
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 3788
+Html length: 15940
+Docid: 338
+URL: http://www.ics.uci.edu/community/news/features/view_feature?id=40
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 10657
+Html length: 25376
+Docid: 626
+URL: http://cml.ics.uci.edu/?igbNews=ACM
+Domain: uci.edu
+Sub-domain: cml.ics
+Text length: 1
+Html length: 2216
+Docid: 280
+URL: http://www.ics.uci.edu/grad/policies/GradPolicies_ResidencyReqt.php
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 3406
+Html length: 14618
+Docid: 29
+URL: http://www.ics.uci.edu/ugrad/sao/index
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 5262
+Html length: 17735
+Docid: 300
+URL: http://www.ics.uci.edu/~darkhipo/
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 6230
+Html length: 19971
+Docid: 30
+URL: http://www.ics.uci.edu/ugrad/courses/index
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 4772
+Html length: 19122
+Docid: 281
+URL: http://www.ics.uci.edu/grad/policies/GradPolicies_TeachingReqt.php
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 3273
+Html length: 14535
+Docid: 339
+URL: http://www.ics.uci.edu/community/news/features/view_feature?id=41
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 8553
+Html length: 23373
+Docid: 419
+URL: http://www.ics.uci.edu/community/news/articles/view_article?id=388
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 3021
+Html length: 15139
+Fatal transport error: null while fetching https://netreg.ics.uci.edu/ (link found in doc #128)
+Docid: 508
+URL: http://www.ics.uci.edu/community/news/notes/notes_2010.php
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 74938
+Html length: 107742
+Docid: 685
+URL: http://www.informatics.uci.edu/ugrad/ugrad_about.php
+Domain: uci.edu
+Sub-domain: www.informatics
+Text length: 3274
+Html length: 10903
+Docid: 509
+URL: http://www.ics.uci.edu/community/news/notes/notes_2009.php
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 65257
+Html length: 91387
+Docid: 586
+URL: http://www.ics.uci.edu/computing/linux/hosts.php
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 2295
+Html length: 9588
+Docid: 420
+URL: http://www.ics.uci.edu/community/news/articles/view_article?id=389
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 3062
+Html length: 15197
+Docid: 627
+URL: http://cml.ics.uci.edu/?page=about&subPage=news
+Domain: uci.edu
+Sub-domain: cml.ics
+Text length: 3956
+Html length: 14090
+Docid: 340
+URL: http://www.ics.uci.edu/community/news/features/view_feature?id=39
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 8324
+Html length: 21453
+Docid: 282
+URL: http://www.ics.uci.edu/grad/policies/GradPolicies_TransferCredit.php
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 4604
+Html length: 15914
+Docid: 31
+URL: http://www.ics.uci.edu/ugrad/QA_Petitions
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 4267
+Html length: 16741
+Docid: 301
+URL: http://www.ics.uci.edu/~mbannist/
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 3618
+Html length: 12644
+Docid: 32
+URL: http://www.ics.uci.edu/ugrad/degrees/index.php
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 4358
+Html length: 19865
+Docid: 283
+URL: http://www.ics.uci.edu/grad/policies/GradPolicies_SexualHarassment.php
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 4030
+Html length: 15574
+Docid: 341
+URL: http://www.ics.uci.edu/community/news/features/view_feature?id=9
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 7450
+Html length: 21524
+Docid: 628
+URL: http://cml.ics.uci.edu/?page=events&subPage=aiml
+Domain: uci.edu
+Sub-domain: cml.ics
+Text length: 23669
+Html length: 32340
+Docid: 421
+URL: http://www.ics.uci.edu/community/news/articles/view_article?id=387
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 3268
+Html length: 15721
+Docid: 587
+URL: http://www.ics.uci.edu/computing/linux/shell.php
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 2105
+Html length: 8818
+Docid: 536
+URL: http://www.ics.uci.edu/ugrad/degrees/degree_cgs.php
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 7837
+Html length: 20472
+Docid: 686
+URL: http://www.informatics.uci.edu/you/index.php
+Domain: uci.edu
+Sub-domain: www.informatics
+Text length: 1658
+Html length: 9921
+Docid: 588
+URL: http://www.ics.uci.edu/computing/linux/modules.php
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 5872
+Html length: 12683
+Docid: 422
+URL: http://www.ics.uci.edu/community/news/articles/view_article?id=386
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 3174
+Html length: 15550
+Docid: 629
+URL: http://cml.ics.uci.edu/?page=events&subPage=dss_schedule
+Domain: uci.edu
+Sub-domain: cml.ics
+Text length: 5235
+Html length: 10302
+Docid: 342
+URL: http://www.ics.uci.edu/community/news/features/view_feature?id=10
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 3698
+Html length: 16439
+Docid: 311
+URL: http://www.ics.uci.edu/faculty/profiles/view_faculty.php?ucinetid=mjcarey
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 2957
+Html length: 14870
+Docid: 33
+URL: http://www.ics.uci.edu/ugrad/degrees/Minors
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 4448
+Html length: 17891
+Docid: 302
+URL: http://www.ics.uci.edu/~zbecker/
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 186
+Html length: 597
+Docid: 34
+URL: http://www.ics.uci.edu/ugrad/policies/Academic_Integrity
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 6537
+Html length: 19092
+Docid: 312
+URL: http://www.ics.uci.edu/faculty/profiles/view_faculty.php?ucinetid=dvk
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 3038
+Html length: 14962
+Docid: 343
+URL: http://www.ics.uci.edu/community/news/features/view_feature?id=11
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 4239
+Html length: 16896
+Docid: 630
+URL: http://isg.ics.uci.edu/isg.css
+Domain: uci.edu
+Sub-domain: isg.ics
+Text length: 5990
+Html length: 6088
+Docid: 423
+URL: http://www.ics.uci.edu/community/news/articles/view_article?id=385
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 2974
+Html length: 15048
+Docid: 589
+URL: http://www.ics.uci.edu/computing/linux/security.php
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 2320
+Html length: 9074
+Docid: 537
+URL: http://frost.ics.uci.edu/ics161/
+Domain: uci.edu
+Sub-domain: frost.ics
+Text length: 941
+Html length: 2384
+Docid: 687
+URL: http://www.informatics.uci.edu/ugrad/ugrad_isthis.php
+Domain: uci.edu
+Sub-domain: www.informatics
+Text length: 2556
+Html length: 9891
+Docid: 538
+URL: http://frost.ics.uci.edu/cs113/
+Domain: uci.edu
+Sub-domain: frost.ics
+Text length: 6092
+Html length: 9252
+Docid: 590
+URL: http://www.ics.uci.edu/computing/linux/gsu.php
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 2052
+Html length: 8733
+Docid: 424
+URL: http://www.ics.uci.edu/community/news/articles/view_article?id=384
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 3157
+Html length: 15242
+Docid: 631
+URL: http://www.ics.uci.edu/~rares/isg-logo/
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 1250
+Html length: 4023
+Docid: 344
+URL: http://www.ics.uci.edu/community/news/features/view_feature?id=13
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 7942
+Html length: 22573
+Docid: 313
+URL: http://www.ics.uci.edu/faculty/profiles/view_faculty.php?ucinetid=chenli
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 2957
+Html length: 14869
+Docid: 35
+URL: http://www.ics.uci.edu/ugrad/policies/Academic_Standing
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 6160
+Html length: 18392
+Docid: 303
+URL: http://www.ics.uci.edu/~wdevanny/
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 1524
+Html length: 3865
+Docid: 36
+URL: http://www.ics.uci.edu/ugrad/policies/Add_Drop_ChangeOption
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 6673
+Html length: 19872
+Docid: 314
+URL: http://www.ics.uci.edu/faculty/profiles/view_faculty.php?ucinetid=smehrotr
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 3345
+Html length: 15264
+Docid: 345
+URL: http://www.ics.uci.edu/community/news/features/view_feature?id=12
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 10002
+Html length: 23788
+Docid: 632
+URL: http://isg.ics.uci.edu/index.html
+Domain: uci.edu
+Sub-domain: isg.ics
+Text length: 4422
+Html length: 6898
+Docid: 425
+URL: http://www.ics.uci.edu/community/news/articles/view_article?id=382
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 3090
+Html length: 15164
+Docid: 591
+URL: http://www.ics.uci.edu/computing/linux/sge.php
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 12769
+Html length: 20906
+Docid: 688
+URL: http://www.informatics.uci.edu/ugrad/ugrad_careers.php
+Domain: uci.edu
+Sub-domain: www.informatics
+Text length: 2144
+Html length: 9637
+Docid: 542
+URL: http://calendar.ics.uci.edu/themes/bren.css
+Domain: uci.edu
+Sub-domain: calendar.ics
+Text length: 8829
+Html length: 8830
+Docid: 426
+URL: http://www.ics.uci.edu/community/news/articles/view_article?id=383
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 3374
+Html length: 15491
+Docid: 346
+URL: http://www.ics.uci.edu/community/news/features/view_feature?id=42
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 3689
+Html length: 16222
+Docid: 457
+URL: http://www.ics.uci.edu/ugrad/policies/Readmission_AP.php
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 3724
+Html length: 15412
+Docid: 37
+URL: http://www.ics.uci.edu/ugrad/policies/Course_Outside_UCI
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 4002
+Html length: 16364
+Docid: 304
+URL: http://www.ics.uci.edu/~jlam2/
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 712
+Html length: 2154
+Docid: 38
+URL: http://www.ics.uci.edu/ugrad/policies/Grade_Options
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 5057
+Html length: 20114
+Docid: 458
+URL: http://www.ics.uci.edu/ugrad/policies/Readmission_DQ.php
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 4823
+Html length: 16798
+Docid: 347
+URL: http://www.ics.uci.edu/community/news/features/view_feature?id=44
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 5776
+Html length: 21250
+Docid: 427
+URL: http://www.ics.uci.edu/community/news/articles/view_article?id=380
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 3190
+Html length: 15305
+Docid: 593
+URL: http://www.ics.uci.edu/computing/services/printing.php
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 1475
+Html length: 8059
+Docid: 543
+URL: http://calendar.ics.uci.edu/themes/default_print.css
+Domain: uci.edu
+Sub-domain: calendar.ics
+Text length: 9121
+Html length: 9124
+Docid: 689
+URL: http://www.informatics.uci.edu/qa/index.php
+Domain: uci.edu
+Sub-domain: www.informatics
+Text length: 13953
+Html length: 27314
+Docid: 544
+URL: http://calendar.ics.uci.edu/search.php?calendar=1&category
+Domain: uci.edu
+Sub-domain: calendar.ics
+Text length: 877
+Html length: 7650
+Docid: 594
+URL: http://www.ics.uci.edu/computing/services/msoffice.php
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 1559
+Html length: 7973
+Docid: 428
+URL: http://www.ics.uci.edu/community/news/articles/view_article?id=381
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 3161
+Html length: 15277
+Docid: 633
+URL: http://isg.ics.uci.edu/news.html
+Domain: uci.edu
+Sub-domain: isg.ics
+Text length: 22478
+Html length: 28724
+Docid: 348
+URL: http://www.ics.uci.edu/community/news/features/view_feature?id=14
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 8965
+Html length: 24702
+Docid: 463
+URL: http://www.ics.uci.edu/faculty/profiles/view_faculty.php?ucinetid=elzarki
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 3250
+Html length: 15165
+Docid: 39
+URL: http://www.ics.uci.edu/ugrad/policies/Laptop_ComputerUse
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 4878
+Html length: 17626
+Docid: 305
+URL: http://www.ics.uci.edu/~theory/doctorates.html
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 2449
+Html length: 6531
+Docid: 40
+URL: http://www.ics.uci.edu/ugrad/policies/Withdrawal_Readmission
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 5732
+Html length: 18253
+Docid: 464
+URL: http://www.ics.uci.edu/faculty/profiles/view_faculty.php?ucinetid=nalini
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 3345
+Html length: 15260
+Docid: 349
+URL: http://www.ics.uci.edu/community/news/features/view_feature?id=15
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 10331
+Html length: 26235
+Docid: 634
+URL: http://isg.ics.uci.edu/people.html
+Domain: uci.edu
+Sub-domain: isg.ics
+Text length: 6158
+Html length: 16066
+Docid: 429
+URL: http://www.ics.uci.edu/community/news/articles/view_article?id=377
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 2959
+Html length: 15009
+Docid: 596
+URL: http://www.ics.uci.edu/computing/services/sophos_mac.php
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 3040
+Html length: 9879
+Docid: 545
+URL: http://calendar.ics.uci.edu/download.php?calendar=1&category&fromDate=2015-01-01&toDate=2015-01-31
+Domain: uci.edu
+Sub-domain: calendar.ics
+Text length: 1160
+Html length: 7253
+Docid: 690
+URL: http://www.ics.uci.edu/ugrad/policies/index.php
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 3269
+Html length: 16661
+Docid: 546
+URL: http://calendar.ics.uci.edu/account.php?action=login
+Domain: uci.edu
+Sub-domain: calendar.ics
+Text length: 250
+Html length: 2502
+Docid: 430
+URL: http://www.ics.uci.edu/community/news/articles/view_article?id=378
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 3050
+Html length: 15099
+Docid: 350
+URL: http://www.ics.uci.edu/community/news/features/view_feature?id=16
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 6480
+Html length: 20048
+Docid: 486
+URL: http://www.ics.uci.edu/ugrad/QA_After_Graduation.php
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 4201
+Html length: 16833
+Docid: 41
+URL: http://www.ics.uci.edu/ugrad/QA_Graduation
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 7504
+Html length: 22647
+Docid: 306
+URL: http://www.ics.uci.edu/~theory/research.html
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 7020
+Html length: 7506
+Docid: 42
+URL: http://www.ics.uci.edu/ugrad/resources/index
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 5967
+Html length: 20010
+Docid: 498
+URL: http://www.ics.uci.edu/ugrad/resources/
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 5967
+Html length: 20010
+Docid: 351
+URL: http://www.ics.uci.edu/community/news/features/view_feature?id=43
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 7599
+Html length: 20810
+Docid: 431
+URL: http://www.ics.uci.edu/community/news/articles/view_article?id=379
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 2985
+Html length: 15064
+Docid: 597
+URL: http://www.ics.uci.edu/computing/services/msdnaa_faq.php
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 6629
+Html length: 14542
+Docid: 691
+URL: http://www.ics.uci.edu/ugrad/financial/index.php
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 6861
+Html length: 19969
+Docid: 413
+URL: http://www.ics.uci.edu/community/news/articles/view_article?id=75
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 4509
+Html length: 16479
+Docid: 547
+URL: http://calendar.ics.uci.edu/calendar.php?calendar=1&category&day=1&month=12&type=month&year=2014
+Domain: uci.edu
+Sub-domain: calendar.ics
+Text length: 7863
+Html length: 61646
+Docid: 598
+URL: http://www.ics.uci.edu/computing/services/snapshot.php
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 2704
+Html length: 9575
+Docid: 432
+URL: http://www.ics.uci.edu/community/news/articles/view_article?id=376
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 3277
+Html length: 15404
+Docid: 352
+URL: http://www.ics.uci.edu/community/news/features/view_feature?id=17
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 6865
+Html length: 19908
+Docid: 499
+URL: http://www.ics.uci.edu/ugrad/resources/Campus_Resources.php
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 3009
+Html length: 16101
+Docid: 353
+URL: http://www.ics.uci.edu/community/news/features/view_feature?id=18
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 3584
+Html length: 15958
+Docid: 635
+URL: http://isg.ics.uci.edu/research.html
+Domain: uci.edu
+Sub-domain: isg.ics
+Text length: 7673
+Html length: 12573
+Docid: 599
+URL: http://www.ics.uci.edu/computing/services/restore.php
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 1903
+Html length: 8468
+Docid: 414
+URL: http://www.ics.uci.edu/community/news/articles/view_article?id=76
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 4937
+Html length: 17096
+Docid: 548
+URL: http://calendar.ics.uci.edu/calendar.php?calendar=1&category&day=1&month=12&type=day&year=2014
+Domain: uci.edu
+Sub-domain: calendar.ics
+Text length: 4081
+Html length: 39525
+Docid: 711
+URL: http://www.informatics.uci.edu/grad/grad_ict.php
+Domain: uci.edu
+Sub-domain: www.informatics
+Text length: 2815
+Html length: 9827
+Docid: 549
+URL: http://calendar.ics.uci.edu/calendar.php?calendar=1&category&day=4&month=12&type=day&year=2014
+Domain: uci.edu
+Sub-domain: calendar.ics
+Text length: 4025
+Html length: 39425
+Docid: 600
+URL: http://www.ics.uci.edu/computing/quarterlyAnnouncement/index.php
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 1111
+Html length: 7670
+Docid: 636
+URL: http://isg.ics.uci.edu/publications.html
+Domain: uci.edu
+Sub-domain: isg.ics
+Text length: 22011
+Html length: 26888
+Docid: 354
+URL: http://www.ics.uci.edu/community/news/features/view_feature?id=19
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 4969
+Html length: 18462
+Docid: 44
+URL: http://www.ics.uci.edu/faculty/
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 33836
+Html length: 109732
+Docid: 309
+URL: http://www.ics.uci.edu/grad/qa/index.php
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 10485
+Html length: 24412
+Docid: 45
+URL: http://www.ics.uci.edu/about/search/index.php
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 3420
+Html length: 17123
+Docid: 500
+URL: http://www.ics.uci.edu/ugrad/resources/ICS_StudentOrgs.php
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 5373
+Html length: 18038
+Docid: 355
+URL: http://www.ics.uci.edu/community/news/features/view_feature?id=21
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 4984
+Html length: 17268
+Docid: 637
+URL: http://isg.ics.uci.edu/events.html
+Domain: uci.edu
+Sub-domain: isg.ics
+Text length: 186906
+Html length: 267386
+Docid: 601
+URL: http://www.ics.uci.edu/computing/web/personalpage.php
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 6424
+Html length: 13999
+Docid: 161
+URL: http://www.ics.uci.edu/grad/admissions/Prospective_ApplicationProcess.php
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 6798
+Html length: 20325
+Docid: 550
+URL: http://calendar.ics.uci.edu/calendar.php?calendar=1&category&day=5&month=12&type=day&year=2014
+Domain: uci.edu
+Sub-domain: calendar.ics
+Text length: 4466
+Html length: 44106
+Docid: 712
+URL: http://www.informatics.uci.edu/grad/grad_sw.php
+Domain: uci.edu
+Sub-domain: www.informatics
+Text length: 2616
+Html length: 9781
+Docid: 162
+URL: http://www.ics.uci.edu/grad/funding/NEW_index.php
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 4127
+Html length: 15921
+Docid: 551
+URL: http://calendar.ics.uci.edu/calendar.php?calendar=1&category&day=12&month=12&type=day&year=2014
+Domain: uci.edu
+Sub-domain: calendar.ics
+Text length: 4325
+Html length: 41887
+Docid: 602
+URL: http://www.ics.uci.edu/computing/web/faqs.php
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 4577
+Html length: 12758
+Docid: 439
+URL: http://mondego.ics.uci.edu/
+Domain: uci.edu
+Sub-domain: mondego.ics
+Text length: 3341
+Html length: 11424
+Docid: 356
+URL: http://www.ics.uci.edu/community/news/features/view_feature?id=45
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 8492
+Html length: 21112
+Docid: 510
+URL: http://www.ics.uci.edu/faculty/profiles/view_faculty.php?ucinetid=lbic
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 3260
+Html length: 15169
+Docid: 310
+URL: http://www.ics.uci.edu/grad/sao/index.php
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 4992
+Html length: 17705
+Docid: 46
+URL: http://www.ics.uci.edu/about/search/search_graduate_all.php
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 12624
+Html length: 81949
+Docid: 357
+Docid: 511
+URL: http://www.ics.uci.edu/community/news/features/view_feature?id=20
+Domain: uci.edu
+Sub-domain: www.ics
+URL: http://www.ics.uci.edu/faculty/profiles/view_faculty.php?ucinetid=franz
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 4221
+Html length: 17209
+Text length: 3268
+Html length: 15228
+Docid: 638
+URL: http://isg.ics.uci.edu/courses.html
+Domain: uci.edu
+Sub-domain: isg.ics
+Text length: 8495
+Html length: 12334
+Docid: 603
+URL: http://www.ics.uci.edu/computing/policy/
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 2286
+Html length: 9493
+Docid: 187
+URL: http://www.ics.uci.edu/community/news/articles/view_article?id=21
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 5237
+Html length: 17224
+Docid: 552
+URL: http://calendar.ics.uci.edu/calendar.php?calendar=1&category&day=19&month=12&type=day&year=2014
+Domain: uci.edu
+Sub-domain: calendar.ics
+Text length: 3974
+Html length: 38162
+Docid: 713
+URL: http://www.informatics.uci.edu/grad/grad_general.php
+Domain: uci.edu
+Sub-domain: www.informatics
+Text length: 2825
+Html length: 9881
+Docid: 188
+URL: http://www.ics.uci.edu/community/news/articles/view_article?id=22
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 5484
+Html length: 17492
+Docid: 553
+URL: http://calendar.ics.uci.edu/calendar.php?calendar=1&category&month=12&type=month&year=2014
+Domain: uci.edu
+Sub-domain: calendar.ics
+Text length: 7863
+Html length: 61646
+Docid: 604
+URL: http://www.ics.uci.edu/computing/policy/ethics_summary.php
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 2329
+Html length: 8999
+Docid: 461
+URL: http://sconce.ics.uci.edu/
+Domain: uci.edu
+Sub-domain: sconce.ics
+Text length: 691
+Html length: 6804
+Docid: 639
+URL: http://isg.ics.uci.edu/partnerships.html
+Domain: uci.edu
+Sub-domain: isg.ics
+Text length: 195
+Html length: 3724
+Docid: 512
+URL: http://www.ics.uci.edu/faculty/profiles/view_faculty.php?ucinetid=sjordan
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 2976
+Html length: 14889
+Docid: 358
+URL: http://www.ics.uci.edu/community/news/features/view_feature?id=22
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 4453
+Html length: 18695
+Docid: 47
+URL: http://www.ics.uci.edu/community/alumni/
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 3897
+Html length: 16289
+Docid: 48
+URL: http://www.ics.uci.edu/community/friends/
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 4623
+Html length: 16819
+Docid: 359
+URL: http://www.ics.uci.edu/community/news/features/view_feature?id=47
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 6844
+Html length: 19327
+Docid: 515
+URL: http://www.ics.uci.edu/faculty/profiles/view_faculty.php?ucinetid=lopes
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 3198
+Html length: 15117
+Docid: 640
+URL: http://isg.ics.uci.edu/visitors.html
+Domain: uci.edu
+Sub-domain: isg.ics
+Text length: 1158
+Html length: 2599
+Docid: 605
+URL: http://www.ics.uci.edu/computing/contact/
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 1507
+Html length: 7998
+Docid: 219
+URL: http://www.ics.uci.edu/ugrad/degrees/
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 4358
+Html length: 19865
+Docid: 554
+URL: http://calendar.ics.uci.edu/calendar.php?calendar=1&category&month=02&type=month&year=2015
+Domain: uci.edu
+Sub-domain: calendar.ics
+Text length: 7861
+Html length: 61532
+Docid: 714
+URL: http://www.informatics.uci.edu/grad/grad_advisor.php
+Domain: uci.edu
+Sub-domain: www.informatics
+Text length: 2375
+Html length: 9325
+Docid: 221
+URL: http://www.ics.uci.edu/ugrad/degrees/Second_BA_CS.php
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 4432
+Html length: 16469
+Docid: 555
+URL: http://calendar.ics.uci.edu/calendar.php?calendar=1&category&day=1&month=02&type=month&year=2015
+Domain: uci.edu
+Sub-domain: calendar.ics
+Text length: 7861
+Html length: 61532
+Docid: 606
+URL: http://www.ics.uci.edu/computing/contact/helpdesk.php
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 4348
+Html length: 11584
+Docid: 641
+URL: http://isg.ics.uci.edu/isg_photo.html
+Domain: uci.edu
+Sub-domain: isg.ics
+Text length: 672
+Html length: 975
+Docid: 516
+URL: http://www.ics.uci.edu/faculty/profiles/view_faculty.php?ucinetid=guoqingx
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 3129
+Html length: 15046
+Docid: 360
+URL: http://www.ics.uci.edu/community/news/features/view_feature?id=46
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 4161
+Html length: 16602
+Docid: 49
+URL: http://www.ics.uci.edu/community/friends/leadershipcouncil/
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 10623
+Html length: 27634
+Docid: 315
+URL: http://ironwood.ics.uci.edu/
+Domain: uci.edu
+Sub-domain: ironwood.ics
+Docid: 50
+URL: http://www.ics.uci.edu/community/news/
+Domain: uci.edu
+Text length: 2250
+Html length: 15770
+Sub-domain: www.ics
+Text length: 3588
+Html length: 15477
+Docid: 361
+URL: http://www.ics.uci.edu/community/news/features/view_feature?id=23
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 6810
+Html length: 20365
+Docid: 1506
+URL: http://www.ics.uci.edu/faculty/profiles/view_faculty.php?ucinetid=gbowker
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 2968
+Html length: 14881
+Docid: 465
+URL: http://asterix.ics.uci.edu/
+Domain: uci.edu
+Sub-domain: asterix.ics
+Text length: 2957
+Html length: 7299
+Docid: 607
+URL: http://www.ics.uci.edu/computing/contact/staff.php
+Domain: uci.edu
+Sub-domain: www.ics
+Text length: 2251
+Html length: 9527

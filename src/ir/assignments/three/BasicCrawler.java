@@ -47,9 +47,25 @@ public class BasicCrawler extends WebCrawler {
     @Override
     public boolean shouldVisit(WebURL url) {
         String href = url.getURL().toLowerCase();
+        String domain = url.getDomain();
+        String subdomain = url.getSubDomain();
+        String compareURL;
+
+//        System.out.println("-------------------");
+//        System.out.println("href --> " + href);
+//        System.out.println("domain: " + domain);
+//        System.out.println("subdomain: " + subdomain);
+
+        if (subdomain.isEmpty()) {
+            compareURL = domain;
+        }
+        else {
+            compareURL = subdomain + "." + domain;
+        }
 
 //        return !BINARY_FILES_EXTENSIONS.matcher(href).matches() && href.startsWith("http://www.ics.uci.edu/");
-        return !BINARY_FILES_EXTENSIONS.matcher(href).matches() && href.startsWith("http://ntt2k.technology/");
+        return !BINARY_FILES_EXTENSIONS.matcher(href).matches() && compareURL.endsWith("ics.uci.edu");
+
     }
 
     /**
