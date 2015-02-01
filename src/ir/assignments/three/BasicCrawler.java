@@ -40,6 +40,9 @@ public class BasicCrawler extends WebCrawler {
                     "|zip|rar|gz|7z|aac|ace|alz|apk|arc|arj|dmg|jar|lzip|lha)" +
                     "(\\?.*)?$"); // For url Query parts ( URL?q=... )
 
+    private static boolean checkCalendar = true;
+    private static boolean checkArchive = true;
+
     /**
      * You should implement this function to specify whether the given url
      * should be crawled or not (based on your crawling logic).
@@ -51,10 +54,12 @@ public class BasicCrawler extends WebCrawler {
         String subdomain = url.getSubDomain();
         String compareURL;
 
+        // DEBUG MESSAGE
 //        System.out.println("-------------------");
 //        System.out.println("href --> " + href);
 //        System.out.println("domain: " + domain);
 //        System.out.println("subdomain: " + subdomain);
+//        System.out.println("checkCalendar = " + checkCalendar);
 
         if (subdomain.isEmpty()) {
             compareURL = domain;
@@ -63,8 +68,51 @@ public class BasicCrawler extends WebCrawler {
             compareURL = subdomain + "." + domain;
         }
 
-//        return !BINARY_FILES_EXTENSIONS.matcher(href).matches() && href.startsWith("http://www.ics.uci.edu/");
-        return !BINARY_FILES_EXTENSIONS.matcher(href).matches() && compareURL.endsWith("ics.uci.edu");
+//        return !BINARY_FILES_EXTENSIONS.matcher(href).matches() && compareURL.endsWith("ics.uci.edu");
+
+//        if (checkCalendar == true) {
+//
+//            if (compareURL.equalsIgnoreCase("calendar.ics.uci.edu")) {
+//                checkCalendar = false;
+//                return !BINARY_FILES_EXTENSIONS.matcher(href).matches();
+//            }
+//            else {
+//                return !BINARY_FILES_EXTENSIONS.matcher(href).matches() && compareURL.endsWith("ics.uci.edu");
+//            }
+//        }
+//        else {
+//
+//            if (compareURL.equalsIgnoreCase("calendar.ics.uci.edu")) {
+//                return false;
+//            }
+//            else {
+//                return !BINARY_FILES_EXTENSIONS.matcher(href).matches() && compareURL.endsWith("ics.uci.edu");
+//            }
+//        }
+
+        switch (compareURL) {
+            case "calendar.ics.uci.edu":
+
+                if (checkCalendar == true) {
+                    checkCalendar = false;
+                    return !BINARY_FILES_EXTENSIONS.matcher(href).matches();
+                }
+                else
+                    return false;
+
+            case "archive.ics.uci.edu":
+
+                if (checkArchive == true) {
+                    checkArchive = false;
+                    return !BINARY_FILES_EXTENSIONS.matcher(href).matches();
+                }
+                else
+                    return false;
+
+            default:
+
+                return !BINARY_FILES_EXTENSIONS.matcher(href).matches() && compareURL.endsWith("ics.uci.edu");
+        }
 
     }
 
