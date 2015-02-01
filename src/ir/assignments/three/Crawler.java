@@ -126,7 +126,7 @@ public class Crawler {
 
     public static void main(String[] args) {
 
-        String targetURL = "http://ntt2k.technology/";
+        String targetURL = "http://www.ics.uci.edu";
 
         if (args.length != 2) {
             logger.info("Needed parameters: ");
