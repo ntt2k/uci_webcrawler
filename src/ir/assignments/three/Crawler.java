@@ -6,7 +6,7 @@ import java.util.Collection;
 import java.util.Scanner;
 
 //import java.util.HashSet;
-//import java.util.List;
+import java.util.List;
 
 import edu.uci.ics.crawler4j.crawler.CrawlConfig;
 import edu.uci.ics.crawler4j.crawler.CrawlController;
@@ -156,6 +156,13 @@ public class Crawler {
             System.err.println("Error setting the targetURL to crawl: \"" + targetURL + "\"");
             System.exit(-2);
         }
+
+        // Common words part
+        File file = new File("allText.txt");
+        List<String> words = Utilities.tokenizeFile(file);
+        WordFrequencyCounter.computeWordFrequencies(words);
+        List<Frequency> frequencies = WordFrequencyCounter.computeWordFrequencies(words);
+        Utilities.printFrequencies(frequencies);
 
     }
 }

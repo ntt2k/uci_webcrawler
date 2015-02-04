@@ -1,4 +1,5 @@
 package ir.assignments.three;
+import java.io.*;
 
 /**
  * Licensed to the Apache Software Foundation (ASF) under one or more
@@ -28,7 +29,7 @@ import java.util.List;
 import java.util.regex.Pattern;
 //import java.lang.Throwable;
 
-import org.apache.http.Header;
+//import org.apache.http.Header;
 
 
 public class BasicCrawler extends WebCrawler {
@@ -42,6 +43,8 @@ public class BasicCrawler extends WebCrawler {
 
     private static boolean checkCalendar = true;
     private static boolean checkArchive = true;
+    private static boolean checkWics = true;
+    private static boolean checkDrzaius = true;
 
     /**
      * You should implement this function to specify whether the given url
@@ -109,6 +112,24 @@ public class BasicCrawler extends WebCrawler {
                 else
                     return false;
 
+            case "wics.ics.uci.edu":
+
+                if (checkWics == true) {
+                    checkWics = false;
+                    return !BINARY_FILES_EXTENSIONS.matcher(href).matches();
+                }
+                else
+                    return false;
+
+            case "drzaius.ics.uci.edu":
+
+                if (checkDrzaius == true) {
+                    checkDrzaius = false;
+                    return !BINARY_FILES_EXTENSIONS.matcher(href).matches();
+                }
+                else
+                    return false;
+
             default:
 
                 return !BINARY_FILES_EXTENSIONS.matcher(href).matches() && compareURL.endsWith("ics.uci.edu");
@@ -163,6 +184,19 @@ public class BasicCrawler extends WebCrawler {
             System.out.println("Text length: " + text.length());
             System.out.println("Html length: " + html.length());
 //            System.out.println("Number of outgoing links: " + links.size());
+
+            try {
+
+                FileWriter writer = new FileWriter("allText.txt",true); //the true will append the new data
+                writer.write(text);
+                writer.close();
+
+            }
+            catch(IOException ex) {
+                System.out.println("Error writing to file allText.txt");
+                // Or we could just do this:
+                // ex.printStackTrace();
+            }
         }
 
 //        Header[] responseHeaders = page.getFetchResponseHeaders();
@@ -179,6 +213,8 @@ public class BasicCrawler extends WebCrawler {
 //        }
 
         logger.debug("===================================");
+
+
     }
 }
 
